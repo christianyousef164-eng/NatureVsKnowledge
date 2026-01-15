@@ -1,0 +1,3569 @@
+Job,Your Color,Burnout Risk Score,Burnout Reason
+Accountants and Auditors,BLUE,0,Natural Fit
+Accountants and Auditors,RED,0,Natural Fit
+Accountants and Auditors,WHITE,0,Natural Fit
+Accountants and Auditors,YELLOW,0,Natural Fit
+Actors,BLUE,0,Natural Fit
+Actors,RED,0,Natural Fit
+Actors,WHITE,0,Natural Fit
+Actors,YELLOW,0,Natural Fit
+Actuaries,BLUE,0,Natural Fit
+Actuaries,RED,0,Natural Fit
+Actuaries,WHITE,0,Natural Fit
+Actuaries,YELLOW,0,Natural Fit
+Acupuncturists,BLUE,0,Natural Fit
+Acupuncturists,RED,0,Natural Fit
+Acupuncturists,WHITE,0,Natural Fit
+Acupuncturists,YELLOW,0,Natural Fit
+Acute Care Nurses,BLUE,0.264,High WHITE
+Acute Care Nurses,RED,0.363,High WHITE
+Acute Care Nurses,WHITE,0,Natural Fit
+Acute Care Nurses,YELLOW,0.374,High WHITE
+Adapted Physical Education Specialists,BLUE,0,Natural Fit
+Adapted Physical Education Specialists,RED,0.298,High BLUE
+Adapted Physical Education Specialists,WHITE,0.367,High BLUE
+Adapted Physical Education Specialists,YELLOW,0.322,High BLUE
+Adhesive Bonding Machine Operators and Tenders,BLUE,0,Natural Fit
+Adhesive Bonding Machine Operators and Tenders,RED,0,Natural Fit
+Adhesive Bonding Machine Operators and Tenders,WHITE,0,Natural Fit
+Adhesive Bonding Machine Operators and Tenders,YELLOW,0,Natural Fit
+"Administrative Law Judges, Adjudicators, and Hearing Officers",BLUE,0,Natural Fit
+"Administrative Law Judges, Adjudicators, and Hearing Officers",RED,0,Natural Fit
+"Administrative Law Judges, Adjudicators, and Hearing Officers",WHITE,0,Natural Fit
+"Administrative Law Judges, Adjudicators, and Hearing Officers",YELLOW,0,Natural Fit
+Administrative Services Managers,BLUE,0,Natural Fit
+Administrative Services Managers,RED,0,Natural Fit
+Administrative Services Managers,WHITE,0,Natural Fit
+Administrative Services Managers,YELLOW,0,Natural Fit
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",BLUE,0,Natural Fit
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",RED,0,Natural Fit
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",WHITE,0,Natural Fit
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",YELLOW,0,Natural Fit
+Advanced Practice Psychiatric Nurses,BLUE,0.307,High WHITE
+Advanced Practice Psychiatric Nurses,RED,0.486,High BLUE / High WHITE
+Advanced Practice Psychiatric Nurses,WHITE,0.489,High BLUE / High WHITE / High YELLOW
+Advanced Practice Psychiatric Nurses,YELLOW,0.509,High BLUE / High WHITE
+Advertising and Promotions Managers,BLUE,0,Natural Fit
+Advertising and Promotions Managers,RED,0,Natural Fit
+Advertising and Promotions Managers,WHITE,0.239,High RED
+Advertising and Promotions Managers,YELLOW,0,Natural Fit
+Advertising Sales Agents,BLUE,0,Natural Fit
+Advertising Sales Agents,RED,0,Natural Fit
+Advertising Sales Agents,WHITE,0,Natural Fit
+Advertising Sales Agents,YELLOW,0,Natural Fit
+Aerospace Engineering and Operations Technologists and Technicians,BLUE,0,Natural Fit
+Aerospace Engineering and Operations Technologists and Technicians,RED,0,Natural Fit
+Aerospace Engineering and Operations Technologists and Technicians,WHITE,0,Natural Fit
+Aerospace Engineering and Operations Technologists and Technicians,YELLOW,0,Natural Fit
+Aerospace Engineers,BLUE,0,Natural Fit
+Aerospace Engineers,RED,0,Natural Fit
+Aerospace Engineers,WHITE,0,Natural Fit
+Aerospace Engineers,YELLOW,0,Natural Fit
+"Agents and Business Managers of Artists, Performers, and Athletes",BLUE,0,Natural Fit
+"Agents and Business Managers of Artists, Performers, and Athletes",RED,0,Natural Fit
+"Agents and Business Managers of Artists, Performers, and Athletes",WHITE,0.352,High RED
+"Agents and Business Managers of Artists, Performers, and Athletes",YELLOW,0,Natural Fit
+Agricultural Engineers,BLUE,0,Natural Fit
+Agricultural Engineers,RED,0,Natural Fit
+Agricultural Engineers,WHITE,0,Natural Fit
+Agricultural Engineers,YELLOW,0,Natural Fit
+Agricultural Equipment Operators,BLUE,0,Natural Fit
+Agricultural Equipment Operators,RED,0,Natural Fit
+Agricultural Equipment Operators,WHITE,0,Natural Fit
+Agricultural Equipment Operators,YELLOW,0,Natural Fit
+Agricultural Inspectors,BLUE,0,Natural Fit
+Agricultural Inspectors,RED,0,Natural Fit
+Agricultural Inspectors,WHITE,0,Natural Fit
+Agricultural Inspectors,YELLOW,0,Natural Fit
+"Agricultural Sciences Teachers, Postsecondary",BLUE,0,Natural Fit
+"Agricultural Sciences Teachers, Postsecondary",RED,0,Natural Fit
+"Agricultural Sciences Teachers, Postsecondary",WHITE,0,Natural Fit
+"Agricultural Sciences Teachers, Postsecondary",YELLOW,0,Natural Fit
+Agricultural Technicians,BLUE,0,Natural Fit
+Agricultural Technicians,RED,0,Natural Fit
+Agricultural Technicians,WHITE,0,Natural Fit
+Agricultural Technicians,YELLOW,0,Natural Fit
+Air Traffic Controllers,BLUE,0,Natural Fit
+Air Traffic Controllers,RED,0.294,High WHITE
+Air Traffic Controllers,WHITE,0,Natural Fit
+Air Traffic Controllers,YELLOW,0.305,High WHITE
+Aircraft Cargo Handling Supervisors,BLUE,0,Natural Fit
+Aircraft Cargo Handling Supervisors,RED,0,Natural Fit
+Aircraft Cargo Handling Supervisors,WHITE,0,Natural Fit
+Aircraft Cargo Handling Supervisors,YELLOW,0,Natural Fit
+Aircraft Mechanics and Service Technicians,BLUE,0,Natural Fit
+Aircraft Mechanics and Service Technicians,RED,0,Natural Fit
+Aircraft Mechanics and Service Technicians,WHITE,0,Natural Fit
+Aircraft Mechanics and Service Technicians,YELLOW,0,Natural Fit
+Aircraft Service Attendants,BLUE,0,Natural Fit
+Aircraft Service Attendants,RED,0,Natural Fit
+Aircraft Service Attendants,WHITE,0,Natural Fit
+Aircraft Service Attendants,YELLOW,0,Natural Fit
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",BLUE,0,Natural Fit
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",RED,0,Natural Fit
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",WHITE,0,Natural Fit
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",YELLOW,0,Natural Fit
+Airfield Operations Specialists,BLUE,0,Natural Fit
+Airfield Operations Specialists,RED,0,Natural Fit
+Airfield Operations Specialists,WHITE,0,Natural Fit
+Airfield Operations Specialists,YELLOW,0,Natural Fit
+"Airline Pilots, Copilots, and Flight Engineers",BLUE,0,Natural Fit
+"Airline Pilots, Copilots, and Flight Engineers",RED,0.292,High WHITE
+"Airline Pilots, Copilots, and Flight Engineers",WHITE,0,Natural Fit
+"Airline Pilots, Copilots, and Flight Engineers",YELLOW,0.303,High WHITE
+Allergists and Immunologists,BLUE,0,Natural Fit
+Allergists and Immunologists,RED,0,Natural Fit
+Allergists and Immunologists,WHITE,0,Natural Fit
+Allergists and Immunologists,YELLOW,0,Natural Fit
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",BLUE,0,Natural Fit
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",RED,0,Natural Fit
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",WHITE,0,Natural Fit
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",YELLOW,0,Natural Fit
+Amusement and Recreation Attendants,BLUE,0,Natural Fit
+Amusement and Recreation Attendants,RED,0,Natural Fit
+Amusement and Recreation Attendants,WHITE,0,Natural Fit
+Amusement and Recreation Attendants,YELLOW,0,Natural Fit
+Anesthesiologist Assistants,BLUE,0.207,High WHITE
+Anesthesiologist Assistants,RED,0.306,High WHITE
+Anesthesiologist Assistants,WHITE,0,Natural Fit
+Anesthesiologist Assistants,YELLOW,0.317,High WHITE
+Anesthesiologists,BLUE,0.242,High WHITE
+Anesthesiologists,RED,0.341,High WHITE
+Anesthesiologists,WHITE,0.269,High YELLOW
+Anesthesiologists,YELLOW,0.352,High WHITE
+Animal Breeders,BLUE,0,Natural Fit
+Animal Breeders,RED,0,Natural Fit
+Animal Breeders,WHITE,0,Natural Fit
+Animal Breeders,YELLOW,0,Natural Fit
+Animal Caretakers,BLUE,0,Natural Fit
+Animal Caretakers,RED,0,Natural Fit
+Animal Caretakers,WHITE,0,Natural Fit
+Animal Caretakers,YELLOW,0,Natural Fit
+Animal Control Workers,BLUE,0,Natural Fit
+Animal Control Workers,RED,0,Natural Fit
+Animal Control Workers,WHITE,0,Natural Fit
+Animal Control Workers,YELLOW,0,Natural Fit
+Animal Scientists,BLUE,0,Natural Fit
+Animal Scientists,RED,0,Natural Fit
+Animal Scientists,WHITE,0,Natural Fit
+Animal Scientists,YELLOW,0,Natural Fit
+Animal Trainers,BLUE,0,Natural Fit
+Animal Trainers,RED,0,Natural Fit
+Animal Trainers,WHITE,0,Natural Fit
+Animal Trainers,YELLOW,0,Natural Fit
+Anthropologists and Archeologists,BLUE,0,Natural Fit
+Anthropologists and Archeologists,RED,0,Natural Fit
+Anthropologists and Archeologists,WHITE,0,Natural Fit
+Anthropologists and Archeologists,YELLOW,0,Natural Fit
+"Anthropology and Archeology Teachers, Postsecondary",BLUE,0,Natural Fit
+"Anthropology and Archeology Teachers, Postsecondary",RED,0,Natural Fit
+"Anthropology and Archeology Teachers, Postsecondary",WHITE,0,Natural Fit
+"Anthropology and Archeology Teachers, Postsecondary",YELLOW,0,Natural Fit
+Appraisers and Assessors of Real Estate,BLUE,0,Natural Fit
+Appraisers and Assessors of Real Estate,RED,0,Natural Fit
+Appraisers and Assessors of Real Estate,WHITE,0,Natural Fit
+Appraisers and Assessors of Real Estate,YELLOW,0,Natural Fit
+Appraisers of Personal and Business Property,BLUE,0,Natural Fit
+Appraisers of Personal and Business Property,RED,0,Natural Fit
+Appraisers of Personal and Business Property,WHITE,0,Natural Fit
+Appraisers of Personal and Business Property,YELLOW,0,Natural Fit
+"Arbitrators, Mediators, and Conciliators",BLUE,0,Natural Fit
+"Arbitrators, Mediators, and Conciliators",RED,0,Natural Fit
+"Arbitrators, Mediators, and Conciliators",WHITE,0,Natural Fit
+"Arbitrators, Mediators, and Conciliators",YELLOW,0,Natural Fit
+"Architects, Except Landscape and Naval",BLUE,0,Natural Fit
+"Architects, Except Landscape and Naval",RED,0,Natural Fit
+"Architects, Except Landscape and Naval",WHITE,0,Natural Fit
+"Architects, Except Landscape and Naval",YELLOW,0,Natural Fit
+Architectural and Civil Drafters,BLUE,0,Natural Fit
+Architectural and Civil Drafters,RED,0,Natural Fit
+Architectural and Civil Drafters,WHITE,0,Natural Fit
+Architectural and Civil Drafters,YELLOW,0,Natural Fit
+Architectural and Engineering Managers,BLUE,0,Natural Fit
+Architectural and Engineering Managers,RED,0,Natural Fit
+Architectural and Engineering Managers,WHITE,0.383,High RED / High YELLOW
+Architectural and Engineering Managers,YELLOW,0,Natural Fit
+"Architecture Teachers, Postsecondary",BLUE,0,Natural Fit
+"Architecture Teachers, Postsecondary",RED,0,Natural Fit
+"Architecture Teachers, Postsecondary",WHITE,0,Natural Fit
+"Architecture Teachers, Postsecondary",YELLOW,0,Natural Fit
+Archivists,BLUE,0,Natural Fit
+Archivists,RED,0,Natural Fit
+Archivists,WHITE,0,Natural Fit
+Archivists,YELLOW,0,Natural Fit
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",BLUE,0,Natural Fit
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",RED,0,Natural Fit
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",WHITE,0,Natural Fit
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",YELLOW,0,Natural Fit
+Art Directors,BLUE,0,Natural Fit
+Art Directors,RED,0,Natural Fit
+Art Directors,WHITE,0,Natural Fit
+Art Directors,YELLOW,0,Natural Fit
+Art Therapists,BLUE,0,Natural Fit
+Art Therapists,RED,0.311,High BLUE
+Art Therapists,WHITE,0.379,High BLUE
+Art Therapists,YELLOW,0.334,High BLUE
+"Art, Drama, and Music Teachers, Postsecondary",BLUE,0,Natural Fit
+"Art, Drama, and Music Teachers, Postsecondary",RED,0,Natural Fit
+"Art, Drama, and Music Teachers, Postsecondary",WHITE,0,Natural Fit
+"Art, Drama, and Music Teachers, Postsecondary",YELLOW,0,Natural Fit
+Astronomers,BLUE,0,Natural Fit
+Astronomers,RED,0,Natural Fit
+Astronomers,WHITE,0,Natural Fit
+Astronomers,YELLOW,0,Natural Fit
+Athletes and Sports Competitors,BLUE,0,Natural Fit
+Athletes and Sports Competitors,RED,0,Natural Fit
+Athletes and Sports Competitors,WHITE,0,Natural Fit
+Athletes and Sports Competitors,YELLOW,0,Natural Fit
+Athletic Trainers,BLUE,0,Natural Fit
+Athletic Trainers,RED,0,Natural Fit
+Athletic Trainers,WHITE,0,Natural Fit
+Athletic Trainers,YELLOW,0,Natural Fit
+Atmospheric and Space Scientists,BLUE,0,Natural Fit
+Atmospheric and Space Scientists,RED,0,Natural Fit
+Atmospheric and Space Scientists,WHITE,0,Natural Fit
+Atmospheric and Space Scientists,YELLOW,0,Natural Fit
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",BLUE,0,Natural Fit
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",RED,0,Natural Fit
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",WHITE,0,Natural Fit
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",YELLOW,0,Natural Fit
+Audio and Video Technicians,BLUE,0,Natural Fit
+Audio and Video Technicians,RED,0,Natural Fit
+Audio and Video Technicians,WHITE,0,Natural Fit
+Audio and Video Technicians,YELLOW,0,Natural Fit
+Audiologists,BLUE,0,Natural Fit
+Audiologists,RED,0,Natural Fit
+Audiologists,WHITE,0,Natural Fit
+Audiologists,YELLOW,0,Natural Fit
+Audiovisual Equipment Installers and Repairers,BLUE,0,Natural Fit
+Audiovisual Equipment Installers and Repairers,RED,0,Natural Fit
+Audiovisual Equipment Installers and Repairers,WHITE,0,Natural Fit
+Audiovisual Equipment Installers and Repairers,YELLOW,0,Natural Fit
+Automotive and Watercraft Service Attendants,BLUE,0,Natural Fit
+Automotive and Watercraft Service Attendants,RED,0,Natural Fit
+Automotive and Watercraft Service Attendants,WHITE,0,Natural Fit
+Automotive and Watercraft Service Attendants,YELLOW,0,Natural Fit
+Automotive Body and Related Repairers,BLUE,0,Natural Fit
+Automotive Body and Related Repairers,RED,0,Natural Fit
+Automotive Body and Related Repairers,WHITE,0,Natural Fit
+Automotive Body and Related Repairers,YELLOW,0,Natural Fit
+Automotive Engineering Technicians,BLUE,0,Natural Fit
+Automotive Engineering Technicians,RED,0,Natural Fit
+Automotive Engineering Technicians,WHITE,0,Natural Fit
+Automotive Engineering Technicians,YELLOW,0,Natural Fit
+Automotive Engineers,BLUE,0,Natural Fit
+Automotive Engineers,RED,0,Natural Fit
+Automotive Engineers,WHITE,0,Natural Fit
+Automotive Engineers,YELLOW,0,Natural Fit
+Automotive Glass Installers and Repairers,BLUE,0,Natural Fit
+Automotive Glass Installers and Repairers,RED,0,Natural Fit
+Automotive Glass Installers and Repairers,WHITE,0,Natural Fit
+Automotive Glass Installers and Repairers,YELLOW,0,Natural Fit
+Automotive Service Technicians and Mechanics,BLUE,0,Natural Fit
+Automotive Service Technicians and Mechanics,RED,0,Natural Fit
+Automotive Service Technicians and Mechanics,WHITE,0,Natural Fit
+Automotive Service Technicians and Mechanics,YELLOW,0,Natural Fit
+Aviation Inspectors,BLUE,0,Natural Fit
+Aviation Inspectors,RED,0,Natural Fit
+Aviation Inspectors,WHITE,0,Natural Fit
+Aviation Inspectors,YELLOW,0,Natural Fit
+Avionics Technicians,BLUE,0,Natural Fit
+Avionics Technicians,RED,0,Natural Fit
+Avionics Technicians,WHITE,0,Natural Fit
+Avionics Technicians,YELLOW,0,Natural Fit
+Baggage Porters and Bellhops,BLUE,0,Natural Fit
+Baggage Porters and Bellhops,RED,0,Natural Fit
+Baggage Porters and Bellhops,WHITE,0,Natural Fit
+Baggage Porters and Bellhops,YELLOW,0,Natural Fit
+Bailiffs,BLUE,0,Natural Fit
+Bailiffs,RED,0,Natural Fit
+Bailiffs,WHITE,0,Natural Fit
+Bailiffs,YELLOW,0,Natural Fit
+Bakers,BLUE,0,Natural Fit
+Bakers,RED,0,Natural Fit
+Bakers,WHITE,0,Natural Fit
+Bakers,YELLOW,0,Natural Fit
+Barbers,BLUE,0,Natural Fit
+Barbers,RED,0,Natural Fit
+Barbers,WHITE,0,Natural Fit
+Barbers,YELLOW,0,Natural Fit
+Baristas,BLUE,0,Natural Fit
+Baristas,RED,0,Natural Fit
+Baristas,WHITE,0,Natural Fit
+Baristas,YELLOW,0,Natural Fit
+Bartenders,BLUE,0,Natural Fit
+Bartenders,RED,0,Natural Fit
+Bartenders,WHITE,0,Natural Fit
+Bartenders,YELLOW,0,Natural Fit
+Bicycle Repairers,BLUE,0,Natural Fit
+Bicycle Repairers,RED,0,Natural Fit
+Bicycle Repairers,WHITE,0,Natural Fit
+Bicycle Repairers,YELLOW,0,Natural Fit
+Bill and Account Collectors,BLUE,0,Natural Fit
+Bill and Account Collectors,RED,0,Natural Fit
+Bill and Account Collectors,WHITE,0,Natural Fit
+Bill and Account Collectors,YELLOW,0,Natural Fit
+Billing and Posting Clerks,BLUE,0,Natural Fit
+Billing and Posting Clerks,RED,0,Natural Fit
+Billing and Posting Clerks,WHITE,0,Natural Fit
+Billing and Posting Clerks,YELLOW,0,Natural Fit
+Biochemists and Biophysicists,BLUE,0,Natural Fit
+Biochemists and Biophysicists,RED,0,Natural Fit
+Biochemists and Biophysicists,WHITE,0,Natural Fit
+Biochemists and Biophysicists,YELLOW,0,Natural Fit
+Bioengineers and Biomedical Engineers,BLUE,0,Natural Fit
+Bioengineers and Biomedical Engineers,RED,0,Natural Fit
+Bioengineers and Biomedical Engineers,WHITE,0,Natural Fit
+Bioengineers and Biomedical Engineers,YELLOW,0,Natural Fit
+Bioinformatics Scientists,BLUE,0,Natural Fit
+Bioinformatics Scientists,RED,0,Natural Fit
+Bioinformatics Scientists,WHITE,0.202,High YELLOW
+Bioinformatics Scientists,YELLOW,0,Natural Fit
+Bioinformatics Technicians,BLUE,0,Natural Fit
+Bioinformatics Technicians,RED,0,Natural Fit
+Bioinformatics Technicians,WHITE,0,Natural Fit
+Bioinformatics Technicians,YELLOW,0,Natural Fit
+"Biological Science Teachers, Postsecondary",BLUE,0,Natural Fit
+"Biological Science Teachers, Postsecondary",RED,0,Natural Fit
+"Biological Science Teachers, Postsecondary",WHITE,0,Natural Fit
+"Biological Science Teachers, Postsecondary",YELLOW,0,Natural Fit
+Biological Technicians,BLUE,0,Natural Fit
+Biological Technicians,RED,0,Natural Fit
+Biological Technicians,WHITE,0,Natural Fit
+Biological Technicians,YELLOW,0,Natural Fit
+Biologists,BLUE,0,Natural Fit
+Biologists,RED,0,Natural Fit
+Biologists,WHITE,0,Natural Fit
+Biologists,YELLOW,0,Natural Fit
+Biostatisticians,BLUE,0,Natural Fit
+Biostatisticians,RED,0,Natural Fit
+Biostatisticians,WHITE,0,Natural Fit
+Biostatisticians,YELLOW,0,Natural Fit
+Blockchain Engineers,BLUE,0,Natural Fit
+Blockchain Engineers,RED,0,Natural Fit
+Blockchain Engineers,WHITE,0,Natural Fit
+Blockchain Engineers,YELLOW,0,Natural Fit
+Boilermakers,BLUE,0,Natural Fit
+Boilermakers,RED,0,Natural Fit
+Boilermakers,WHITE,0,Natural Fit
+Boilermakers,YELLOW,0,Natural Fit
+"Bookkeeping, Accounting, and Auditing Clerks",BLUE,0,Natural Fit
+"Bookkeeping, Accounting, and Auditing Clerks",RED,0,Natural Fit
+"Bookkeeping, Accounting, and Auditing Clerks",WHITE,0,Natural Fit
+"Bookkeeping, Accounting, and Auditing Clerks",YELLOW,0,Natural Fit
+Brickmasons and Blockmasons,BLUE,0,Natural Fit
+Brickmasons and Blockmasons,RED,0,Natural Fit
+Brickmasons and Blockmasons,WHITE,0,Natural Fit
+Brickmasons and Blockmasons,YELLOW,0,Natural Fit
+Bridge and Lock Tenders,BLUE,0,Natural Fit
+Bridge and Lock Tenders,RED,0,Natural Fit
+Bridge and Lock Tenders,WHITE,0,Natural Fit
+Bridge and Lock Tenders,YELLOW,0,Natural Fit
+Broadcast Announcers and Radio Disc Jockeys,BLUE,0,Natural Fit
+Broadcast Announcers and Radio Disc Jockeys,RED,0,Natural Fit
+Broadcast Announcers and Radio Disc Jockeys,WHITE,0,Natural Fit
+Broadcast Announcers and Radio Disc Jockeys,YELLOW,0,Natural Fit
+Broadcast Technicians,BLUE,0,Natural Fit
+Broadcast Technicians,RED,0,Natural Fit
+Broadcast Technicians,WHITE,0,Natural Fit
+Broadcast Technicians,YELLOW,0,Natural Fit
+Brokerage Clerks,BLUE,0,Natural Fit
+Brokerage Clerks,RED,0,Natural Fit
+Brokerage Clerks,WHITE,0,Natural Fit
+Brokerage Clerks,YELLOW,0,Natural Fit
+Budget Analysts,BLUE,0,Natural Fit
+Budget Analysts,RED,0,Natural Fit
+Budget Analysts,WHITE,0,Natural Fit
+Budget Analysts,YELLOW,0,Natural Fit
+Bus and Truck Mechanics and Diesel Engine Specialists,BLUE,0,Natural Fit
+Bus and Truck Mechanics and Diesel Engine Specialists,RED,0,Natural Fit
+Bus and Truck Mechanics and Diesel Engine Specialists,WHITE,0,Natural Fit
+Bus and Truck Mechanics and Diesel Engine Specialists,YELLOW,0,Natural Fit
+"Bus Drivers, School",BLUE,0,Natural Fit
+"Bus Drivers, School",RED,0,Natural Fit
+"Bus Drivers, School",WHITE,0,Natural Fit
+"Bus Drivers, School",YELLOW,0,Natural Fit
+"Bus Drivers, Transit and Intercity",BLUE,0,Natural Fit
+"Bus Drivers, Transit and Intercity",RED,0,Natural Fit
+"Bus Drivers, Transit and Intercity",WHITE,0,Natural Fit
+"Bus Drivers, Transit and Intercity",YELLOW,0,Natural Fit
+Business Continuity Planners,BLUE,0,Natural Fit
+Business Continuity Planners,RED,0,Natural Fit
+Business Continuity Planners,WHITE,0.361,High RED / High YELLOW
+Business Continuity Planners,YELLOW,0,Natural Fit
+Business Intelligence Analysts,BLUE,0,Natural Fit
+Business Intelligence Analysts,RED,0,Natural Fit
+Business Intelligence Analysts,WHITE,0,Natural Fit
+Business Intelligence Analysts,YELLOW,0,Natural Fit
+"Business Teachers, Postsecondary",BLUE,0,Natural Fit
+"Business Teachers, Postsecondary",RED,0,Natural Fit
+"Business Teachers, Postsecondary",WHITE,0,Natural Fit
+"Business Teachers, Postsecondary",YELLOW,0,Natural Fit
+Butchers and Meat Cutters,BLUE,0,Natural Fit
+Butchers and Meat Cutters,RED,0,Natural Fit
+Butchers and Meat Cutters,WHITE,0,Natural Fit
+Butchers and Meat Cutters,YELLOW,0,Natural Fit
+"Buyers and Purchasing Agents, Farm Products",BLUE,0,Natural Fit
+"Buyers and Purchasing Agents, Farm Products",RED,0,Natural Fit
+"Buyers and Purchasing Agents, Farm Products",WHITE,0,Natural Fit
+"Buyers and Purchasing Agents, Farm Products",YELLOW,0,Natural Fit
+Cabinetmakers and Bench Carpenters,BLUE,0,Natural Fit
+Cabinetmakers and Bench Carpenters,RED,0,Natural Fit
+Cabinetmakers and Bench Carpenters,WHITE,0,Natural Fit
+Cabinetmakers and Bench Carpenters,YELLOW,0,Natural Fit
+Calibration Technologists and Technicians,BLUE,0,Natural Fit
+Calibration Technologists and Technicians,RED,0,Natural Fit
+Calibration Technologists and Technicians,WHITE,0,Natural Fit
+Calibration Technologists and Technicians,YELLOW,0,Natural Fit
+Camera and Photographic Equipment Repairers,BLUE,0,Natural Fit
+Camera and Photographic Equipment Repairers,RED,0,Natural Fit
+Camera and Photographic Equipment Repairers,WHITE,0,Natural Fit
+Camera and Photographic Equipment Repairers,YELLOW,0,Natural Fit
+"Camera Operators, Television, Video, and Film",BLUE,0,Natural Fit
+"Camera Operators, Television, Video, and Film",RED,0,Natural Fit
+"Camera Operators, Television, Video, and Film",WHITE,0,Natural Fit
+"Camera Operators, Television, Video, and Film",YELLOW,0,Natural Fit
+"Captains, Mates, and Pilots of Water Vessels",BLUE,0,Natural Fit
+"Captains, Mates, and Pilots of Water Vessels",RED,0.223,High WHITE
+"Captains, Mates, and Pilots of Water Vessels",WHITE,0,Natural Fit
+"Captains, Mates, and Pilots of Water Vessels",YELLOW,0.234,High WHITE
+Cardiologists,BLUE,0,Natural Fit
+Cardiologists,RED,0.226,High WHITE
+Cardiologists,WHITE,0.221,High YELLOW
+Cardiologists,YELLOW,0.237,High WHITE
+Cardiovascular Technologists and Technicians,BLUE,0,Natural Fit
+Cardiovascular Technologists and Technicians,RED,0,Natural Fit
+Cardiovascular Technologists and Technicians,WHITE,0,Natural Fit
+Cardiovascular Technologists and Technicians,YELLOW,0,Natural Fit
+"Career/Technical Education Teachers, Middle School",BLUE,0,Natural Fit
+"Career/Technical Education Teachers, Middle School",RED,0,Natural Fit
+"Career/Technical Education Teachers, Middle School",WHITE,0,Natural Fit
+"Career/Technical Education Teachers, Middle School",YELLOW,0,Natural Fit
+"Career/Technical Education Teachers, Postsecondary",BLUE,0,Natural Fit
+"Career/Technical Education Teachers, Postsecondary",RED,0,Natural Fit
+"Career/Technical Education Teachers, Postsecondary",WHITE,0,Natural Fit
+"Career/Technical Education Teachers, Postsecondary",YELLOW,0,Natural Fit
+"Career/Technical Education Teachers, Secondary School",BLUE,0,Natural Fit
+"Career/Technical Education Teachers, Secondary School",RED,0,Natural Fit
+"Career/Technical Education Teachers, Secondary School",WHITE,0,Natural Fit
+"Career/Technical Education Teachers, Secondary School",YELLOW,0,Natural Fit
+Cargo and Freight Agents,BLUE,0,Natural Fit
+Cargo and Freight Agents,RED,0,Natural Fit
+Cargo and Freight Agents,WHITE,0,Natural Fit
+Cargo and Freight Agents,YELLOW,0,Natural Fit
+Carpenters,BLUE,0,Natural Fit
+Carpenters,RED,0,Natural Fit
+Carpenters,WHITE,0,Natural Fit
+Carpenters,YELLOW,0,Natural Fit
+Carpet Installers,BLUE,0,Natural Fit
+Carpet Installers,RED,0,Natural Fit
+Carpet Installers,WHITE,0,Natural Fit
+Carpet Installers,YELLOW,0,Natural Fit
+Cartographers and Photogrammetrists,BLUE,0,Natural Fit
+Cartographers and Photogrammetrists,RED,0,Natural Fit
+Cartographers and Photogrammetrists,WHITE,0,Natural Fit
+Cartographers and Photogrammetrists,YELLOW,0,Natural Fit
+Cashiers,BLUE,0,Natural Fit
+Cashiers,RED,0,Natural Fit
+Cashiers,WHITE,0,Natural Fit
+Cashiers,YELLOW,0,Natural Fit
+Cement Masons and Concrete Finishers,BLUE,0,Natural Fit
+Cement Masons and Concrete Finishers,RED,0,Natural Fit
+Cement Masons and Concrete Finishers,WHITE,0,Natural Fit
+Cement Masons and Concrete Finishers,YELLOW,0,Natural Fit
+Chefs and Head Cooks,BLUE,0,Natural Fit
+Chefs and Head Cooks,RED,0,Natural Fit
+Chefs and Head Cooks,WHITE,0,Natural Fit
+Chefs and Head Cooks,YELLOW,0,Natural Fit
+Chemical Engineers,BLUE,0,Natural Fit
+Chemical Engineers,RED,0,Natural Fit
+Chemical Engineers,WHITE,0,Natural Fit
+Chemical Engineers,YELLOW,0,Natural Fit
+Chemical Equipment Operators and Tenders,BLUE,0,Natural Fit
+Chemical Equipment Operators and Tenders,RED,0,Natural Fit
+Chemical Equipment Operators and Tenders,WHITE,0,Natural Fit
+Chemical Equipment Operators and Tenders,YELLOW,0,Natural Fit
+Chemical Plant and System Operators,BLUE,0,Natural Fit
+Chemical Plant and System Operators,RED,0,Natural Fit
+Chemical Plant and System Operators,WHITE,0,Natural Fit
+Chemical Plant and System Operators,YELLOW,0,Natural Fit
+Chemical Technicians,BLUE,0,Natural Fit
+Chemical Technicians,RED,0,Natural Fit
+Chemical Technicians,WHITE,0,Natural Fit
+Chemical Technicians,YELLOW,0,Natural Fit
+"Chemistry Teachers, Postsecondary",BLUE,0,Natural Fit
+"Chemistry Teachers, Postsecondary",RED,0,Natural Fit
+"Chemistry Teachers, Postsecondary",WHITE,0,Natural Fit
+"Chemistry Teachers, Postsecondary",YELLOW,0,Natural Fit
+Chemists,BLUE,0,Natural Fit
+Chemists,RED,0,Natural Fit
+Chemists,WHITE,0,Natural Fit
+Chemists,YELLOW,0,Natural Fit
+Chief Executives,BLUE,0.218,High YELLOW
+Chief Executives,RED,0.23,High WHITE
+Chief Executives,WHITE,0.436,High RED / High YELLOW
+Chief Executives,YELLOW,0.241,High WHITE
+"Child, Family, and School Social Workers",BLUE,0,Natural Fit
+"Child, Family, and School Social Workers",RED,0.291,High BLUE
+"Child, Family, and School Social Workers",WHITE,0.36,High BLUE
+"Child, Family, and School Social Workers",YELLOW,0.315,High BLUE
+Childcare Workers,BLUE,0,Natural Fit
+Childcare Workers,RED,0,Natural Fit
+Childcare Workers,WHITE,0.201,High BLUE
+Childcare Workers,YELLOW,0,Natural Fit
+Chiropractors,BLUE,0,Natural Fit
+Chiropractors,RED,0,Natural Fit
+Chiropractors,WHITE,0,Natural Fit
+Chiropractors,YELLOW,0,Natural Fit
+Choreographers,BLUE,0,Natural Fit
+Choreographers,RED,0,Natural Fit
+Choreographers,WHITE,0.258,High RED
+Choreographers,YELLOW,0,Natural Fit
+Civil Engineering Technologists and Technicians,BLUE,0,Natural Fit
+Civil Engineering Technologists and Technicians,RED,0,Natural Fit
+Civil Engineering Technologists and Technicians,WHITE,0,Natural Fit
+Civil Engineering Technologists and Technicians,YELLOW,0,Natural Fit
+Civil Engineers,BLUE,0,Natural Fit
+Civil Engineers,RED,0,Natural Fit
+Civil Engineers,WHITE,0,Natural Fit
+Civil Engineers,YELLOW,0,Natural Fit
+"Claims Adjusters, Examiners, and Investigators",BLUE,0,Natural Fit
+"Claims Adjusters, Examiners, and Investigators",RED,0,Natural Fit
+"Claims Adjusters, Examiners, and Investigators",WHITE,0,Natural Fit
+"Claims Adjusters, Examiners, and Investigators",YELLOW,0,Natural Fit
+Cleaners of Vehicles and Equipment,BLUE,0,Natural Fit
+Cleaners of Vehicles and Equipment,RED,0,Natural Fit
+Cleaners of Vehicles and Equipment,WHITE,0,Natural Fit
+Cleaners of Vehicles and Equipment,YELLOW,0,Natural Fit
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",BLUE,0,Natural Fit
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",RED,0,Natural Fit
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",WHITE,0,Natural Fit
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",YELLOW,0,Natural Fit
+Clergy,BLUE,0.25,High BLUE
+Clergy,RED,0.418,High BLUE
+Clergy,WHITE,0.487,High BLUE
+Clergy,YELLOW,0.442,High BLUE
+Clinical and Counseling Psychologists,BLUE,0,Natural Fit
+Clinical and Counseling Psychologists,RED,0,Natural Fit
+Clinical and Counseling Psychologists,WHITE,0,Natural Fit
+Clinical and Counseling Psychologists,YELLOW,0,Natural Fit
+Clinical Data Managers,BLUE,0,Natural Fit
+Clinical Data Managers,RED,0,Natural Fit
+Clinical Data Managers,WHITE,0,Natural Fit
+Clinical Data Managers,YELLOW,0,Natural Fit
+Clinical Neuropsychologists,BLUE,0,Natural Fit
+Clinical Neuropsychologists,RED,0.289,High WHITE
+Clinical Neuropsychologists,WHITE,0,Natural Fit
+Clinical Neuropsychologists,YELLOW,0.3,High WHITE
+Clinical Nurse Specialists,BLUE,0,Natural Fit
+Clinical Nurse Specialists,RED,0.347,High BLUE / High WHITE
+Clinical Nurse Specialists,WHITE,0.274,High BLUE
+Clinical Nurse Specialists,YELLOW,0.371,High BLUE / High WHITE
+Clinical Research Coordinators,BLUE,0,Natural Fit
+Clinical Research Coordinators,RED,0,Natural Fit
+Clinical Research Coordinators,WHITE,0,Natural Fit
+Clinical Research Coordinators,YELLOW,0,Natural Fit
+Coaches and Scouts,BLUE,0.236,High RED
+Coaches and Scouts,RED,0,Natural Fit
+Coaches and Scouts,WHITE,0.466,High RED / High BLUE
+Coaches and Scouts,YELLOW,0.231,High RED
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+"Coil Winders, Tapers, and Finishers",BLUE,0,Natural Fit
+"Coil Winders, Tapers, and Finishers",RED,0,Natural Fit
+"Coil Winders, Tapers, and Finishers",WHITE,0,Natural Fit
+"Coil Winders, Tapers, and Finishers",YELLOW,0,Natural Fit
+"Coin, Vending, and Amusement Machine Servicers and Repairers",BLUE,0,Natural Fit
+"Coin, Vending, and Amusement Machine Servicers and Repairers",RED,0,Natural Fit
+"Coin, Vending, and Amusement Machine Servicers and Repairers",WHITE,0,Natural Fit
+"Coin, Vending, and Amusement Machine Servicers and Repairers",YELLOW,0,Natural Fit
+Commercial and Industrial Designers,BLUE,0,Natural Fit
+Commercial and Industrial Designers,RED,0,Natural Fit
+Commercial and Industrial Designers,WHITE,0,Natural Fit
+Commercial and Industrial Designers,YELLOW,0,Natural Fit
+Commercial Divers,BLUE,0,Natural Fit
+Commercial Divers,RED,0,Natural Fit
+Commercial Divers,WHITE,0,Natural Fit
+Commercial Divers,YELLOW,0,Natural Fit
+Commercial Pilots,BLUE,0,Natural Fit
+Commercial Pilots,RED,0,Natural Fit
+Commercial Pilots,WHITE,0,Natural Fit
+Commercial Pilots,YELLOW,0,Natural Fit
+"Communications Teachers, Postsecondary",BLUE,0,Natural Fit
+"Communications Teachers, Postsecondary",RED,0,Natural Fit
+"Communications Teachers, Postsecondary",WHITE,0,Natural Fit
+"Communications Teachers, Postsecondary",YELLOW,0,Natural Fit
+Community Health Workers,BLUE,0,Natural Fit
+Community Health Workers,RED,0,Natural Fit
+Community Health Workers,WHITE,0,Natural Fit
+Community Health Workers,YELLOW,0,Natural Fit
+Compensation and Benefits Managers,BLUE,0,Natural Fit
+Compensation and Benefits Managers,RED,0,Natural Fit
+Compensation and Benefits Managers,WHITE,0,Natural Fit
+Compensation and Benefits Managers,YELLOW,0,Natural Fit
+"Compensation, Benefits, and Job Analysis Specialists",BLUE,0,Natural Fit
+"Compensation, Benefits, and Job Analysis Specialists",RED,0,Natural Fit
+"Compensation, Benefits, and Job Analysis Specialists",WHITE,0,Natural Fit
+"Compensation, Benefits, and Job Analysis Specialists",YELLOW,0,Natural Fit
+Compliance Officers,BLUE,0,Natural Fit
+Compliance Officers,RED,0,Natural Fit
+Compliance Officers,WHITE,0,Natural Fit
+Compliance Officers,YELLOW,0,Natural Fit
+Computer and Information Research Scientists,BLUE,0,Natural Fit
+Computer and Information Research Scientists,RED,0,Natural Fit
+Computer and Information Research Scientists,WHITE,0.251,High YELLOW
+Computer and Information Research Scientists,YELLOW,0,Natural Fit
+Computer and Information Systems Managers,BLUE,0.245,High YELLOW
+Computer and Information Systems Managers,RED,0.22,High YELLOW
+Computer and Information Systems Managers,WHITE,0.465,High RED / High YELLOW
+Computer and Information Systems Managers,YELLOW,0,Natural Fit
+Computer Hardware Engineers,BLUE,0,Natural Fit
+Computer Hardware Engineers,RED,0,Natural Fit
+Computer Hardware Engineers,WHITE,0,Natural Fit
+Computer Hardware Engineers,YELLOW,0,Natural Fit
+Computer Network Architects,BLUE,0,Natural Fit
+Computer Network Architects,RED,0,Natural Fit
+Computer Network Architects,WHITE,0,Natural Fit
+Computer Network Architects,YELLOW,0,Natural Fit
+Computer Network Support Specialists,BLUE,0,Natural Fit
+Computer Network Support Specialists,RED,0,Natural Fit
+Computer Network Support Specialists,WHITE,0,Natural Fit
+Computer Network Support Specialists,YELLOW,0,Natural Fit
+Computer Numerically Controlled Tool Operators,BLUE,0,Natural Fit
+Computer Numerically Controlled Tool Operators,RED,0,Natural Fit
+Computer Numerically Controlled Tool Operators,WHITE,0,Natural Fit
+Computer Numerically Controlled Tool Operators,YELLOW,0,Natural Fit
+Computer Numerically Controlled Tool Programmers,BLUE,0,Natural Fit
+Computer Numerically Controlled Tool Programmers,RED,0,Natural Fit
+Computer Numerically Controlled Tool Programmers,WHITE,0,Natural Fit
+Computer Numerically Controlled Tool Programmers,YELLOW,0,Natural Fit
+Computer Programmers,BLUE,0,Natural Fit
+Computer Programmers,RED,0,Natural Fit
+Computer Programmers,WHITE,0,Natural Fit
+Computer Programmers,YELLOW,0,Natural Fit
+"Computer Science Teachers, Postsecondary",BLUE,0,Natural Fit
+"Computer Science Teachers, Postsecondary",RED,0,Natural Fit
+"Computer Science Teachers, Postsecondary",WHITE,0,Natural Fit
+"Computer Science Teachers, Postsecondary",YELLOW,0,Natural Fit
+Computer Systems Analysts,BLUE,0,Natural Fit
+Computer Systems Analysts,RED,0,Natural Fit
+Computer Systems Analysts,WHITE,0,Natural Fit
+Computer Systems Analysts,YELLOW,0,Natural Fit
+Computer Systems Engineers/Architects,BLUE,0,Natural Fit
+Computer Systems Engineers/Architects,RED,0,Natural Fit
+Computer Systems Engineers/Architects,WHITE,0,Natural Fit
+Computer Systems Engineers/Architects,YELLOW,0,Natural Fit
+Computer User Support Specialists,BLUE,0,Natural Fit
+Computer User Support Specialists,RED,0,Natural Fit
+Computer User Support Specialists,WHITE,0,Natural Fit
+Computer User Support Specialists,YELLOW,0,Natural Fit
+"Computer, Automated Teller, and Office Machine Repairers",BLUE,0,Natural Fit
+"Computer, Automated Teller, and Office Machine Repairers",RED,0,Natural Fit
+"Computer, Automated Teller, and Office Machine Repairers",WHITE,0,Natural Fit
+"Computer, Automated Teller, and Office Machine Repairers",YELLOW,0,Natural Fit
+Concierges,BLUE,0,Natural Fit
+Concierges,RED,0,Natural Fit
+Concierges,WHITE,0,Natural Fit
+Concierges,YELLOW,0,Natural Fit
+Conservation Scientists,BLUE,0,Natural Fit
+Conservation Scientists,RED,0,Natural Fit
+Conservation Scientists,WHITE,0,Natural Fit
+Conservation Scientists,YELLOW,0,Natural Fit
+Construction and Building Inspectors,BLUE,0,Natural Fit
+Construction and Building Inspectors,RED,0,Natural Fit
+Construction and Building Inspectors,WHITE,0,Natural Fit
+Construction and Building Inspectors,YELLOW,0,Natural Fit
+Construction Laborers,BLUE,0,Natural Fit
+Construction Laborers,RED,0,Natural Fit
+Construction Laborers,WHITE,0,Natural Fit
+Construction Laborers,YELLOW,0,Natural Fit
+Construction Managers,BLUE,0,Natural Fit
+Construction Managers,RED,0,Natural Fit
+Construction Managers,WHITE,0.365,High RED
+Construction Managers,YELLOW,0,Natural Fit
+Continuous Mining Machine Operators,BLUE,0,Natural Fit
+Continuous Mining Machine Operators,RED,0,Natural Fit
+Continuous Mining Machine Operators,WHITE,0,Natural Fit
+Continuous Mining Machine Operators,YELLOW,0,Natural Fit
+"Control and Valve Installers and Repairers, Except Mechanical Door",BLUE,0,Natural Fit
+"Control and Valve Installers and Repairers, Except Mechanical Door",RED,0,Natural Fit
+"Control and Valve Installers and Repairers, Except Mechanical Door",WHITE,0,Natural Fit
+"Control and Valve Installers and Repairers, Except Mechanical Door",YELLOW,0,Natural Fit
+Conveyor Operators and Tenders,BLUE,0,Natural Fit
+Conveyor Operators and Tenders,RED,0,Natural Fit
+Conveyor Operators and Tenders,WHITE,0,Natural Fit
+Conveyor Operators and Tenders,YELLOW,0,Natural Fit
+"Cooks, Fast Food",BLUE,0,Natural Fit
+"Cooks, Fast Food",RED,0,Natural Fit
+"Cooks, Fast Food",WHITE,0,Natural Fit
+"Cooks, Fast Food",YELLOW,0,Natural Fit
+"Cooks, Institution and Cafeteria",BLUE,0,Natural Fit
+"Cooks, Institution and Cafeteria",RED,0,Natural Fit
+"Cooks, Institution and Cafeteria",WHITE,0,Natural Fit
+"Cooks, Institution and Cafeteria",YELLOW,0,Natural Fit
+"Cooks, Private Household",BLUE,0,Natural Fit
+"Cooks, Private Household",RED,0,Natural Fit
+"Cooks, Private Household",WHITE,0,Natural Fit
+"Cooks, Private Household",YELLOW,0,Natural Fit
+"Cooks, Restaurant",BLUE,0,Natural Fit
+"Cooks, Restaurant",RED,0,Natural Fit
+"Cooks, Restaurant",WHITE,0,Natural Fit
+"Cooks, Restaurant",YELLOW,0,Natural Fit
+"Cooks, Short Order",BLUE,0,Natural Fit
+"Cooks, Short Order",RED,0,Natural Fit
+"Cooks, Short Order",WHITE,0,Natural Fit
+"Cooks, Short Order",YELLOW,0,Natural Fit
+Cooling and Freezing Equipment Operators and Tenders,BLUE,0,Natural Fit
+Cooling and Freezing Equipment Operators and Tenders,RED,0,Natural Fit
+Cooling and Freezing Equipment Operators and Tenders,WHITE,0,Natural Fit
+Cooling and Freezing Equipment Operators and Tenders,YELLOW,0,Natural Fit
+Coroners,BLUE,0,Natural Fit
+Coroners,RED,0,Natural Fit
+Coroners,WHITE,0,Natural Fit
+Coroners,YELLOW,0,Natural Fit
+Correctional Officers and Jailers,BLUE,0,Natural Fit
+Correctional Officers and Jailers,RED,0,Natural Fit
+Correctional Officers and Jailers,WHITE,0,Natural Fit
+Correctional Officers and Jailers,YELLOW,0,Natural Fit
+Correspondence Clerks,BLUE,0,Natural Fit
+Correspondence Clerks,RED,0,Natural Fit
+Correspondence Clerks,WHITE,0,Natural Fit
+Correspondence Clerks,YELLOW,0,Natural Fit
+Cost Estimators,BLUE,0,Natural Fit
+Cost Estimators,RED,0,Natural Fit
+Cost Estimators,WHITE,0,Natural Fit
+Cost Estimators,YELLOW,0,Natural Fit
+Costume Attendants,BLUE,0,Natural Fit
+Costume Attendants,RED,0,Natural Fit
+Costume Attendants,WHITE,0,Natural Fit
+Costume Attendants,YELLOW,0,Natural Fit
+Counter and Rental Clerks,BLUE,0,Natural Fit
+Counter and Rental Clerks,RED,0,Natural Fit
+Counter and Rental Clerks,WHITE,0,Natural Fit
+Counter and Rental Clerks,YELLOW,0,Natural Fit
+Couriers and Messengers,BLUE,0,Natural Fit
+Couriers and Messengers,RED,0,Natural Fit
+Couriers and Messengers,WHITE,0,Natural Fit
+Couriers and Messengers,YELLOW,0,Natural Fit
+Court Reporters and Simultaneous Captioners,BLUE,0,Natural Fit
+Court Reporters and Simultaneous Captioners,RED,0,Natural Fit
+Court Reporters and Simultaneous Captioners,WHITE,0,Natural Fit
+Court Reporters and Simultaneous Captioners,YELLOW,0,Natural Fit
+"Court, Municipal, and License Clerks",BLUE,0,Natural Fit
+"Court, Municipal, and License Clerks",RED,0,Natural Fit
+"Court, Municipal, and License Clerks",WHITE,0,Natural Fit
+"Court, Municipal, and License Clerks",YELLOW,0,Natural Fit
+Craft Artists,BLUE,0,Natural Fit
+Craft Artists,RED,0,Natural Fit
+Craft Artists,WHITE,0,Natural Fit
+Craft Artists,YELLOW,0,Natural Fit
+Crane and Tower Operators,BLUE,0,Natural Fit
+Crane and Tower Operators,RED,0,Natural Fit
+Crane and Tower Operators,WHITE,0,Natural Fit
+Crane and Tower Operators,YELLOW,0,Natural Fit
+Credit Analysts,BLUE,0,Natural Fit
+Credit Analysts,RED,0,Natural Fit
+Credit Analysts,WHITE,0,Natural Fit
+Credit Analysts,YELLOW,0,Natural Fit
+"Credit Authorizers, Checkers, and Clerks",BLUE,0,Natural Fit
+"Credit Authorizers, Checkers, and Clerks",RED,0,Natural Fit
+"Credit Authorizers, Checkers, and Clerks",WHITE,0,Natural Fit
+"Credit Authorizers, Checkers, and Clerks",YELLOW,0,Natural Fit
+Credit Counselors,BLUE,0,Natural Fit
+Credit Counselors,RED,0,Natural Fit
+Credit Counselors,WHITE,0,Natural Fit
+Credit Counselors,YELLOW,0,Natural Fit
+Crematory Operators,BLUE,0,Natural Fit
+Crematory Operators,RED,0,Natural Fit
+Crematory Operators,WHITE,0,Natural Fit
+Crematory Operators,YELLOW,0,Natural Fit
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",BLUE,0,Natural Fit
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",RED,0,Natural Fit
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",WHITE,0,Natural Fit
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",YELLOW,0,Natural Fit
+Critical Care Nurses,BLUE,0.332,High WHITE
+Critical Care Nurses,RED,0.431,High WHITE
+Critical Care Nurses,WHITE,0.364,High WHITE / High YELLOW
+Critical Care Nurses,YELLOW,0.442,High WHITE
+Crossing Guards and Flaggers,BLUE,0,Natural Fit
+Crossing Guards and Flaggers,RED,0,Natural Fit
+Crossing Guards and Flaggers,WHITE,0,Natural Fit
+Crossing Guards and Flaggers,YELLOW,0,Natural Fit
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+Curators,BLUE,0,Natural Fit
+Curators,RED,0,Natural Fit
+Curators,WHITE,0,Natural Fit
+Curators,YELLOW,0,Natural Fit
+Customer Service Representatives,BLUE,0,Natural Fit
+Customer Service Representatives,RED,0,Natural Fit
+Customer Service Representatives,WHITE,0,Natural Fit
+Customer Service Representatives,YELLOW,0,Natural Fit
+Customs and Border Protection Officers,BLUE,0,Natural Fit
+Customs and Border Protection Officers,RED,0,Natural Fit
+Customs and Border Protection Officers,WHITE,0,Natural Fit
+Customs and Border Protection Officers,YELLOW,0,Natural Fit
+Customs Brokers,BLUE,0,Natural Fit
+Customs Brokers,RED,0,Natural Fit
+Customs Brokers,WHITE,0,Natural Fit
+Customs Brokers,YELLOW,0,Natural Fit
+"Cutters and Trimmers, Hand",BLUE,0,Natural Fit
+"Cutters and Trimmers, Hand",RED,0,Natural Fit
+"Cutters and Trimmers, Hand",WHITE,0,Natural Fit
+"Cutters and Trimmers, Hand",YELLOW,0,Natural Fit
+"Cutting and Slicing Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Cutting and Slicing Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Cutting and Slicing Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Cutting and Slicing Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+Cytogenetic Technologists,BLUE,0,Natural Fit
+Cytogenetic Technologists,RED,0,Natural Fit
+Cytogenetic Technologists,WHITE,0,Natural Fit
+Cytogenetic Technologists,YELLOW,0,Natural Fit
+Cytotechnologists,BLUE,0,Natural Fit
+Cytotechnologists,RED,0,Natural Fit
+Cytotechnologists,WHITE,0,Natural Fit
+Cytotechnologists,YELLOW,0,Natural Fit
+Dancers,BLUE,0,Natural Fit
+Dancers,RED,0,Natural Fit
+Dancers,WHITE,0,Natural Fit
+Dancers,YELLOW,0,Natural Fit
+Data Entry Keyers,BLUE,0,Natural Fit
+Data Entry Keyers,RED,0,Natural Fit
+Data Entry Keyers,WHITE,0,Natural Fit
+Data Entry Keyers,YELLOW,0,Natural Fit
+Data Scientists,BLUE,0,Natural Fit
+Data Scientists,RED,0,Natural Fit
+Data Scientists,WHITE,0,Natural Fit
+Data Scientists,YELLOW,0,Natural Fit
+Data Warehousing Specialists,BLUE,0,Natural Fit
+Data Warehousing Specialists,RED,0,Natural Fit
+Data Warehousing Specialists,WHITE,0,Natural Fit
+Data Warehousing Specialists,YELLOW,0,Natural Fit
+Database Administrators,BLUE,0,Natural Fit
+Database Administrators,RED,0,Natural Fit
+Database Administrators,WHITE,0,Natural Fit
+Database Administrators,YELLOW,0,Natural Fit
+Database Architects,BLUE,0,Natural Fit
+Database Architects,RED,0,Natural Fit
+Database Architects,WHITE,0,Natural Fit
+Database Architects,YELLOW,0,Natural Fit
+Demonstrators and Product Promoters,BLUE,0,Natural Fit
+Demonstrators and Product Promoters,RED,0,Natural Fit
+Demonstrators and Product Promoters,WHITE,0,Natural Fit
+Demonstrators and Product Promoters,YELLOW,0,Natural Fit
+Dental Assistants,BLUE,0,Natural Fit
+Dental Assistants,RED,0,Natural Fit
+Dental Assistants,WHITE,0,Natural Fit
+Dental Assistants,YELLOW,0,Natural Fit
+Dental Hygienists,BLUE,0,Natural Fit
+Dental Hygienists,RED,0,Natural Fit
+Dental Hygienists,WHITE,0,Natural Fit
+Dental Hygienists,YELLOW,0,Natural Fit
+Dental Laboratory Technicians,BLUE,0,Natural Fit
+Dental Laboratory Technicians,RED,0,Natural Fit
+Dental Laboratory Technicians,WHITE,0,Natural Fit
+Dental Laboratory Technicians,YELLOW,0,Natural Fit
+"Dentists, General",BLUE,0,Natural Fit
+"Dentists, General",RED,0,Natural Fit
+"Dentists, General",WHITE,0,Natural Fit
+"Dentists, General",YELLOW,0,Natural Fit
+Dermatologists,BLUE,0,Natural Fit
+Dermatologists,RED,0,Natural Fit
+Dermatologists,WHITE,0,Natural Fit
+Dermatologists,YELLOW,0,Natural Fit
+"Derrick Operators, Oil and Gas",BLUE,0,Natural Fit
+"Derrick Operators, Oil and Gas",RED,0,Natural Fit
+"Derrick Operators, Oil and Gas",WHITE,0,Natural Fit
+"Derrick Operators, Oil and Gas",YELLOW,0,Natural Fit
+Desktop Publishers,BLUE,0,Natural Fit
+Desktop Publishers,RED,0,Natural Fit
+Desktop Publishers,WHITE,0,Natural Fit
+Desktop Publishers,YELLOW,0,Natural Fit
+Detectives and Criminal Investigators,BLUE,0,Natural Fit
+Detectives and Criminal Investigators,RED,0.289,High WHITE
+Detectives and Criminal Investigators,WHITE,0.229,High YELLOW
+Detectives and Criminal Investigators,YELLOW,0.301,High WHITE
+Diagnostic Medical Sonographers,BLUE,0,Natural Fit
+Diagnostic Medical Sonographers,RED,0,Natural Fit
+Diagnostic Medical Sonographers,WHITE,0,Natural Fit
+Diagnostic Medical Sonographers,YELLOW,0,Natural Fit
+Dietetic Technicians,BLUE,0,Natural Fit
+Dietetic Technicians,RED,0,Natural Fit
+Dietetic Technicians,WHITE,0,Natural Fit
+Dietetic Technicians,YELLOW,0,Natural Fit
+Dietitians and Nutritionists,BLUE,0,Natural Fit
+Dietitians and Nutritionists,RED,0,Natural Fit
+Dietitians and Nutritionists,WHITE,0,Natural Fit
+Dietitians and Nutritionists,YELLOW,0,Natural Fit
+Digital Forensics Analysts,BLUE,0,Natural Fit
+Digital Forensics Analysts,RED,0,Natural Fit
+Digital Forensics Analysts,WHITE,0,Natural Fit
+Digital Forensics Analysts,YELLOW,0,Natural Fit
+Dining Room and Cafeteria Attendants and Bartender Helpers,BLUE,0,Natural Fit
+Dining Room and Cafeteria Attendants and Bartender Helpers,RED,0,Natural Fit
+Dining Room and Cafeteria Attendants and Bartender Helpers,WHITE,0,Natural Fit
+Dining Room and Cafeteria Attendants and Bartender Helpers,YELLOW,0,Natural Fit
+"Directors, Religious Activities and Education",BLUE,0,Natural Fit
+"Directors, Religious Activities and Education",RED,0.237,High BLUE
+"Directors, Religious Activities and Education",WHITE,0.305,High BLUE
+"Directors, Religious Activities and Education",YELLOW,0.26,High BLUE
+"Disc Jockeys, Except Radio",BLUE,0,Natural Fit
+"Disc Jockeys, Except Radio",RED,0,Natural Fit
+"Disc Jockeys, Except Radio",WHITE,0,Natural Fit
+"Disc Jockeys, Except Radio",YELLOW,0,Natural Fit
+Dishwashers,BLUE,0,Natural Fit
+Dishwashers,RED,0,Natural Fit
+Dishwashers,WHITE,0,Natural Fit
+Dishwashers,YELLOW,0,Natural Fit
+"Dispatchers, Except Police, Fire, and Ambulance",BLUE,0,Natural Fit
+"Dispatchers, Except Police, Fire, and Ambulance",RED,0,Natural Fit
+"Dispatchers, Except Police, Fire, and Ambulance",WHITE,0,Natural Fit
+"Dispatchers, Except Police, Fire, and Ambulance",YELLOW,0,Natural Fit
+Document Management Specialists,BLUE,0,Natural Fit
+Document Management Specialists,RED,0,Natural Fit
+Document Management Specialists,WHITE,0,Natural Fit
+Document Management Specialists,YELLOW,0,Natural Fit
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",BLUE,0,Natural Fit
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",RED,0,Natural Fit
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",WHITE,0,Natural Fit
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",YELLOW,0,Natural Fit
+Dredge Operators,BLUE,0,Natural Fit
+Dredge Operators,RED,0,Natural Fit
+Dredge Operators,WHITE,0,Natural Fit
+Dredge Operators,YELLOW,0,Natural Fit
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+Driver/Sales Workers,BLUE,0,Natural Fit
+Driver/Sales Workers,RED,0,Natural Fit
+Driver/Sales Workers,WHITE,0,Natural Fit
+Driver/Sales Workers,YELLOW,0,Natural Fit
+Drywall and Ceiling Tile Installers,BLUE,0,Natural Fit
+Drywall and Ceiling Tile Installers,RED,0,Natural Fit
+Drywall and Ceiling Tile Installers,WHITE,0,Natural Fit
+Drywall and Ceiling Tile Installers,YELLOW,0,Natural Fit
+"Earth Drillers, Except Oil and Gas",BLUE,0,Natural Fit
+"Earth Drillers, Except Oil and Gas",RED,0,Natural Fit
+"Earth Drillers, Except Oil and Gas",WHITE,0,Natural Fit
+"Earth Drillers, Except Oil and Gas",YELLOW,0,Natural Fit
+"Economics Teachers, Postsecondary",BLUE,0,Natural Fit
+"Economics Teachers, Postsecondary",RED,0,Natural Fit
+"Economics Teachers, Postsecondary",WHITE,0,Natural Fit
+"Economics Teachers, Postsecondary",YELLOW,0,Natural Fit
+Economists,BLUE,0,Natural Fit
+Economists,RED,0,Natural Fit
+Economists,WHITE,0,Natural Fit
+Economists,YELLOW,0,Natural Fit
+Editors,BLUE,0,Natural Fit
+Editors,RED,0,Natural Fit
+Editors,WHITE,0,Natural Fit
+Editors,YELLOW,0,Natural Fit
+"Education Administrators, Kindergarten through Secondary",BLUE,0.278,High RED
+"Education Administrators, Kindergarten through Secondary",RED,0.368,High BLUE
+"Education Administrators, Kindergarten through Secondary",WHITE,0.635,High RED / High BLUE
+"Education Administrators, Kindergarten through Secondary",YELLOW,0.477,High RED / High BLUE
+"Education Administrators, Postsecondary",BLUE,0,Natural Fit
+"Education Administrators, Postsecondary",RED,0,Natural Fit
+"Education Administrators, Postsecondary",WHITE,0.4,High RED / High BLUE
+"Education Administrators, Postsecondary",YELLOW,0,Natural Fit
+"Education and Childcare Administrators, Preschool and Daycare",BLUE,0,Natural Fit
+"Education and Childcare Administrators, Preschool and Daycare",RED,0.201,High BLUE
+"Education and Childcare Administrators, Preschool and Daycare",WHITE,0.269,High BLUE
+"Education and Childcare Administrators, Preschool and Daycare",YELLOW,0.224,High BLUE
+"Education Teachers, Postsecondary",BLUE,0,Natural Fit
+"Education Teachers, Postsecondary",RED,0,Natural Fit
+"Education Teachers, Postsecondary",WHITE,0,Natural Fit
+"Education Teachers, Postsecondary",YELLOW,0,Natural Fit
+"Educational, Guidance, and Career Counselors and Advisors",BLUE,0,Natural Fit
+"Educational, Guidance, and Career Counselors and Advisors",RED,0,Natural Fit
+"Educational, Guidance, and Career Counselors and Advisors",WHITE,0,Natural Fit
+"Educational, Guidance, and Career Counselors and Advisors",YELLOW,0,Natural Fit
+"Electric Motor, Power Tool, and Related Repairers",BLUE,0,Natural Fit
+"Electric Motor, Power Tool, and Related Repairers",RED,0,Natural Fit
+"Electric Motor, Power Tool, and Related Repairers",WHITE,0,Natural Fit
+"Electric Motor, Power Tool, and Related Repairers",YELLOW,0,Natural Fit
+Electrical and Electronic Engineering Technologists and Technicians,BLUE,0,Natural Fit
+Electrical and Electronic Engineering Technologists and Technicians,RED,0,Natural Fit
+Electrical and Electronic Engineering Technologists and Technicians,WHITE,0,Natural Fit
+Electrical and Electronic Engineering Technologists and Technicians,YELLOW,0,Natural Fit
+Electrical and Electronic Equipment Assemblers,BLUE,0,Natural Fit
+Electrical and Electronic Equipment Assemblers,RED,0,Natural Fit
+Electrical and Electronic Equipment Assemblers,WHITE,0,Natural Fit
+Electrical and Electronic Equipment Assemblers,YELLOW,0,Natural Fit
+Electrical and Electronics Drafters,BLUE,0,Natural Fit
+Electrical and Electronics Drafters,RED,0,Natural Fit
+Electrical and Electronics Drafters,WHITE,0,Natural Fit
+Electrical and Electronics Drafters,YELLOW,0,Natural Fit
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",BLUE,0,Natural Fit
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",RED,0,Natural Fit
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",WHITE,0,Natural Fit
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",YELLOW,0,Natural Fit
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",BLUE,0,Natural Fit
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",RED,0,Natural Fit
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",WHITE,0,Natural Fit
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",YELLOW,0,Natural Fit
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",BLUE,0,Natural Fit
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",RED,0,Natural Fit
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",WHITE,0,Natural Fit
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",YELLOW,0,Natural Fit
+Electrical Engineers,BLUE,0,Natural Fit
+Electrical Engineers,RED,0,Natural Fit
+Electrical Engineers,WHITE,0,Natural Fit
+Electrical Engineers,YELLOW,0,Natural Fit
+Electrical Power-Line Installers and Repairers,BLUE,0,Natural Fit
+Electrical Power-Line Installers and Repairers,RED,0,Natural Fit
+Electrical Power-Line Installers and Repairers,WHITE,0,Natural Fit
+Electrical Power-Line Installers and Repairers,YELLOW,0,Natural Fit
+Electricians,BLUE,0,Natural Fit
+Electricians,RED,0,Natural Fit
+Electricians,WHITE,0,Natural Fit
+Electricians,YELLOW,0,Natural Fit
+Electro-Mechanical and Mechatronics Technologists and Technicians,BLUE,0,Natural Fit
+Electro-Mechanical and Mechatronics Technologists and Technicians,RED,0,Natural Fit
+Electro-Mechanical and Mechatronics Technologists and Technicians,WHITE,0,Natural Fit
+Electro-Mechanical and Mechatronics Technologists and Technicians,YELLOW,0,Natural Fit
+Electromechanical Equipment Assemblers,BLUE,0,Natural Fit
+Electromechanical Equipment Assemblers,RED,0,Natural Fit
+Electromechanical Equipment Assemblers,WHITE,0,Natural Fit
+Electromechanical Equipment Assemblers,YELLOW,0,Natural Fit
+"Electronic Equipment Installers and Repairers, Motor Vehicles",BLUE,0,Natural Fit
+"Electronic Equipment Installers and Repairers, Motor Vehicles",RED,0,Natural Fit
+"Electronic Equipment Installers and Repairers, Motor Vehicles",WHITE,0,Natural Fit
+"Electronic Equipment Installers and Repairers, Motor Vehicles",YELLOW,0,Natural Fit
+"Electronics Engineers, Except Computer",BLUE,0,Natural Fit
+"Electronics Engineers, Except Computer",RED,0,Natural Fit
+"Electronics Engineers, Except Computer",WHITE,0,Natural Fit
+"Electronics Engineers, Except Computer",YELLOW,0,Natural Fit
+"Elementary School Teachers, Except Special Education",BLUE,0,Natural Fit
+"Elementary School Teachers, Except Special Education",RED,0.358,High BLUE
+"Elementary School Teachers, Except Special Education",WHITE,0.427,High BLUE
+"Elementary School Teachers, Except Special Education",YELLOW,0.382,High BLUE
+Elevator and Escalator Installers and Repairers,BLUE,0,Natural Fit
+Elevator and Escalator Installers and Repairers,RED,0,Natural Fit
+Elevator and Escalator Installers and Repairers,WHITE,0,Natural Fit
+Elevator and Escalator Installers and Repairers,YELLOW,0,Natural Fit
+"Eligibility Interviewers, Government Programs",BLUE,0,Natural Fit
+"Eligibility Interviewers, Government Programs",RED,0,Natural Fit
+"Eligibility Interviewers, Government Programs",WHITE,0,Natural Fit
+"Eligibility Interviewers, Government Programs",YELLOW,0,Natural Fit
+Embalmers,BLUE,0,Natural Fit
+Embalmers,RED,0,Natural Fit
+Embalmers,WHITE,0,Natural Fit
+Embalmers,YELLOW,0,Natural Fit
+Emergency Management Directors,BLUE,0.402,High RED
+Emergency Management Directors,RED,0.359,High RED / High WHITE
+Emergency Management Directors,WHITE,0.585,High RED
+Emergency Management Directors,YELLOW,0.466,High RED / High WHITE
+Emergency Medical Technicians,BLUE,0,Natural Fit
+Emergency Medical Technicians,RED,0,Natural Fit
+Emergency Medical Technicians,WHITE,0,Natural Fit
+Emergency Medical Technicians,YELLOW,0,Natural Fit
+Emergency Medicine Physicians,BLUE,0.328,High RED / High YELLOW
+Emergency Medicine Physicians,RED,0.222,High YELLOW
+Emergency Medicine Physicians,WHITE,0.567,High RED / High YELLOW
+Emergency Medicine Physicians,YELLOW,0.21,High RED
+Endoscopy Technicians,BLUE,0,Natural Fit
+Endoscopy Technicians,RED,0,Natural Fit
+Endoscopy Technicians,WHITE,0,Natural Fit
+Endoscopy Technicians,YELLOW,0,Natural Fit
+"Energy Engineers, Except Wind and Solar",BLUE,0,Natural Fit
+"Energy Engineers, Except Wind and Solar",RED,0,Natural Fit
+"Energy Engineers, Except Wind and Solar",WHITE,0,Natural Fit
+"Energy Engineers, Except Wind and Solar",YELLOW,0,Natural Fit
+Engine and Other Machine Assemblers,BLUE,0,Natural Fit
+Engine and Other Machine Assemblers,RED,0,Natural Fit
+Engine and Other Machine Assemblers,WHITE,0,Natural Fit
+Engine and Other Machine Assemblers,YELLOW,0,Natural Fit
+"Engineering Teachers, Postsecondary",BLUE,0,Natural Fit
+"Engineering Teachers, Postsecondary",RED,0,Natural Fit
+"Engineering Teachers, Postsecondary",WHITE,0,Natural Fit
+"Engineering Teachers, Postsecondary",YELLOW,0,Natural Fit
+"English Language and Literature Teachers, Postsecondary",BLUE,0,Natural Fit
+"English Language and Literature Teachers, Postsecondary",RED,0,Natural Fit
+"English Language and Literature Teachers, Postsecondary",WHITE,0,Natural Fit
+"English Language and Literature Teachers, Postsecondary",YELLOW,0,Natural Fit
+"Entertainment and Recreation Managers, Except Gambling",BLUE,0,Natural Fit
+"Entertainment and Recreation Managers, Except Gambling",RED,0,Natural Fit
+"Entertainment and Recreation Managers, Except Gambling",WHITE,0,Natural Fit
+"Entertainment and Recreation Managers, Except Gambling",YELLOW,0,Natural Fit
+Environmental Engineering Technologists and Technicians,BLUE,0,Natural Fit
+Environmental Engineering Technologists and Technicians,RED,0,Natural Fit
+Environmental Engineering Technologists and Technicians,WHITE,0,Natural Fit
+Environmental Engineering Technologists and Technicians,YELLOW,0,Natural Fit
+Environmental Engineers,BLUE,0,Natural Fit
+Environmental Engineers,RED,0,Natural Fit
+Environmental Engineers,WHITE,0,Natural Fit
+Environmental Engineers,YELLOW,0,Natural Fit
+"Environmental Science and Protection Technicians, Including Health",BLUE,0,Natural Fit
+"Environmental Science and Protection Technicians, Including Health",RED,0,Natural Fit
+"Environmental Science and Protection Technicians, Including Health",WHITE,0,Natural Fit
+"Environmental Science and Protection Technicians, Including Health",YELLOW,0,Natural Fit
+"Environmental Science Teachers, Postsecondary",BLUE,0,Natural Fit
+"Environmental Science Teachers, Postsecondary",RED,0,Natural Fit
+"Environmental Science Teachers, Postsecondary",WHITE,0,Natural Fit
+"Environmental Science Teachers, Postsecondary",YELLOW,0,Natural Fit
+"Environmental Scientists and Specialists, Including Health",BLUE,0,Natural Fit
+"Environmental Scientists and Specialists, Including Health",RED,0,Natural Fit
+"Environmental Scientists and Specialists, Including Health",WHITE,0,Natural Fit
+"Environmental Scientists and Specialists, Including Health",YELLOW,0,Natural Fit
+Epidemiologists,BLUE,0,Natural Fit
+Epidemiologists,RED,0,Natural Fit
+Epidemiologists,WHITE,0,Natural Fit
+Epidemiologists,YELLOW,0,Natural Fit
+Etchers and Engravers,BLUE,0,Natural Fit
+Etchers and Engravers,RED,0,Natural Fit
+Etchers and Engravers,WHITE,0,Natural Fit
+Etchers and Engravers,YELLOW,0,Natural Fit
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",BLUE,0,Natural Fit
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",RED,0,Natural Fit
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",WHITE,0,Natural Fit
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",YELLOW,0,Natural Fit
+Executive Secretaries and Executive Administrative Assistants,BLUE,0,Natural Fit
+Executive Secretaries and Executive Administrative Assistants,RED,0,Natural Fit
+Executive Secretaries and Executive Administrative Assistants,WHITE,0,Natural Fit
+Executive Secretaries and Executive Administrative Assistants,YELLOW,0,Natural Fit
+Exercise Physiologists,BLUE,0,Natural Fit
+Exercise Physiologists,RED,0,Natural Fit
+Exercise Physiologists,WHITE,0,Natural Fit
+Exercise Physiologists,YELLOW,0,Natural Fit
+Exercise Trainers and Group Fitness Instructors,BLUE,0,Natural Fit
+Exercise Trainers and Group Fitness Instructors,RED,0,Natural Fit
+Exercise Trainers and Group Fitness Instructors,WHITE,0,Natural Fit
+Exercise Trainers and Group Fitness Instructors,YELLOW,0,Natural Fit
+"Explosives Workers, Ordnance Handling Experts, and Blasters",BLUE,0,Natural Fit
+"Explosives Workers, Ordnance Handling Experts, and Blasters",RED,0,Natural Fit
+"Explosives Workers, Ordnance Handling Experts, and Blasters",WHITE,0,Natural Fit
+"Explosives Workers, Ordnance Handling Experts, and Blasters",YELLOW,0,Natural Fit
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",BLUE,0,Natural Fit
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",RED,0,Natural Fit
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",WHITE,0,Natural Fit
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",YELLOW,0,Natural Fit
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+Fabric and Apparel Patternmakers,BLUE,0,Natural Fit
+Fabric and Apparel Patternmakers,RED,0,Natural Fit
+Fabric and Apparel Patternmakers,WHITE,0,Natural Fit
+Fabric and Apparel Patternmakers,YELLOW,0,Natural Fit
+Facilities Managers,BLUE,0,Natural Fit
+Facilities Managers,RED,0,Natural Fit
+Facilities Managers,WHITE,0,Natural Fit
+Facilities Managers,YELLOW,0,Natural Fit
+Fallers,BLUE,0,Natural Fit
+Fallers,RED,0,Natural Fit
+Fallers,WHITE,0,Natural Fit
+Fallers,YELLOW,0,Natural Fit
+"Family and Consumer Sciences Teachers, Postsecondary",BLUE,0,Natural Fit
+"Family and Consumer Sciences Teachers, Postsecondary",RED,0,Natural Fit
+"Family and Consumer Sciences Teachers, Postsecondary",WHITE,0,Natural Fit
+"Family and Consumer Sciences Teachers, Postsecondary",YELLOW,0,Natural Fit
+Family Medicine Physicians,BLUE,0,Natural Fit
+Family Medicine Physicians,RED,0.293,High BLUE
+Family Medicine Physicians,WHITE,0.517,High RED / High BLUE / High YELLOW
+Family Medicine Physicians,YELLOW,0.317,High BLUE
+Farm and Home Management Educators,BLUE,0,Natural Fit
+Farm and Home Management Educators,RED,0,Natural Fit
+Farm and Home Management Educators,WHITE,0,Natural Fit
+Farm and Home Management Educators,YELLOW,0,Natural Fit
+Farm Equipment Mechanics and Service Technicians,BLUE,0,Natural Fit
+Farm Equipment Mechanics and Service Technicians,RED,0,Natural Fit
+Farm Equipment Mechanics and Service Technicians,WHITE,0,Natural Fit
+Farm Equipment Mechanics and Service Technicians,YELLOW,0,Natural Fit
+Farm Labor Contractors,BLUE,0,Natural Fit
+Farm Labor Contractors,RED,0,Natural Fit
+Farm Labor Contractors,WHITE,0,Natural Fit
+Farm Labor Contractors,YELLOW,0,Natural Fit
+"Farmers, Ranchers, and Other Agricultural Managers",BLUE,0,Natural Fit
+"Farmers, Ranchers, and Other Agricultural Managers",RED,0,Natural Fit
+"Farmers, Ranchers, and Other Agricultural Managers",WHITE,0,Natural Fit
+"Farmers, Ranchers, and Other Agricultural Managers",YELLOW,0,Natural Fit
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",BLUE,0,Natural Fit
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",RED,0,Natural Fit
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",WHITE,0,Natural Fit
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",YELLOW,0,Natural Fit
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",BLUE,0,Natural Fit
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",RED,0,Natural Fit
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",WHITE,0,Natural Fit
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",YELLOW,0,Natural Fit
+Fashion Designers,BLUE,0,Natural Fit
+Fashion Designers,RED,0,Natural Fit
+Fashion Designers,WHITE,0,Natural Fit
+Fashion Designers,YELLOW,0,Natural Fit
+Fast Food and Counter Workers,BLUE,0,Natural Fit
+Fast Food and Counter Workers,RED,0,Natural Fit
+Fast Food and Counter Workers,WHITE,0,Natural Fit
+Fast Food and Counter Workers,YELLOW,0,Natural Fit
+Fence Erectors,BLUE,0,Natural Fit
+Fence Erectors,RED,0,Natural Fit
+Fence Erectors,WHITE,0,Natural Fit
+Fence Erectors,YELLOW,0,Natural Fit
+Fiberglass Laminators and Fabricators,BLUE,0,Natural Fit
+Fiberglass Laminators and Fabricators,RED,0,Natural Fit
+Fiberglass Laminators and Fabricators,WHITE,0,Natural Fit
+Fiberglass Laminators and Fabricators,YELLOW,0,Natural Fit
+File Clerks,BLUE,0,Natural Fit
+File Clerks,RED,0,Natural Fit
+File Clerks,WHITE,0,Natural Fit
+File Clerks,YELLOW,0,Natural Fit
+Film and Video Editors,BLUE,0,Natural Fit
+Film and Video Editors,RED,0,Natural Fit
+Film and Video Editors,WHITE,0,Natural Fit
+Film and Video Editors,YELLOW,0,Natural Fit
+Financial and Investment Analysts,BLUE,0,Natural Fit
+Financial and Investment Analysts,RED,0,Natural Fit
+Financial and Investment Analysts,WHITE,0,Natural Fit
+Financial and Investment Analysts,YELLOW,0,Natural Fit
+Financial Examiners,BLUE,0,Natural Fit
+Financial Examiners,RED,0,Natural Fit
+Financial Examiners,WHITE,0,Natural Fit
+Financial Examiners,YELLOW,0,Natural Fit
+Financial Managers,BLUE,0,Natural Fit
+Financial Managers,RED,0,Natural Fit
+Financial Managers,WHITE,0,Natural Fit
+Financial Managers,YELLOW,0,Natural Fit
+Financial Quantitative Analysts,BLUE,0,Natural Fit
+Financial Quantitative Analysts,RED,0,Natural Fit
+Financial Quantitative Analysts,WHITE,0,Natural Fit
+Financial Quantitative Analysts,YELLOW,0,Natural Fit
+Financial Risk Specialists,BLUE,0,Natural Fit
+Financial Risk Specialists,RED,0,Natural Fit
+Financial Risk Specialists,WHITE,0,Natural Fit
+Financial Risk Specialists,YELLOW,0,Natural Fit
+"Fine Artists, Including Painters, Sculptors, and Illustrators",BLUE,0,Natural Fit
+"Fine Artists, Including Painters, Sculptors, and Illustrators",RED,0,Natural Fit
+"Fine Artists, Including Painters, Sculptors, and Illustrators",WHITE,0,Natural Fit
+"Fine Artists, Including Painters, Sculptors, and Illustrators",YELLOW,0,Natural Fit
+Fire Inspectors and Investigators,BLUE,0,Natural Fit
+Fire Inspectors and Investigators,RED,0,Natural Fit
+Fire Inspectors and Investigators,WHITE,0,Natural Fit
+Fire Inspectors and Investigators,YELLOW,0,Natural Fit
+Firefighters,BLUE,0,Natural Fit
+Firefighters,RED,0,Natural Fit
+Firefighters,WHITE,0,Natural Fit
+Firefighters,YELLOW,0,Natural Fit
+Fire-Prevention and Protection Engineers,BLUE,0,Natural Fit
+Fire-Prevention and Protection Engineers,RED,0,Natural Fit
+Fire-Prevention and Protection Engineers,WHITE,0,Natural Fit
+Fire-Prevention and Protection Engineers,YELLOW,0,Natural Fit
+First-Line Supervisors of Construction Trades and Extraction Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Construction Trades and Extraction Workers,RED,0,Natural Fit
+First-Line Supervisors of Construction Trades and Extraction Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Construction Trades and Extraction Workers,YELLOW,0,Natural Fit
+First-Line Supervisors of Correctional Officers,BLUE,0,Natural Fit
+First-Line Supervisors of Correctional Officers,RED,0.238,High WHITE
+First-Line Supervisors of Correctional Officers,WHITE,0,Natural Fit
+First-Line Supervisors of Correctional Officers,YELLOW,0.249,High WHITE
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",BLUE,0,Natural Fit
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",RED,0,Natural Fit
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",WHITE,0,Natural Fit
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",YELLOW,0,Natural Fit
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",BLUE,0,Natural Fit
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",RED,0,Natural Fit
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",WHITE,0,Natural Fit
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",YELLOW,0,Natural Fit
+First-Line Supervisors of Firefighting and Prevention Workers,BLUE,0.234,High RED
+First-Line Supervisors of Firefighting and Prevention Workers,RED,0,Natural Fit
+First-Line Supervisors of Firefighting and Prevention Workers,WHITE,0.418,High RED
+First-Line Supervisors of Firefighting and Prevention Workers,YELLOW,0.229,High RED
+First-Line Supervisors of Food Preparation and Serving Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Food Preparation and Serving Workers,RED,0,Natural Fit
+First-Line Supervisors of Food Preparation and Serving Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Food Preparation and Serving Workers,YELLOW,0,Natural Fit
+First-Line Supervisors of Gambling Services Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Gambling Services Workers,RED,0,Natural Fit
+First-Line Supervisors of Gambling Services Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Gambling Services Workers,YELLOW,0,Natural Fit
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",BLUE,0,Natural Fit
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",RED,0,Natural Fit
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",WHITE,0,Natural Fit
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",YELLOW,0,Natural Fit
+First-Line Supervisors of Housekeeping and Janitorial Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Housekeeping and Janitorial Workers,RED,0,Natural Fit
+First-Line Supervisors of Housekeeping and Janitorial Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Housekeeping and Janitorial Workers,YELLOW,0,Natural Fit
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",BLUE,0,Natural Fit
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",RED,0,Natural Fit
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",WHITE,0,Natural Fit
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",YELLOW,0,Natural Fit
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,BLUE,0,Natural Fit
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,RED,0,Natural Fit
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,WHITE,0,Natural Fit
+First-Line Supervisors of Material-Moving Machine and Vehicle Operators,YELLOW,0,Natural Fit
+"First-Line Supervisors of Mechanics, Installers, and Repairers",BLUE,0,Natural Fit
+"First-Line Supervisors of Mechanics, Installers, and Repairers",RED,0,Natural Fit
+"First-Line Supervisors of Mechanics, Installers, and Repairers",WHITE,0,Natural Fit
+"First-Line Supervisors of Mechanics, Installers, and Repairers",YELLOW,0,Natural Fit
+First-Line Supervisors of Non-Retail Sales Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Non-Retail Sales Workers,RED,0,Natural Fit
+First-Line Supervisors of Non-Retail Sales Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Non-Retail Sales Workers,YELLOW,0,Natural Fit
+First-Line Supervisors of Office and Administrative Support Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Office and Administrative Support Workers,RED,0,Natural Fit
+First-Line Supervisors of Office and Administrative Support Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Office and Administrative Support Workers,YELLOW,0,Natural Fit
+First-Line Supervisors of Passenger Attendants,BLUE,0,Natural Fit
+First-Line Supervisors of Passenger Attendants,RED,0,Natural Fit
+First-Line Supervisors of Passenger Attendants,WHITE,0,Natural Fit
+First-Line Supervisors of Passenger Attendants,YELLOW,0,Natural Fit
+First-Line Supervisors of Personal Service Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Personal Service Workers,RED,0,Natural Fit
+First-Line Supervisors of Personal Service Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Personal Service Workers,YELLOW,0,Natural Fit
+First-Line Supervisors of Police and Detectives,BLUE,0.25,High WHITE
+First-Line Supervisors of Police and Detectives,RED,0.349,High WHITE
+First-Line Supervisors of Police and Detectives,WHITE,0,Natural Fit
+First-Line Supervisors of Police and Detectives,YELLOW,0.36,High WHITE
+First-Line Supervisors of Production and Operating Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Production and Operating Workers,RED,0,Natural Fit
+First-Line Supervisors of Production and Operating Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Production and Operating Workers,YELLOW,0,Natural Fit
+First-Line Supervisors of Retail Sales Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Retail Sales Workers,RED,0,Natural Fit
+First-Line Supervisors of Retail Sales Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Retail Sales Workers,YELLOW,0,Natural Fit
+First-Line Supervisors of Security Workers,BLUE,0,Natural Fit
+First-Line Supervisors of Security Workers,RED,0,Natural Fit
+First-Line Supervisors of Security Workers,WHITE,0,Natural Fit
+First-Line Supervisors of Security Workers,YELLOW,0,Natural Fit
+Fish and Game Wardens,BLUE,0,Natural Fit
+Fish and Game Wardens,RED,0,Natural Fit
+Fish and Game Wardens,WHITE,0,Natural Fit
+Fish and Game Wardens,YELLOW,0,Natural Fit
+Fishing and Hunting Workers,BLUE,0,Natural Fit
+Fishing and Hunting Workers,RED,0,Natural Fit
+Fishing and Hunting Workers,WHITE,0,Natural Fit
+Fishing and Hunting Workers,YELLOW,0,Natural Fit
+Fitness and Wellness Coordinators,BLUE,0,Natural Fit
+Fitness and Wellness Coordinators,RED,0,Natural Fit
+Fitness and Wellness Coordinators,WHITE,0,Natural Fit
+Fitness and Wellness Coordinators,YELLOW,0,Natural Fit
+Flight Attendants,BLUE,0,Natural Fit
+Flight Attendants,RED,0.283,High WHITE
+Flight Attendants,WHITE,0.232,High BLUE
+Flight Attendants,YELLOW,0.294,High WHITE
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",BLUE,0,Natural Fit
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",RED,0,Natural Fit
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",WHITE,0,Natural Fit
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",YELLOW,0,Natural Fit
+Floor Sanders and Finishers,BLUE,0,Natural Fit
+Floor Sanders and Finishers,RED,0,Natural Fit
+Floor Sanders and Finishers,WHITE,0,Natural Fit
+Floor Sanders and Finishers,YELLOW,0,Natural Fit
+Floral Designers,BLUE,0,Natural Fit
+Floral Designers,RED,0,Natural Fit
+Floral Designers,WHITE,0,Natural Fit
+Floral Designers,YELLOW,0,Natural Fit
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",BLUE,0,Natural Fit
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",RED,0,Natural Fit
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",WHITE,0,Natural Fit
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",YELLOW,0,Natural Fit
+Food Batchmakers,BLUE,0,Natural Fit
+Food Batchmakers,RED,0,Natural Fit
+Food Batchmakers,WHITE,0,Natural Fit
+Food Batchmakers,YELLOW,0,Natural Fit
+Food Cooking Machine Operators and Tenders,BLUE,0,Natural Fit
+Food Cooking Machine Operators and Tenders,RED,0,Natural Fit
+Food Cooking Machine Operators and Tenders,WHITE,0,Natural Fit
+Food Cooking Machine Operators and Tenders,YELLOW,0,Natural Fit
+Food Preparation Workers,BLUE,0,Natural Fit
+Food Preparation Workers,RED,0,Natural Fit
+Food Preparation Workers,WHITE,0,Natural Fit
+Food Preparation Workers,YELLOW,0,Natural Fit
+Food Science Technicians,BLUE,0,Natural Fit
+Food Science Technicians,RED,0,Natural Fit
+Food Science Technicians,WHITE,0,Natural Fit
+Food Science Technicians,YELLOW,0,Natural Fit
+Food Scientists and Technologists,BLUE,0,Natural Fit
+Food Scientists and Technologists,RED,0,Natural Fit
+Food Scientists and Technologists,WHITE,0,Natural Fit
+Food Scientists and Technologists,YELLOW,0,Natural Fit
+"Food Servers, Nonrestaurant",BLUE,0,Natural Fit
+"Food Servers, Nonrestaurant",RED,0,Natural Fit
+"Food Servers, Nonrestaurant",WHITE,0,Natural Fit
+"Food Servers, Nonrestaurant",YELLOW,0,Natural Fit
+Food Service Managers,BLUE,0,Natural Fit
+Food Service Managers,RED,0,Natural Fit
+Food Service Managers,WHITE,0,Natural Fit
+Food Service Managers,YELLOW,0,Natural Fit
+"Foreign Language and Literature Teachers, Postsecondary",BLUE,0,Natural Fit
+"Foreign Language and Literature Teachers, Postsecondary",RED,0,Natural Fit
+"Foreign Language and Literature Teachers, Postsecondary",WHITE,0,Natural Fit
+"Foreign Language and Literature Teachers, Postsecondary",YELLOW,0,Natural Fit
+Forensic Science Technicians,BLUE,0,Natural Fit
+Forensic Science Technicians,RED,0,Natural Fit
+Forensic Science Technicians,WHITE,0,Natural Fit
+Forensic Science Technicians,YELLOW,0,Natural Fit
+Forest and Conservation Technicians,BLUE,0,Natural Fit
+Forest and Conservation Technicians,RED,0,Natural Fit
+Forest and Conservation Technicians,WHITE,0,Natural Fit
+Forest and Conservation Technicians,YELLOW,0,Natural Fit
+Forest and Conservation Workers,BLUE,0,Natural Fit
+Forest and Conservation Workers,RED,0,Natural Fit
+Forest and Conservation Workers,WHITE,0,Natural Fit
+Forest and Conservation Workers,YELLOW,0,Natural Fit
+Forest Fire Inspectors and Prevention Specialists,BLUE,0,Natural Fit
+Forest Fire Inspectors and Prevention Specialists,RED,0.217,High WHITE
+Forest Fire Inspectors and Prevention Specialists,WHITE,0,Natural Fit
+Forest Fire Inspectors and Prevention Specialists,YELLOW,0.228,High WHITE
+Foresters,BLUE,0,Natural Fit
+Foresters,RED,0,Natural Fit
+Foresters,WHITE,0,Natural Fit
+Foresters,YELLOW,0,Natural Fit
+"Forestry and Conservation Science Teachers, Postsecondary",BLUE,0,Natural Fit
+"Forestry and Conservation Science Teachers, Postsecondary",RED,0,Natural Fit
+"Forestry and Conservation Science Teachers, Postsecondary",WHITE,0,Natural Fit
+"Forestry and Conservation Science Teachers, Postsecondary",YELLOW,0,Natural Fit
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+Foundry Mold and Coremakers,BLUE,0,Natural Fit
+Foundry Mold and Coremakers,RED,0,Natural Fit
+Foundry Mold and Coremakers,WHITE,0,Natural Fit
+Foundry Mold and Coremakers,YELLOW,0,Natural Fit
+"Fraud Examiners, Investigators and Analysts",BLUE,0,Natural Fit
+"Fraud Examiners, Investigators and Analysts",RED,0,Natural Fit
+"Fraud Examiners, Investigators and Analysts",WHITE,0,Natural Fit
+"Fraud Examiners, Investigators and Analysts",YELLOW,0,Natural Fit
+Freight Forwarders,BLUE,0,Natural Fit
+Freight Forwarders,RED,0,Natural Fit
+Freight Forwarders,WHITE,0,Natural Fit
+Freight Forwarders,YELLOW,0,Natural Fit
+Fuel Cell Engineers,BLUE,0,Natural Fit
+Fuel Cell Engineers,RED,0,Natural Fit
+Fuel Cell Engineers,WHITE,0,Natural Fit
+Fuel Cell Engineers,YELLOW,0,Natural Fit
+Fundraisers,BLUE,0.276,High RED
+Fundraisers,RED,0.346,High BLUE
+Fundraisers,WHITE,0.618,High RED / High BLUE
+Fundraisers,YELLOW,0.458,High RED / High BLUE
+Fundraising Managers,BLUE,0,Natural Fit
+Fundraising Managers,RED,0,Natural Fit
+Fundraising Managers,WHITE,0.345,High RED
+Fundraising Managers,YELLOW,0,Natural Fit
+Funeral Attendants,BLUE,0,Natural Fit
+Funeral Attendants,RED,0,Natural Fit
+Funeral Attendants,WHITE,0,Natural Fit
+Funeral Attendants,YELLOW,0,Natural Fit
+Funeral Home Managers,BLUE,0.347,High WHITE
+Funeral Home Managers,RED,0.569,High BLUE / High WHITE
+Funeral Home Managers,WHITE,0.498,High BLUE / High WHITE
+Funeral Home Managers,YELLOW,0.592,High BLUE / High WHITE
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",BLUE,0,Natural Fit
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",RED,0,Natural Fit
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",WHITE,0,Natural Fit
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",YELLOW,0,Natural Fit
+Furniture Finishers,BLUE,0,Natural Fit
+Furniture Finishers,RED,0,Natural Fit
+Furniture Finishers,WHITE,0,Natural Fit
+Furniture Finishers,YELLOW,0,Natural Fit
+Gambling and Sports Book Writers and Runners,BLUE,0,Natural Fit
+Gambling and Sports Book Writers and Runners,RED,0,Natural Fit
+Gambling and Sports Book Writers and Runners,WHITE,0,Natural Fit
+Gambling and Sports Book Writers and Runners,YELLOW,0,Natural Fit
+Gambling Cage Workers,BLUE,0,Natural Fit
+Gambling Cage Workers,RED,0,Natural Fit
+Gambling Cage Workers,WHITE,0,Natural Fit
+Gambling Cage Workers,YELLOW,0,Natural Fit
+Gambling Change Persons and Booth Cashiers,BLUE,0,Natural Fit
+Gambling Change Persons and Booth Cashiers,RED,0,Natural Fit
+Gambling Change Persons and Booth Cashiers,WHITE,0,Natural Fit
+Gambling Change Persons and Booth Cashiers,YELLOW,0,Natural Fit
+Gambling Dealers,BLUE,0,Natural Fit
+Gambling Dealers,RED,0,Natural Fit
+Gambling Dealers,WHITE,0,Natural Fit
+Gambling Dealers,YELLOW,0,Natural Fit
+Gambling Managers,BLUE,0,Natural Fit
+Gambling Managers,RED,0,Natural Fit
+Gambling Managers,WHITE,0,Natural Fit
+Gambling Managers,YELLOW,0,Natural Fit
+Gambling Surveillance Officers and Gambling Investigators,BLUE,0,Natural Fit
+Gambling Surveillance Officers and Gambling Investigators,RED,0,Natural Fit
+Gambling Surveillance Officers and Gambling Investigators,WHITE,0,Natural Fit
+Gambling Surveillance Officers and Gambling Investigators,YELLOW,0,Natural Fit
+Gas Compressor and Gas Pumping Station Operators,BLUE,0,Natural Fit
+Gas Compressor and Gas Pumping Station Operators,RED,0,Natural Fit
+Gas Compressor and Gas Pumping Station Operators,WHITE,0,Natural Fit
+Gas Compressor and Gas Pumping Station Operators,YELLOW,0,Natural Fit
+Gas Plant Operators,BLUE,0,Natural Fit
+Gas Plant Operators,RED,0,Natural Fit
+Gas Plant Operators,WHITE,0,Natural Fit
+Gas Plant Operators,YELLOW,0,Natural Fit
+Gem and Diamond Workers,BLUE,0,Natural Fit
+Gem and Diamond Workers,RED,0,Natural Fit
+Gem and Diamond Workers,WHITE,0,Natural Fit
+Gem and Diamond Workers,YELLOW,0,Natural Fit
+General and Operations Managers,BLUE,0.21,High RED
+General and Operations Managers,RED,0,Natural Fit
+General and Operations Managers,WHITE,0.393,High RED
+General and Operations Managers,YELLOW,0.205,High RED
+General Internal Medicine Physicians,BLUE,0.213,High YELLOW
+General Internal Medicine Physicians,RED,0.278,High BLUE
+General Internal Medicine Physicians,WHITE,0.507,High BLUE / High YELLOW
+General Internal Medicine Physicians,YELLOW,0.302,High BLUE
+Genetic Counselors,BLUE,0,Natural Fit
+Genetic Counselors,RED,0,Natural Fit
+Genetic Counselors,WHITE,0,Natural Fit
+Genetic Counselors,YELLOW,0,Natural Fit
+Geneticists,BLUE,0,Natural Fit
+Geneticists,RED,0,Natural Fit
+Geneticists,WHITE,0,Natural Fit
+Geneticists,YELLOW,0,Natural Fit
+Geodetic Surveyors,BLUE,0,Natural Fit
+Geodetic Surveyors,RED,0,Natural Fit
+Geodetic Surveyors,WHITE,0,Natural Fit
+Geodetic Surveyors,YELLOW,0,Natural Fit
+Geographers,BLUE,0,Natural Fit
+Geographers,RED,0,Natural Fit
+Geographers,WHITE,0,Natural Fit
+Geographers,YELLOW,0,Natural Fit
+Geographic Information Systems Technologists and Technicians,BLUE,0,Natural Fit
+Geographic Information Systems Technologists and Technicians,RED,0,Natural Fit
+Geographic Information Systems Technologists and Technicians,WHITE,0,Natural Fit
+Geographic Information Systems Technologists and Technicians,YELLOW,0,Natural Fit
+"Geography Teachers, Postsecondary",BLUE,0,Natural Fit
+"Geography Teachers, Postsecondary",RED,0,Natural Fit
+"Geography Teachers, Postsecondary",WHITE,0,Natural Fit
+"Geography Teachers, Postsecondary",YELLOW,0,Natural Fit
+"Geological Technicians, Except Hydrologic Technicians",BLUE,0,Natural Fit
+"Geological Technicians, Except Hydrologic Technicians",RED,0,Natural Fit
+"Geological Technicians, Except Hydrologic Technicians",WHITE,0,Natural Fit
+"Geological Technicians, Except Hydrologic Technicians",YELLOW,0,Natural Fit
+"Geoscientists, Except Hydrologists and Geographers",BLUE,0,Natural Fit
+"Geoscientists, Except Hydrologists and Geographers",RED,0,Natural Fit
+"Geoscientists, Except Hydrologists and Geographers",WHITE,0,Natural Fit
+"Geoscientists, Except Hydrologists and Geographers",YELLOW,0,Natural Fit
+"Glass Blowers, Molders, Benders, and Finishers",BLUE,0,Natural Fit
+"Glass Blowers, Molders, Benders, and Finishers",RED,0,Natural Fit
+"Glass Blowers, Molders, Benders, and Finishers",WHITE,0,Natural Fit
+"Glass Blowers, Molders, Benders, and Finishers",YELLOW,0,Natural Fit
+Glaziers,BLUE,0,Natural Fit
+Glaziers,RED,0,Natural Fit
+Glaziers,WHITE,0,Natural Fit
+Glaziers,YELLOW,0,Natural Fit
+Government Property Inspectors and Investigators,BLUE,0,Natural Fit
+Government Property Inspectors and Investigators,RED,0,Natural Fit
+Government Property Inspectors and Investigators,WHITE,0,Natural Fit
+Government Property Inspectors and Investigators,YELLOW,0,Natural Fit
+"Graders and Sorters, Agricultural Products",BLUE,0,Natural Fit
+"Graders and Sorters, Agricultural Products",RED,0,Natural Fit
+"Graders and Sorters, Agricultural Products",WHITE,0,Natural Fit
+"Graders and Sorters, Agricultural Products",YELLOW,0,Natural Fit
+Graphic Designers,BLUE,0,Natural Fit
+Graphic Designers,RED,0,Natural Fit
+Graphic Designers,WHITE,0,Natural Fit
+Graphic Designers,YELLOW,0,Natural Fit
+"Grinding and Polishing Workers, Hand",BLUE,0,Natural Fit
+"Grinding and Polishing Workers, Hand",RED,0,Natural Fit
+"Grinding and Polishing Workers, Hand",WHITE,0,Natural Fit
+"Grinding and Polishing Workers, Hand",YELLOW,0,Natural Fit
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+"Hairdressers, Hairstylists, and Cosmetologists",BLUE,0,Natural Fit
+"Hairdressers, Hairstylists, and Cosmetologists",RED,0,Natural Fit
+"Hairdressers, Hairstylists, and Cosmetologists",WHITE,0,Natural Fit
+"Hairdressers, Hairstylists, and Cosmetologists",YELLOW,0,Natural Fit
+Hazardous Materials Removal Workers,BLUE,0,Natural Fit
+Hazardous Materials Removal Workers,RED,0,Natural Fit
+Hazardous Materials Removal Workers,WHITE,0,Natural Fit
+Hazardous Materials Removal Workers,YELLOW,0,Natural Fit
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",BLUE,0,Natural Fit
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",RED,0,Natural Fit
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",WHITE,0,Natural Fit
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",YELLOW,0,Natural Fit
+Health Education Specialists,BLUE,0,Natural Fit
+Health Education Specialists,RED,0,Natural Fit
+Health Education Specialists,WHITE,0.365,High BLUE / High YELLOW
+Health Education Specialists,YELLOW,0,Natural Fit
+Health Informatics Specialists,BLUE,0,Natural Fit
+Health Informatics Specialists,RED,0,Natural Fit
+Health Informatics Specialists,WHITE,0,Natural Fit
+Health Informatics Specialists,YELLOW,0,Natural Fit
+Health Information Technologists and Medical Registrars,BLUE,0,Natural Fit
+Health Information Technologists and Medical Registrars,RED,0,Natural Fit
+Health Information Technologists and Medical Registrars,WHITE,0,Natural Fit
+Health Information Technologists and Medical Registrars,YELLOW,0,Natural Fit
+"Health Specialties Teachers, Postsecondary",BLUE,0,Natural Fit
+"Health Specialties Teachers, Postsecondary",RED,0,Natural Fit
+"Health Specialties Teachers, Postsecondary",WHITE,0,Natural Fit
+"Health Specialties Teachers, Postsecondary",YELLOW,0,Natural Fit
+Healthcare Social Workers,BLUE,0,Natural Fit
+Healthcare Social Workers,RED,0.294,High BLUE
+Healthcare Social Workers,WHITE,0.362,High BLUE
+Healthcare Social Workers,YELLOW,0.318,High BLUE
+Hearing Aid Specialists,BLUE,0,Natural Fit
+Hearing Aid Specialists,RED,0,Natural Fit
+Hearing Aid Specialists,WHITE,0,Natural Fit
+Hearing Aid Specialists,YELLOW,0,Natural Fit
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",BLUE,0,Natural Fit
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",RED,0,Natural Fit
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",WHITE,0,Natural Fit
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",YELLOW,0,Natural Fit
+Heavy and Tractor-Trailer Truck Drivers,BLUE,0,Natural Fit
+Heavy and Tractor-Trailer Truck Drivers,RED,0,Natural Fit
+Heavy and Tractor-Trailer Truck Drivers,WHITE,0,Natural Fit
+Heavy and Tractor-Trailer Truck Drivers,YELLOW,0,Natural Fit
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",BLUE,0,Natural Fit
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",RED,0,Natural Fit
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",WHITE,0,Natural Fit
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",YELLOW,0,Natural Fit
+Helpers--Carpenters,BLUE,0,Natural Fit
+Helpers--Carpenters,RED,0,Natural Fit
+Helpers--Carpenters,WHITE,0,Natural Fit
+Helpers--Carpenters,YELLOW,0,Natural Fit
+Helpers--Electricians,BLUE,0,Natural Fit
+Helpers--Electricians,RED,0,Natural Fit
+Helpers--Electricians,WHITE,0,Natural Fit
+Helpers--Electricians,YELLOW,0,Natural Fit
+Helpers--Extraction Workers,BLUE,0,Natural Fit
+Helpers--Extraction Workers,RED,0,Natural Fit
+Helpers--Extraction Workers,WHITE,0,Natural Fit
+Helpers--Extraction Workers,YELLOW,0,Natural Fit
+"Helpers--Installation, Maintenance, and Repair Workers",BLUE,0,Natural Fit
+"Helpers--Installation, Maintenance, and Repair Workers",RED,0,Natural Fit
+"Helpers--Installation, Maintenance, and Repair Workers",WHITE,0,Natural Fit
+"Helpers--Installation, Maintenance, and Repair Workers",YELLOW,0,Natural Fit
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",BLUE,0,Natural Fit
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",RED,0,Natural Fit
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",WHITE,0,Natural Fit
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",YELLOW,0,Natural Fit
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",BLUE,0,Natural Fit
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",RED,0,Natural Fit
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",WHITE,0,Natural Fit
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",YELLOW,0,Natural Fit
+Helpers--Production Workers,BLUE,0,Natural Fit
+Helpers--Production Workers,RED,0,Natural Fit
+Helpers--Production Workers,WHITE,0,Natural Fit
+Helpers--Production Workers,YELLOW,0,Natural Fit
+Helpers--Roofers,BLUE,0,Natural Fit
+Helpers--Roofers,RED,0,Natural Fit
+Helpers--Roofers,WHITE,0,Natural Fit
+Helpers--Roofers,YELLOW,0,Natural Fit
+Highway Maintenance Workers,BLUE,0,Natural Fit
+Highway Maintenance Workers,RED,0,Natural Fit
+Highway Maintenance Workers,WHITE,0,Natural Fit
+Highway Maintenance Workers,YELLOW,0,Natural Fit
+Histology Technicians,BLUE,0,Natural Fit
+Histology Technicians,RED,0,Natural Fit
+Histology Technicians,WHITE,0,Natural Fit
+Histology Technicians,YELLOW,0,Natural Fit
+Historians,BLUE,0,Natural Fit
+Historians,RED,0,Natural Fit
+Historians,WHITE,0,Natural Fit
+Historians,YELLOW,0,Natural Fit
+"History Teachers, Postsecondary",BLUE,0,Natural Fit
+"History Teachers, Postsecondary",RED,0,Natural Fit
+"History Teachers, Postsecondary",WHITE,0,Natural Fit
+"History Teachers, Postsecondary",YELLOW,0,Natural Fit
+Histotechnologists,BLUE,0,Natural Fit
+Histotechnologists,RED,0,Natural Fit
+Histotechnologists,WHITE,0,Natural Fit
+Histotechnologists,YELLOW,0,Natural Fit
+Hoist and Winch Operators,BLUE,0,Natural Fit
+Hoist and Winch Operators,RED,0,Natural Fit
+Hoist and Winch Operators,WHITE,0,Natural Fit
+Hoist and Winch Operators,YELLOW,0,Natural Fit
+Home Appliance Repairers,BLUE,0,Natural Fit
+Home Appliance Repairers,RED,0,Natural Fit
+Home Appliance Repairers,WHITE,0,Natural Fit
+Home Appliance Repairers,YELLOW,0,Natural Fit
+Home Health Aides,BLUE,0,Natural Fit
+Home Health Aides,RED,0,Natural Fit
+Home Health Aides,WHITE,0,Natural Fit
+Home Health Aides,YELLOW,0,Natural Fit
+Hospitalists,BLUE,0,Natural Fit
+Hospitalists,RED,0.274,High BLUE
+Hospitalists,WHITE,0.527,High RED / High BLUE / High YELLOW
+Hospitalists,YELLOW,0.298,High BLUE
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",BLUE,0,Natural Fit
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",RED,0,Natural Fit
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",WHITE,0,Natural Fit
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",YELLOW,0,Natural Fit
+"Hotel, Motel, and Resort Desk Clerks",BLUE,0,Natural Fit
+"Hotel, Motel, and Resort Desk Clerks",RED,0,Natural Fit
+"Hotel, Motel, and Resort Desk Clerks",WHITE,0,Natural Fit
+"Hotel, Motel, and Resort Desk Clerks",YELLOW,0,Natural Fit
+Human Factors Engineers and Ergonomists,BLUE,0,Natural Fit
+Human Factors Engineers and Ergonomists,RED,0,Natural Fit
+Human Factors Engineers and Ergonomists,WHITE,0,Natural Fit
+Human Factors Engineers and Ergonomists,YELLOW,0,Natural Fit
+"Human Resources Assistants, Except Payroll and Timekeeping",BLUE,0,Natural Fit
+"Human Resources Assistants, Except Payroll and Timekeeping",RED,0,Natural Fit
+"Human Resources Assistants, Except Payroll and Timekeeping",WHITE,0,Natural Fit
+"Human Resources Assistants, Except Payroll and Timekeeping",YELLOW,0,Natural Fit
+Human Resources Managers,BLUE,0,Natural Fit
+Human Resources Managers,RED,0,Natural Fit
+Human Resources Managers,WHITE,0,Natural Fit
+Human Resources Managers,YELLOW,0,Natural Fit
+Human Resources Specialists,BLUE,0,Natural Fit
+Human Resources Specialists,RED,0,Natural Fit
+Human Resources Specialists,WHITE,0,Natural Fit
+Human Resources Specialists,YELLOW,0,Natural Fit
+Hydrologic Technicians,BLUE,0,Natural Fit
+Hydrologic Technicians,RED,0,Natural Fit
+Hydrologic Technicians,WHITE,0,Natural Fit
+Hydrologic Technicians,YELLOW,0,Natural Fit
+Hydrologists,BLUE,0,Natural Fit
+Hydrologists,RED,0,Natural Fit
+Hydrologists,WHITE,0,Natural Fit
+Hydrologists,YELLOW,0,Natural Fit
+Industrial Engineering Technologists and Technicians,BLUE,0,Natural Fit
+Industrial Engineering Technologists and Technicians,RED,0,Natural Fit
+Industrial Engineering Technologists and Technicians,WHITE,0,Natural Fit
+Industrial Engineering Technologists and Technicians,YELLOW,0,Natural Fit
+Industrial Engineers,BLUE,0,Natural Fit
+Industrial Engineers,RED,0,Natural Fit
+Industrial Engineers,WHITE,0,Natural Fit
+Industrial Engineers,YELLOW,0,Natural Fit
+Industrial Machinery Mechanics,BLUE,0,Natural Fit
+Industrial Machinery Mechanics,RED,0,Natural Fit
+Industrial Machinery Mechanics,WHITE,0,Natural Fit
+Industrial Machinery Mechanics,YELLOW,0,Natural Fit
+Industrial Production Managers,BLUE,0,Natural Fit
+Industrial Production Managers,RED,0,Natural Fit
+Industrial Production Managers,WHITE,0,Natural Fit
+Industrial Production Managers,YELLOW,0,Natural Fit
+Industrial Truck and Tractor Operators,BLUE,0,Natural Fit
+Industrial Truck and Tractor Operators,RED,0,Natural Fit
+Industrial Truck and Tractor Operators,WHITE,0,Natural Fit
+Industrial Truck and Tractor Operators,YELLOW,0,Natural Fit
+Industrial-Organizational Psychologists,BLUE,0.307,High YELLOW
+Industrial-Organizational Psychologists,RED,0.283,High YELLOW
+Industrial-Organizational Psychologists,WHITE,0.464,High YELLOW
+Industrial-Organizational Psychologists,YELLOW,0,Natural Fit
+Information Security Analysts,BLUE,0.204,High YELLOW
+Information Security Analysts,RED,0,Natural Fit
+Information Security Analysts,WHITE,0.361,High YELLOW
+Information Security Analysts,YELLOW,0,Natural Fit
+Information Security Engineers,BLUE,0,Natural Fit
+Information Security Engineers,RED,0,Natural Fit
+Information Security Engineers,WHITE,0.279,High YELLOW
+Information Security Engineers,YELLOW,0,Natural Fit
+Information Technology Project Managers,BLUE,0.207,High YELLOW
+Information Technology Project Managers,RED,0,Natural Fit
+Information Technology Project Managers,WHITE,0.517,High RED / High YELLOW
+Information Technology Project Managers,YELLOW,0,Natural Fit
+"Inspectors, Testers, Sorters, Samplers, and Weighers",BLUE,0,Natural Fit
+"Inspectors, Testers, Sorters, Samplers, and Weighers",RED,0,Natural Fit
+"Inspectors, Testers, Sorters, Samplers, and Weighers",WHITE,0,Natural Fit
+"Inspectors, Testers, Sorters, Samplers, and Weighers",YELLOW,0,Natural Fit
+Instructional Coordinators,BLUE,0.215,High YELLOW
+Instructional Coordinators,RED,0,Natural Fit
+Instructional Coordinators,WHITE,0.371,High YELLOW
+Instructional Coordinators,YELLOW,0,Natural Fit
+"Insulation Workers, Floor, Ceiling, and Wall",BLUE,0,Natural Fit
+"Insulation Workers, Floor, Ceiling, and Wall",RED,0,Natural Fit
+"Insulation Workers, Floor, Ceiling, and Wall",WHITE,0,Natural Fit
+"Insulation Workers, Floor, Ceiling, and Wall",YELLOW,0,Natural Fit
+"Insulation Workers, Mechanical",BLUE,0,Natural Fit
+"Insulation Workers, Mechanical",RED,0,Natural Fit
+"Insulation Workers, Mechanical",WHITE,0,Natural Fit
+"Insulation Workers, Mechanical",YELLOW,0,Natural Fit
+"Insurance Appraisers, Auto Damage",BLUE,0,Natural Fit
+"Insurance Appraisers, Auto Damage",RED,0,Natural Fit
+"Insurance Appraisers, Auto Damage",WHITE,0,Natural Fit
+"Insurance Appraisers, Auto Damage",YELLOW,0,Natural Fit
+Insurance Claims and Policy Processing Clerks,BLUE,0,Natural Fit
+Insurance Claims and Policy Processing Clerks,RED,0,Natural Fit
+Insurance Claims and Policy Processing Clerks,WHITE,0,Natural Fit
+Insurance Claims and Policy Processing Clerks,YELLOW,0,Natural Fit
+Insurance Sales Agents,BLUE,0,Natural Fit
+Insurance Sales Agents,RED,0,Natural Fit
+Insurance Sales Agents,WHITE,0,Natural Fit
+Insurance Sales Agents,YELLOW,0,Natural Fit
+Insurance Underwriters,BLUE,0,Natural Fit
+Insurance Underwriters,RED,0,Natural Fit
+Insurance Underwriters,WHITE,0,Natural Fit
+Insurance Underwriters,YELLOW,0,Natural Fit
+Intelligence Analysts,BLUE,0,Natural Fit
+Intelligence Analysts,RED,0,Natural Fit
+Intelligence Analysts,WHITE,0,Natural Fit
+Intelligence Analysts,YELLOW,0,Natural Fit
+Interior Designers,BLUE,0,Natural Fit
+Interior Designers,RED,0,Natural Fit
+Interior Designers,WHITE,0,Natural Fit
+Interior Designers,YELLOW,0,Natural Fit
+Interpreters and Translators,BLUE,0,Natural Fit
+Interpreters and Translators,RED,0,Natural Fit
+Interpreters and Translators,WHITE,0,Natural Fit
+Interpreters and Translators,YELLOW,0,Natural Fit
+"Interviewers, Except Eligibility and Loan",BLUE,0,Natural Fit
+"Interviewers, Except Eligibility and Loan",RED,0,Natural Fit
+"Interviewers, Except Eligibility and Loan",WHITE,0,Natural Fit
+"Interviewers, Except Eligibility and Loan",YELLOW,0,Natural Fit
+Investment Fund Managers,BLUE,0,Natural Fit
+Investment Fund Managers,RED,0,Natural Fit
+Investment Fund Managers,WHITE,0.32,High RED
+Investment Fund Managers,YELLOW,0,Natural Fit
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",BLUE,0,Natural Fit
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",RED,0,Natural Fit
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",WHITE,0,Natural Fit
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",YELLOW,0,Natural Fit
+Jewelers and Precious Stone and Metal Workers,BLUE,0,Natural Fit
+Jewelers and Precious Stone and Metal Workers,RED,0,Natural Fit
+Jewelers and Precious Stone and Metal Workers,WHITE,0,Natural Fit
+Jewelers and Precious Stone and Metal Workers,YELLOW,0,Natural Fit
+"Judges, Magistrate Judges, and Magistrates",BLUE,0,Natural Fit
+"Judges, Magistrate Judges, and Magistrates",RED,0,Natural Fit
+"Judges, Magistrate Judges, and Magistrates",WHITE,0,Natural Fit
+"Judges, Magistrate Judges, and Magistrates",YELLOW,0,Natural Fit
+Judicial Law Clerks,BLUE,0,Natural Fit
+Judicial Law Clerks,RED,0,Natural Fit
+Judicial Law Clerks,WHITE,0,Natural Fit
+Judicial Law Clerks,YELLOW,0,Natural Fit
+"Kindergarten Teachers, Except Special Education",BLUE,0,Natural Fit
+"Kindergarten Teachers, Except Special Education",RED,0,Natural Fit
+"Kindergarten Teachers, Except Special Education",WHITE,0.25,High BLUE
+"Kindergarten Teachers, Except Special Education",YELLOW,0.205,High BLUE
+Labor Relations Specialists,BLUE,0,Natural Fit
+Labor Relations Specialists,RED,0,Natural Fit
+Labor Relations Specialists,WHITE,0,Natural Fit
+Labor Relations Specialists,YELLOW,0,Natural Fit
+"Laborers and Freight, Stock, and Material Movers, Hand",BLUE,0,Natural Fit
+"Laborers and Freight, Stock, and Material Movers, Hand",RED,0,Natural Fit
+"Laborers and Freight, Stock, and Material Movers, Hand",WHITE,0,Natural Fit
+"Laborers and Freight, Stock, and Material Movers, Hand",YELLOW,0,Natural Fit
+Landscape Architects,BLUE,0,Natural Fit
+Landscape Architects,RED,0,Natural Fit
+Landscape Architects,WHITE,0,Natural Fit
+Landscape Architects,YELLOW,0,Natural Fit
+Landscaping and Groundskeeping Workers,BLUE,0,Natural Fit
+Landscaping and Groundskeeping Workers,RED,0,Natural Fit
+Landscaping and Groundskeeping Workers,WHITE,0,Natural Fit
+Landscaping and Groundskeeping Workers,YELLOW,0,Natural Fit
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+Laundry and Dry-Cleaning Workers,BLUE,0,Natural Fit
+Laundry and Dry-Cleaning Workers,RED,0,Natural Fit
+Laundry and Dry-Cleaning Workers,WHITE,0,Natural Fit
+Laundry and Dry-Cleaning Workers,YELLOW,0,Natural Fit
+"Law Teachers, Postsecondary",BLUE,0,Natural Fit
+"Law Teachers, Postsecondary",RED,0,Natural Fit
+"Law Teachers, Postsecondary",WHITE,0,Natural Fit
+"Law Teachers, Postsecondary",YELLOW,0,Natural Fit
+Lawyers,BLUE,0,Natural Fit
+Lawyers,RED,0,Natural Fit
+Lawyers,WHITE,0,Natural Fit
+Lawyers,YELLOW,0,Natural Fit
+"Layout Workers, Metal and Plastic",BLUE,0,Natural Fit
+"Layout Workers, Metal and Plastic",RED,0,Natural Fit
+"Layout Workers, Metal and Plastic",WHITE,0,Natural Fit
+"Layout Workers, Metal and Plastic",YELLOW,0,Natural Fit
+Legal Secretaries and Administrative Assistants,BLUE,0,Natural Fit
+Legal Secretaries and Administrative Assistants,RED,0,Natural Fit
+Legal Secretaries and Administrative Assistants,WHITE,0,Natural Fit
+Legal Secretaries and Administrative Assistants,YELLOW,0,Natural Fit
+Legislators,BLUE,0.415,High RED
+Legislators,RED,0.287,High RED
+Legislators,WHITE,0.598,High RED
+Legislators,YELLOW,0.409,High RED
+Librarians and Media Collections Specialists,BLUE,0,Natural Fit
+Librarians and Media Collections Specialists,RED,0,Natural Fit
+Librarians and Media Collections Specialists,WHITE,0,Natural Fit
+Librarians and Media Collections Specialists,YELLOW,0,Natural Fit
+"Library Assistants, Clerical",BLUE,0,Natural Fit
+"Library Assistants, Clerical",RED,0,Natural Fit
+"Library Assistants, Clerical",WHITE,0,Natural Fit
+"Library Assistants, Clerical",YELLOW,0,Natural Fit
+"Library Science Teachers, Postsecondary",BLUE,0,Natural Fit
+"Library Science Teachers, Postsecondary",RED,0,Natural Fit
+"Library Science Teachers, Postsecondary",WHITE,0,Natural Fit
+"Library Science Teachers, Postsecondary",YELLOW,0,Natural Fit
+Library Technicians,BLUE,0,Natural Fit
+Library Technicians,RED,0,Natural Fit
+Library Technicians,WHITE,0,Natural Fit
+Library Technicians,YELLOW,0,Natural Fit
+Licensed Practical and Licensed Vocational Nurses,BLUE,0,Natural Fit
+Licensed Practical and Licensed Vocational Nurses,RED,0,Natural Fit
+Licensed Practical and Licensed Vocational Nurses,WHITE,0,Natural Fit
+Licensed Practical and Licensed Vocational Nurses,YELLOW,0,Natural Fit
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",BLUE,0,Natural Fit
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",RED,0,Natural Fit
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",WHITE,0,Natural Fit
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",YELLOW,0,Natural Fit
+Light Truck Drivers,BLUE,0,Natural Fit
+Light Truck Drivers,RED,0,Natural Fit
+Light Truck Drivers,WHITE,0,Natural Fit
+Light Truck Drivers,YELLOW,0,Natural Fit
+Lighting Technicians,BLUE,0,Natural Fit
+Lighting Technicians,RED,0,Natural Fit
+Lighting Technicians,WHITE,0,Natural Fit
+Lighting Technicians,YELLOW,0,Natural Fit
+"Loading and Moving Machine Operators, Underground Mining",BLUE,0,Natural Fit
+"Loading and Moving Machine Operators, Underground Mining",RED,0,Natural Fit
+"Loading and Moving Machine Operators, Underground Mining",WHITE,0,Natural Fit
+"Loading and Moving Machine Operators, Underground Mining",YELLOW,0,Natural Fit
+Loan Interviewers and Clerks,BLUE,0,Natural Fit
+Loan Interviewers and Clerks,RED,0,Natural Fit
+Loan Interviewers and Clerks,WHITE,0,Natural Fit
+Loan Interviewers and Clerks,YELLOW,0,Natural Fit
+Loan Officers,BLUE,0,Natural Fit
+Loan Officers,RED,0,Natural Fit
+Loan Officers,WHITE,0,Natural Fit
+Loan Officers,YELLOW,0,Natural Fit
+"Locker Room, Coatroom, and Dressing Room Attendants",BLUE,0,Natural Fit
+"Locker Room, Coatroom, and Dressing Room Attendants",RED,0,Natural Fit
+"Locker Room, Coatroom, and Dressing Room Attendants",WHITE,0,Natural Fit
+"Locker Room, Coatroom, and Dressing Room Attendants",YELLOW,0,Natural Fit
+Locksmiths and Safe Repairers,BLUE,0,Natural Fit
+Locksmiths and Safe Repairers,RED,0,Natural Fit
+Locksmiths and Safe Repairers,WHITE,0,Natural Fit
+Locksmiths and Safe Repairers,YELLOW,0,Natural Fit
+Locomotive Engineers,BLUE,0,Natural Fit
+Locomotive Engineers,RED,0,Natural Fit
+Locomotive Engineers,WHITE,0,Natural Fit
+Locomotive Engineers,YELLOW,0,Natural Fit
+Lodging Managers,BLUE,0,Natural Fit
+Lodging Managers,RED,0,Natural Fit
+Lodging Managers,WHITE,0,Natural Fit
+Lodging Managers,YELLOW,0,Natural Fit
+Log Graders and Scalers,BLUE,0,Natural Fit
+Log Graders and Scalers,RED,0,Natural Fit
+Log Graders and Scalers,WHITE,0,Natural Fit
+Log Graders and Scalers,YELLOW,0,Natural Fit
+Logging Equipment Operators,BLUE,0,Natural Fit
+Logging Equipment Operators,RED,0,Natural Fit
+Logging Equipment Operators,WHITE,0,Natural Fit
+Logging Equipment Operators,YELLOW,0,Natural Fit
+Logisticians,BLUE,0,Natural Fit
+Logisticians,RED,0,Natural Fit
+Logisticians,WHITE,0,Natural Fit
+Logisticians,YELLOW,0,Natural Fit
+Logistics Analysts,BLUE,0,Natural Fit
+Logistics Analysts,RED,0,Natural Fit
+Logistics Analysts,WHITE,0,Natural Fit
+Logistics Analysts,YELLOW,0,Natural Fit
+Logistics Engineers,BLUE,0,Natural Fit
+Logistics Engineers,RED,0,Natural Fit
+Logistics Engineers,WHITE,0,Natural Fit
+Logistics Engineers,YELLOW,0,Natural Fit
+Loss Prevention Managers,BLUE,0,Natural Fit
+Loss Prevention Managers,RED,0,Natural Fit
+Loss Prevention Managers,WHITE,0,Natural Fit
+Loss Prevention Managers,YELLOW,0,Natural Fit
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",BLUE,0,Natural Fit
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",RED,0,Natural Fit
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",WHITE,0.217,High BLUE
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",YELLOW,0,Natural Fit
+Machine Feeders and Offbearers,BLUE,0,Natural Fit
+Machine Feeders and Offbearers,RED,0,Natural Fit
+Machine Feeders and Offbearers,WHITE,0,Natural Fit
+Machine Feeders and Offbearers,YELLOW,0,Natural Fit
+Machinists,BLUE,0,Natural Fit
+Machinists,RED,0,Natural Fit
+Machinists,WHITE,0,Natural Fit
+Machinists,YELLOW,0,Natural Fit
+Magnetic Resonance Imaging Technologists,BLUE,0,Natural Fit
+Magnetic Resonance Imaging Technologists,RED,0,Natural Fit
+Magnetic Resonance Imaging Technologists,WHITE,0,Natural Fit
+Magnetic Resonance Imaging Technologists,YELLOW,0,Natural Fit
+Maids and Housekeeping Cleaners,BLUE,0,Natural Fit
+Maids and Housekeeping Cleaners,RED,0,Natural Fit
+Maids and Housekeeping Cleaners,WHITE,0,Natural Fit
+Maids and Housekeeping Cleaners,YELLOW,0,Natural Fit
+"Mail Clerks and Mail Machine Operators, Except Postal Service",BLUE,0,Natural Fit
+"Mail Clerks and Mail Machine Operators, Except Postal Service",RED,0,Natural Fit
+"Mail Clerks and Mail Machine Operators, Except Postal Service",WHITE,0,Natural Fit
+"Mail Clerks and Mail Machine Operators, Except Postal Service",YELLOW,0,Natural Fit
+"Maintenance and Repair Workers, General",BLUE,0,Natural Fit
+"Maintenance and Repair Workers, General",RED,0,Natural Fit
+"Maintenance and Repair Workers, General",WHITE,0,Natural Fit
+"Maintenance and Repair Workers, General",YELLOW,0,Natural Fit
+"Maintenance Workers, Machinery",BLUE,0,Natural Fit
+"Maintenance Workers, Machinery",RED,0,Natural Fit
+"Maintenance Workers, Machinery",WHITE,0,Natural Fit
+"Maintenance Workers, Machinery",YELLOW,0,Natural Fit
+"Makeup Artists, Theatrical and Performance",BLUE,0,Natural Fit
+"Makeup Artists, Theatrical and Performance",RED,0,Natural Fit
+"Makeup Artists, Theatrical and Performance",WHITE,0,Natural Fit
+"Makeup Artists, Theatrical and Performance",YELLOW,0,Natural Fit
+Management Analysts,BLUE,0,Natural Fit
+Management Analysts,RED,0,Natural Fit
+Management Analysts,WHITE,0.266,High YELLOW
+Management Analysts,YELLOW,0,Natural Fit
+Manicurists and Pedicurists,BLUE,0,Natural Fit
+Manicurists and Pedicurists,RED,0,Natural Fit
+Manicurists and Pedicurists,WHITE,0,Natural Fit
+Manicurists and Pedicurists,YELLOW,0,Natural Fit
+Manufactured Building and Mobile Home Installers,BLUE,0,Natural Fit
+Manufactured Building and Mobile Home Installers,RED,0,Natural Fit
+Manufactured Building and Mobile Home Installers,WHITE,0,Natural Fit
+Manufactured Building and Mobile Home Installers,YELLOW,0,Natural Fit
+Manufacturing Engineers,BLUE,0,Natural Fit
+Manufacturing Engineers,RED,0,Natural Fit
+Manufacturing Engineers,WHITE,0,Natural Fit
+Manufacturing Engineers,YELLOW,0,Natural Fit
+Marine Engineers and Naval Architects,BLUE,0,Natural Fit
+Marine Engineers and Naval Architects,RED,0,Natural Fit
+Marine Engineers and Naval Architects,WHITE,0,Natural Fit
+Marine Engineers and Naval Architects,YELLOW,0,Natural Fit
+Market Research Analysts and Marketing Specialists,BLUE,0,Natural Fit
+Market Research Analysts and Marketing Specialists,RED,0,Natural Fit
+Market Research Analysts and Marketing Specialists,WHITE,0,Natural Fit
+Market Research Analysts and Marketing Specialists,YELLOW,0,Natural Fit
+Marketing Managers,BLUE,0,Natural Fit
+Marketing Managers,RED,0,Natural Fit
+Marketing Managers,WHITE,0.434,High RED / High YELLOW
+Marketing Managers,YELLOW,0,Natural Fit
+Marriage and Family Therapists,BLUE,0,Natural Fit
+Marriage and Family Therapists,RED,0,Natural Fit
+Marriage and Family Therapists,WHITE,0.26,High BLUE
+Marriage and Family Therapists,YELLOW,0.215,High BLUE
+Massage Therapists,BLUE,0,Natural Fit
+Massage Therapists,RED,0,Natural Fit
+Massage Therapists,WHITE,0,Natural Fit
+Massage Therapists,YELLOW,0,Natural Fit
+Materials Engineers,BLUE,0,Natural Fit
+Materials Engineers,RED,0,Natural Fit
+Materials Engineers,WHITE,0,Natural Fit
+Materials Engineers,YELLOW,0,Natural Fit
+Materials Scientists,BLUE,0,Natural Fit
+Materials Scientists,RED,0,Natural Fit
+Materials Scientists,WHITE,0,Natural Fit
+Materials Scientists,YELLOW,0,Natural Fit
+"Mathematical Science Teachers, Postsecondary",BLUE,0,Natural Fit
+"Mathematical Science Teachers, Postsecondary",RED,0,Natural Fit
+"Mathematical Science Teachers, Postsecondary",WHITE,0,Natural Fit
+"Mathematical Science Teachers, Postsecondary",YELLOW,0,Natural Fit
+Mathematicians,BLUE,0,Natural Fit
+Mathematicians,RED,0,Natural Fit
+Mathematicians,WHITE,0,Natural Fit
+Mathematicians,YELLOW,0,Natural Fit
+"Meat, Poultry, and Fish Cutters and Trimmers",BLUE,0,Natural Fit
+"Meat, Poultry, and Fish Cutters and Trimmers",RED,0,Natural Fit
+"Meat, Poultry, and Fish Cutters and Trimmers",WHITE,0,Natural Fit
+"Meat, Poultry, and Fish Cutters and Trimmers",YELLOW,0,Natural Fit
+Mechanical Door Repairers,BLUE,0,Natural Fit
+Mechanical Door Repairers,RED,0,Natural Fit
+Mechanical Door Repairers,WHITE,0,Natural Fit
+Mechanical Door Repairers,YELLOW,0,Natural Fit
+Mechanical Drafters,BLUE,0,Natural Fit
+Mechanical Drafters,RED,0,Natural Fit
+Mechanical Drafters,WHITE,0,Natural Fit
+Mechanical Drafters,YELLOW,0,Natural Fit
+Mechanical Engineering Technologists and Technicians,BLUE,0,Natural Fit
+Mechanical Engineering Technologists and Technicians,RED,0,Natural Fit
+Mechanical Engineering Technologists and Technicians,WHITE,0,Natural Fit
+Mechanical Engineering Technologists and Technicians,YELLOW,0,Natural Fit
+Mechanical Engineers,BLUE,0,Natural Fit
+Mechanical Engineers,RED,0,Natural Fit
+Mechanical Engineers,WHITE,0,Natural Fit
+Mechanical Engineers,YELLOW,0,Natural Fit
+Mechatronics Engineers,BLUE,0,Natural Fit
+Mechatronics Engineers,RED,0,Natural Fit
+Mechatronics Engineers,WHITE,0,Natural Fit
+Mechatronics Engineers,YELLOW,0,Natural Fit
+Media Programming Directors,BLUE,0,Natural Fit
+Media Programming Directors,RED,0,Natural Fit
+Media Programming Directors,WHITE,0.264,High RED
+Media Programming Directors,YELLOW,0,Natural Fit
+Media Technical Directors/Managers,BLUE,0,Natural Fit
+Media Technical Directors/Managers,RED,0,Natural Fit
+Media Technical Directors/Managers,WHITE,0,Natural Fit
+Media Technical Directors/Managers,YELLOW,0,Natural Fit
+Medical and Clinical Laboratory Technicians,BLUE,0,Natural Fit
+Medical and Clinical Laboratory Technicians,RED,0,Natural Fit
+Medical and Clinical Laboratory Technicians,WHITE,0,Natural Fit
+Medical and Clinical Laboratory Technicians,YELLOW,0,Natural Fit
+Medical and Clinical Laboratory Technologists,BLUE,0,Natural Fit
+Medical and Clinical Laboratory Technologists,RED,0,Natural Fit
+Medical and Clinical Laboratory Technologists,WHITE,0,Natural Fit
+Medical and Clinical Laboratory Technologists,YELLOW,0,Natural Fit
+Medical and Health Services Managers,BLUE,0.337,High RED / High YELLOW
+Medical and Health Services Managers,RED,0.222,High YELLOW
+Medical and Health Services Managers,WHITE,0.614,High RED / High BLUE / High YELLOW
+Medical and Health Services Managers,YELLOW,0.225,High RED
+Medical Appliance Technicians,BLUE,0,Natural Fit
+Medical Appliance Technicians,RED,0,Natural Fit
+Medical Appliance Technicians,WHITE,0,Natural Fit
+Medical Appliance Technicians,YELLOW,0,Natural Fit
+Medical Assistants,BLUE,0,Natural Fit
+Medical Assistants,RED,0,Natural Fit
+Medical Assistants,WHITE,0,Natural Fit
+Medical Assistants,YELLOW,0,Natural Fit
+Medical Dosimetrists,BLUE,0,Natural Fit
+Medical Dosimetrists,RED,0,Natural Fit
+Medical Dosimetrists,WHITE,0,Natural Fit
+Medical Dosimetrists,YELLOW,0,Natural Fit
+Medical Equipment Preparers,BLUE,0,Natural Fit
+Medical Equipment Preparers,RED,0,Natural Fit
+Medical Equipment Preparers,WHITE,0,Natural Fit
+Medical Equipment Preparers,YELLOW,0,Natural Fit
+Medical Equipment Repairers,BLUE,0,Natural Fit
+Medical Equipment Repairers,RED,0,Natural Fit
+Medical Equipment Repairers,WHITE,0,Natural Fit
+Medical Equipment Repairers,YELLOW,0,Natural Fit
+Medical Records Specialists,BLUE,0,Natural Fit
+Medical Records Specialists,RED,0,Natural Fit
+Medical Records Specialists,WHITE,0,Natural Fit
+Medical Records Specialists,YELLOW,0,Natural Fit
+"Medical Scientists, Except Epidemiologists",BLUE,0,Natural Fit
+"Medical Scientists, Except Epidemiologists",RED,0,Natural Fit
+"Medical Scientists, Except Epidemiologists",WHITE,0,Natural Fit
+"Medical Scientists, Except Epidemiologists",YELLOW,0,Natural Fit
+Medical Secretaries and Administrative Assistants,BLUE,0,Natural Fit
+Medical Secretaries and Administrative Assistants,RED,0,Natural Fit
+Medical Secretaries and Administrative Assistants,WHITE,0,Natural Fit
+Medical Secretaries and Administrative Assistants,YELLOW,0,Natural Fit
+Medical Transcriptionists,BLUE,0,Natural Fit
+Medical Transcriptionists,RED,0,Natural Fit
+Medical Transcriptionists,WHITE,0,Natural Fit
+Medical Transcriptionists,YELLOW,0,Natural Fit
+"Meeting, Convention, and Event Planners",BLUE,0,Natural Fit
+"Meeting, Convention, and Event Planners",RED,0,Natural Fit
+"Meeting, Convention, and Event Planners",WHITE,0,Natural Fit
+"Meeting, Convention, and Event Planners",YELLOW,0,Natural Fit
+Mental Health and Substance Abuse Social Workers,BLUE,0,Natural Fit
+Mental Health and Substance Abuse Social Workers,RED,0.294,High BLUE
+Mental Health and Substance Abuse Social Workers,WHITE,0.363,High BLUE
+Mental Health and Substance Abuse Social Workers,YELLOW,0.318,High BLUE
+Mental Health Counselors,BLUE,0,Natural Fit
+Mental Health Counselors,RED,0.29,High BLUE
+Mental Health Counselors,WHITE,0.359,High BLUE
+Mental Health Counselors,YELLOW,0.314,High BLUE
+Merchandise Displayers and Window Trimmers,BLUE,0,Natural Fit
+Merchandise Displayers and Window Trimmers,RED,0,Natural Fit
+Merchandise Displayers and Window Trimmers,WHITE,0,Natural Fit
+Merchandise Displayers and Window Trimmers,YELLOW,0,Natural Fit
+Metal-Refining Furnace Operators and Tenders,BLUE,0,Natural Fit
+Metal-Refining Furnace Operators and Tenders,RED,0,Natural Fit
+Metal-Refining Furnace Operators and Tenders,WHITE,0,Natural Fit
+Metal-Refining Furnace Operators and Tenders,YELLOW,0,Natural Fit
+"Meter Readers, Utilities",BLUE,0,Natural Fit
+"Meter Readers, Utilities",RED,0,Natural Fit
+"Meter Readers, Utilities",WHITE,0,Natural Fit
+"Meter Readers, Utilities",YELLOW,0,Natural Fit
+Microbiologists,BLUE,0,Natural Fit
+Microbiologists,RED,0,Natural Fit
+Microbiologists,WHITE,0,Natural Fit
+Microbiologists,YELLOW,0,Natural Fit
+Microsystems Engineers,BLUE,0,Natural Fit
+Microsystems Engineers,RED,0,Natural Fit
+Microsystems Engineers,WHITE,0,Natural Fit
+Microsystems Engineers,YELLOW,0,Natural Fit
+"Middle School Teachers, Except Special and Career/Technical Education",BLUE,0,Natural Fit
+"Middle School Teachers, Except Special and Career/Technical Education",RED,0.338,High BLUE
+"Middle School Teachers, Except Special and Career/Technical Education",WHITE,0.406,High BLUE
+"Middle School Teachers, Except Special and Career/Technical Education",YELLOW,0.361,High BLUE
+Midwives,BLUE,0.435,High BLUE / High WHITE
+Midwives,RED,0.609,High BLUE / High WHITE
+Midwives,WHITE,0.533,High BLUE / High WHITE
+Midwives,YELLOW,0.633,High BLUE / High WHITE
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+Millwrights,BLUE,0,Natural Fit
+Millwrights,RED,0,Natural Fit
+Millwrights,WHITE,0,Natural Fit
+Millwrights,YELLOW,0,Natural Fit
+"Mining and Geological Engineers, Including Mining Safety Engineers",BLUE,0,Natural Fit
+"Mining and Geological Engineers, Including Mining Safety Engineers",RED,0,Natural Fit
+"Mining and Geological Engineers, Including Mining Safety Engineers",WHITE,0,Natural Fit
+"Mining and Geological Engineers, Including Mining Safety Engineers",YELLOW,0,Natural Fit
+"Mixing and Blending Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Mixing and Blending Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Mixing and Blending Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Mixing and Blending Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+"Mobile Heavy Equipment Mechanics, Except Engines",BLUE,0,Natural Fit
+"Mobile Heavy Equipment Mechanics, Except Engines",RED,0,Natural Fit
+"Mobile Heavy Equipment Mechanics, Except Engines",WHITE,0,Natural Fit
+"Mobile Heavy Equipment Mechanics, Except Engines",YELLOW,0,Natural Fit
+"Model Makers, Metal and Plastic",BLUE,0,Natural Fit
+"Model Makers, Metal and Plastic",RED,0,Natural Fit
+"Model Makers, Metal and Plastic",WHITE,0,Natural Fit
+"Model Makers, Metal and Plastic",YELLOW,0,Natural Fit
+"Model Makers, Wood",BLUE,0,Natural Fit
+"Model Makers, Wood",RED,0,Natural Fit
+"Model Makers, Wood",WHITE,0,Natural Fit
+"Model Makers, Wood",YELLOW,0,Natural Fit
+Models,BLUE,0,Natural Fit
+Models,RED,0,Natural Fit
+Models,WHITE,0,Natural Fit
+Models,YELLOW,0,Natural Fit
+"Molders, Shapers, and Casters, Except Metal and Plastic",BLUE,0,Natural Fit
+"Molders, Shapers, and Casters, Except Metal and Plastic",RED,0,Natural Fit
+"Molders, Shapers, and Casters, Except Metal and Plastic",WHITE,0,Natural Fit
+"Molders, Shapers, and Casters, Except Metal and Plastic",YELLOW,0,Natural Fit
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+Molecular and Cellular Biologists,BLUE,0,Natural Fit
+Molecular and Cellular Biologists,RED,0,Natural Fit
+Molecular and Cellular Biologists,WHITE,0,Natural Fit
+Molecular and Cellular Biologists,YELLOW,0,Natural Fit
+"Morticians, Undertakers, and Funeral Arrangers",BLUE,0,Natural Fit
+"Morticians, Undertakers, and Funeral Arrangers",RED,0,Natural Fit
+"Morticians, Undertakers, and Funeral Arrangers",WHITE,0,Natural Fit
+"Morticians, Undertakers, and Funeral Arrangers",YELLOW,0,Natural Fit
+Motion Picture Projectionists,BLUE,0,Natural Fit
+Motion Picture Projectionists,RED,0,Natural Fit
+Motion Picture Projectionists,WHITE,0,Natural Fit
+Motion Picture Projectionists,YELLOW,0,Natural Fit
+Motorboat Mechanics and Service Technicians,BLUE,0,Natural Fit
+Motorboat Mechanics and Service Technicians,RED,0,Natural Fit
+Motorboat Mechanics and Service Technicians,WHITE,0,Natural Fit
+Motorboat Mechanics and Service Technicians,YELLOW,0,Natural Fit
+Motorboat Operators,BLUE,0,Natural Fit
+Motorboat Operators,RED,0,Natural Fit
+Motorboat Operators,WHITE,0,Natural Fit
+Motorboat Operators,YELLOW,0,Natural Fit
+Motorcycle Mechanics,BLUE,0,Natural Fit
+Motorcycle Mechanics,RED,0,Natural Fit
+Motorcycle Mechanics,WHITE,0,Natural Fit
+Motorcycle Mechanics,YELLOW,0,Natural Fit
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+Museum Technicians and Conservators,BLUE,0,Natural Fit
+Museum Technicians and Conservators,RED,0,Natural Fit
+Museum Technicians and Conservators,WHITE,0,Natural Fit
+Museum Technicians and Conservators,YELLOW,0,Natural Fit
+Music Directors and Composers,BLUE,0.299,High YELLOW
+Music Directors and Composers,RED,0.274,High YELLOW
+Music Directors and Composers,WHITE,0.509,High RED / High YELLOW
+Music Directors and Composers,YELLOW,0,Natural Fit
+Music Therapists,BLUE,0,Natural Fit
+Music Therapists,RED,0.31,High BLUE
+Music Therapists,WHITE,0.379,High BLUE
+Music Therapists,YELLOW,0.334,High BLUE
+Musical Instrument Repairers and Tuners,BLUE,0,Natural Fit
+Musical Instrument Repairers and Tuners,RED,0,Natural Fit
+Musical Instrument Repairers and Tuners,WHITE,0,Natural Fit
+Musical Instrument Repairers and Tuners,YELLOW,0,Natural Fit
+Musicians and Singers,BLUE,0,Natural Fit
+Musicians and Singers,RED,0,Natural Fit
+Musicians and Singers,WHITE,0,Natural Fit
+Musicians and Singers,YELLOW,0,Natural Fit
+Nannies,BLUE,0,Natural Fit
+Nannies,RED,0,Natural Fit
+Nannies,WHITE,0,Natural Fit
+Nannies,YELLOW,0,Natural Fit
+Nanosystems Engineers,BLUE,0,Natural Fit
+Nanosystems Engineers,RED,0,Natural Fit
+Nanosystems Engineers,WHITE,0.249,High YELLOW
+Nanosystems Engineers,YELLOW,0,Natural Fit
+Nanotechnology Engineering Technologists and Technicians,BLUE,0,Natural Fit
+Nanotechnology Engineering Technologists and Technicians,RED,0,Natural Fit
+Nanotechnology Engineering Technologists and Technicians,WHITE,0,Natural Fit
+Nanotechnology Engineering Technologists and Technicians,YELLOW,0,Natural Fit
+Natural Sciences Managers,BLUE,0.387,High YELLOW
+Natural Sciences Managers,RED,0.362,High YELLOW
+Natural Sciences Managers,WHITE,0.617,High RED / High YELLOW
+Natural Sciences Managers,YELLOW,0.27,High YELLOW
+Naturopathic Physicians,BLUE,0,Natural Fit
+Naturopathic Physicians,RED,0,Natural Fit
+Naturopathic Physicians,WHITE,0.26,High YELLOW
+Naturopathic Physicians,YELLOW,0,Natural Fit
+Network and Computer Systems Administrators,BLUE,0,Natural Fit
+Network and Computer Systems Administrators,RED,0,Natural Fit
+Network and Computer Systems Administrators,WHITE,0,Natural Fit
+Network and Computer Systems Administrators,YELLOW,0,Natural Fit
+Neurodiagnostic Technologists,BLUE,0,Natural Fit
+Neurodiagnostic Technologists,RED,0,Natural Fit
+Neurodiagnostic Technologists,WHITE,0,Natural Fit
+Neurodiagnostic Technologists,YELLOW,0,Natural Fit
+Neurologists,BLUE,0,Natural Fit
+Neurologists,RED,0,Natural Fit
+Neurologists,WHITE,0,Natural Fit
+Neurologists,YELLOW,0,Natural Fit
+Neuropsychologists,BLUE,0,Natural Fit
+Neuropsychologists,RED,0,Natural Fit
+Neuropsychologists,WHITE,0,Natural Fit
+Neuropsychologists,YELLOW,0,Natural Fit
+New Accounts Clerks,BLUE,0,Natural Fit
+New Accounts Clerks,RED,0,Natural Fit
+New Accounts Clerks,WHITE,0,Natural Fit
+New Accounts Clerks,YELLOW,0,Natural Fit
+"News Analysts, Reporters, and Journalists",BLUE,0,Natural Fit
+"News Analysts, Reporters, and Journalists",RED,0,Natural Fit
+"News Analysts, Reporters, and Journalists",WHITE,0.309,High YELLOW
+"News Analysts, Reporters, and Journalists",YELLOW,0,Natural Fit
+Non-Destructive Testing Specialists,BLUE,0,Natural Fit
+Non-Destructive Testing Specialists,RED,0,Natural Fit
+Non-Destructive Testing Specialists,WHITE,0,Natural Fit
+Non-Destructive Testing Specialists,YELLOW,0,Natural Fit
+Nuclear Engineers,BLUE,0,Natural Fit
+Nuclear Engineers,RED,0,Natural Fit
+Nuclear Engineers,WHITE,0,Natural Fit
+Nuclear Engineers,YELLOW,0,Natural Fit
+Nuclear Medicine Technologists,BLUE,0,Natural Fit
+Nuclear Medicine Technologists,RED,0,Natural Fit
+Nuclear Medicine Technologists,WHITE,0,Natural Fit
+Nuclear Medicine Technologists,YELLOW,0,Natural Fit
+Nuclear Monitoring Technicians,BLUE,0,Natural Fit
+Nuclear Monitoring Technicians,RED,0,Natural Fit
+Nuclear Monitoring Technicians,WHITE,0,Natural Fit
+Nuclear Monitoring Technicians,YELLOW,0,Natural Fit
+Nuclear Power Reactor Operators,BLUE,0,Natural Fit
+Nuclear Power Reactor Operators,RED,0,Natural Fit
+Nuclear Power Reactor Operators,WHITE,0,Natural Fit
+Nuclear Power Reactor Operators,YELLOW,0,Natural Fit
+Nuclear Technicians,BLUE,0,Natural Fit
+Nuclear Technicians,RED,0,Natural Fit
+Nuclear Technicians,WHITE,0,Natural Fit
+Nuclear Technicians,YELLOW,0,Natural Fit
+Nurse Anesthetists,BLUE,0,Natural Fit
+Nurse Anesthetists,RED,0,Natural Fit
+Nurse Anesthetists,WHITE,0.328,High YELLOW
+Nurse Anesthetists,YELLOW,0,Natural Fit
+Nurse Midwives,BLUE,0.282,High WHITE
+Nurse Midwives,RED,0.469,High BLUE / High WHITE
+Nurse Midwives,WHITE,0.344,High BLUE
+Nurse Midwives,YELLOW,0.493,High BLUE / High WHITE
+Nurse Practitioners,BLUE,0,Natural Fit
+Nurse Practitioners,RED,0.293,High BLUE
+Nurse Practitioners,WHITE,0.482,High BLUE / High YELLOW
+Nurse Practitioners,YELLOW,0.317,High BLUE
+Nursing Assistants,BLUE,0,Natural Fit
+Nursing Assistants,RED,0,Natural Fit
+Nursing Assistants,WHITE,0,Natural Fit
+Nursing Assistants,YELLOW,0,Natural Fit
+"Nursing Instructors and Teachers, Postsecondary",BLUE,0,Natural Fit
+"Nursing Instructors and Teachers, Postsecondary",RED,0.282,High BLUE
+"Nursing Instructors and Teachers, Postsecondary",WHITE,0.532,High RED / High BLUE / High YELLOW
+"Nursing Instructors and Teachers, Postsecondary",YELLOW,0.306,High BLUE
+Obstetricians and Gynecologists,BLUE,0,Natural Fit
+Obstetricians and Gynecologists,RED,0.217,High WHITE
+Obstetricians and Gynecologists,WHITE,0.436,High RED / High BLUE
+Obstetricians and Gynecologists,YELLOW,0.228,High WHITE
+Occupational Health and Safety Specialists,BLUE,0,Natural Fit
+Occupational Health and Safety Specialists,RED,0,Natural Fit
+Occupational Health and Safety Specialists,WHITE,0,Natural Fit
+Occupational Health and Safety Specialists,YELLOW,0,Natural Fit
+Occupational Health and Safety Technicians,BLUE,0,Natural Fit
+Occupational Health and Safety Technicians,RED,0,Natural Fit
+Occupational Health and Safety Technicians,WHITE,0,Natural Fit
+Occupational Health and Safety Technicians,YELLOW,0,Natural Fit
+Occupational Therapists,BLUE,0,Natural Fit
+Occupational Therapists,RED,0.248,High BLUE
+Occupational Therapists,WHITE,0.42,High BLUE / High YELLOW
+Occupational Therapists,YELLOW,0.272,High BLUE
+Occupational Therapy Aides,BLUE,0,Natural Fit
+Occupational Therapy Aides,RED,0,Natural Fit
+Occupational Therapy Aides,WHITE,0,Natural Fit
+Occupational Therapy Aides,YELLOW,0,Natural Fit
+Occupational Therapy Assistants,BLUE,0,Natural Fit
+Occupational Therapy Assistants,RED,0,Natural Fit
+Occupational Therapy Assistants,WHITE,0,Natural Fit
+Occupational Therapy Assistants,YELLOW,0,Natural Fit
+"Office Clerks, General",BLUE,0,Natural Fit
+"Office Clerks, General",RED,0,Natural Fit
+"Office Clerks, General",WHITE,0,Natural Fit
+"Office Clerks, General",YELLOW,0,Natural Fit
+"Office Machine Operators, Except Computer",BLUE,0,Natural Fit
+"Office Machine Operators, Except Computer",RED,0,Natural Fit
+"Office Machine Operators, Except Computer",WHITE,0,Natural Fit
+"Office Machine Operators, Except Computer",YELLOW,0,Natural Fit
+Online Merchants,BLUE,0,Natural Fit
+Online Merchants,RED,0,Natural Fit
+Online Merchants,WHITE,0,Natural Fit
+Online Merchants,YELLOW,0,Natural Fit
+Operating Engineers and Other Construction Equipment Operators,BLUE,0,Natural Fit
+Operating Engineers and Other Construction Equipment Operators,RED,0,Natural Fit
+Operating Engineers and Other Construction Equipment Operators,WHITE,0,Natural Fit
+Operating Engineers and Other Construction Equipment Operators,YELLOW,0,Natural Fit
+Operations Research Analysts,BLUE,0,Natural Fit
+Operations Research Analysts,RED,0,Natural Fit
+Operations Research Analysts,WHITE,0,Natural Fit
+Operations Research Analysts,YELLOW,0,Natural Fit
+Ophthalmic Laboratory Technicians,BLUE,0,Natural Fit
+Ophthalmic Laboratory Technicians,RED,0,Natural Fit
+Ophthalmic Laboratory Technicians,WHITE,0,Natural Fit
+Ophthalmic Laboratory Technicians,YELLOW,0,Natural Fit
+Ophthalmic Medical Technicians,BLUE,0,Natural Fit
+Ophthalmic Medical Technicians,RED,0,Natural Fit
+Ophthalmic Medical Technicians,WHITE,0,Natural Fit
+Ophthalmic Medical Technicians,YELLOW,0,Natural Fit
+Ophthalmic Medical Technologists,BLUE,0,Natural Fit
+Ophthalmic Medical Technologists,RED,0,Natural Fit
+Ophthalmic Medical Technologists,WHITE,0,Natural Fit
+Ophthalmic Medical Technologists,YELLOW,0,Natural Fit
+"Ophthalmologists, Except Pediatric",BLUE,0,Natural Fit
+"Ophthalmologists, Except Pediatric",RED,0,Natural Fit
+"Ophthalmologists, Except Pediatric",WHITE,0,Natural Fit
+"Ophthalmologists, Except Pediatric",YELLOW,0,Natural Fit
+"Opticians, Dispensing",BLUE,0,Natural Fit
+"Opticians, Dispensing",RED,0,Natural Fit
+"Opticians, Dispensing",WHITE,0,Natural Fit
+"Opticians, Dispensing",YELLOW,0,Natural Fit
+Optometrists,BLUE,0,Natural Fit
+Optometrists,RED,0,Natural Fit
+Optometrists,WHITE,0,Natural Fit
+Optometrists,YELLOW,0,Natural Fit
+Oral and Maxillofacial Surgeons,BLUE,0,Natural Fit
+Oral and Maxillofacial Surgeons,RED,0.219,High WHITE
+Oral and Maxillofacial Surgeons,WHITE,0,Natural Fit
+Oral and Maxillofacial Surgeons,YELLOW,0.23,High WHITE
+Order Clerks,BLUE,0,Natural Fit
+Order Clerks,RED,0,Natural Fit
+Order Clerks,WHITE,0,Natural Fit
+Order Clerks,YELLOW,0,Natural Fit
+Orderlies,BLUE,0,Natural Fit
+Orderlies,RED,0,Natural Fit
+Orderlies,WHITE,0,Natural Fit
+Orderlies,YELLOW,0,Natural Fit
+Orthodontists,BLUE,0,Natural Fit
+Orthodontists,RED,0,Natural Fit
+Orthodontists,WHITE,0,Natural Fit
+Orthodontists,YELLOW,0,Natural Fit
+"Orthopedic Surgeons, Except Pediatric",BLUE,0,Natural Fit
+"Orthopedic Surgeons, Except Pediatric",RED,0.284,High WHITE
+"Orthopedic Surgeons, Except Pediatric",WHITE,0.219,High RED
+"Orthopedic Surgeons, Except Pediatric",YELLOW,0.295,High WHITE
+Orthoptists,BLUE,0,Natural Fit
+Orthoptists,RED,0,Natural Fit
+Orthoptists,WHITE,0,Natural Fit
+Orthoptists,YELLOW,0,Natural Fit
+Orthotists and Prosthetists,BLUE,0,Natural Fit
+Orthotists and Prosthetists,RED,0,Natural Fit
+Orthotists and Prosthetists,WHITE,0,Natural Fit
+Orthotists and Prosthetists,YELLOW,0,Natural Fit
+Outdoor Power Equipment and Other Small Engine Mechanics,BLUE,0,Natural Fit
+Outdoor Power Equipment and Other Small Engine Mechanics,RED,0,Natural Fit
+Outdoor Power Equipment and Other Small Engine Mechanics,WHITE,0,Natural Fit
+Outdoor Power Equipment and Other Small Engine Mechanics,YELLOW,0,Natural Fit
+Packaging and Filling Machine Operators and Tenders,BLUE,0,Natural Fit
+Packaging and Filling Machine Operators and Tenders,RED,0,Natural Fit
+Packaging and Filling Machine Operators and Tenders,WHITE,0,Natural Fit
+Packaging and Filling Machine Operators and Tenders,YELLOW,0,Natural Fit
+"Packers and Packagers, Hand",BLUE,0,Natural Fit
+"Packers and Packagers, Hand",RED,0,Natural Fit
+"Packers and Packagers, Hand",WHITE,0,Natural Fit
+"Packers and Packagers, Hand",YELLOW,0,Natural Fit
+"Painters, Construction and Maintenance",BLUE,0,Natural Fit
+"Painters, Construction and Maintenance",RED,0,Natural Fit
+"Painters, Construction and Maintenance",WHITE,0,Natural Fit
+"Painters, Construction and Maintenance",YELLOW,0,Natural Fit
+"Painting, Coating, and Decorating Workers",BLUE,0,Natural Fit
+"Painting, Coating, and Decorating Workers",RED,0,Natural Fit
+"Painting, Coating, and Decorating Workers",WHITE,0,Natural Fit
+"Painting, Coating, and Decorating Workers",YELLOW,0,Natural Fit
+"Paper Goods Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Paper Goods Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Paper Goods Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Paper Goods Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+Paperhangers,BLUE,0,Natural Fit
+Paperhangers,RED,0,Natural Fit
+Paperhangers,WHITE,0,Natural Fit
+Paperhangers,YELLOW,0,Natural Fit
+Paralegals and Legal Assistants,BLUE,0,Natural Fit
+Paralegals and Legal Assistants,RED,0,Natural Fit
+Paralegals and Legal Assistants,WHITE,0,Natural Fit
+Paralegals and Legal Assistants,YELLOW,0,Natural Fit
+Paramedics,BLUE,0,Natural Fit
+Paramedics,RED,0,Natural Fit
+Paramedics,WHITE,0,Natural Fit
+Paramedics,YELLOW,0,Natural Fit
+Park Naturalists,BLUE,0,Natural Fit
+Park Naturalists,RED,0,Natural Fit
+Park Naturalists,WHITE,0,Natural Fit
+Park Naturalists,YELLOW,0,Natural Fit
+Parking Attendants,BLUE,0,Natural Fit
+Parking Attendants,RED,0,Natural Fit
+Parking Attendants,WHITE,0,Natural Fit
+Parking Attendants,YELLOW,0,Natural Fit
+Parking Enforcement Workers,BLUE,0,Natural Fit
+Parking Enforcement Workers,RED,0,Natural Fit
+Parking Enforcement Workers,WHITE,0,Natural Fit
+Parking Enforcement Workers,YELLOW,0,Natural Fit
+Parts Salespersons,BLUE,0,Natural Fit
+Parts Salespersons,RED,0,Natural Fit
+Parts Salespersons,WHITE,0,Natural Fit
+Parts Salespersons,YELLOW,0,Natural Fit
+Passenger Attendants,BLUE,0,Natural Fit
+Passenger Attendants,RED,0,Natural Fit
+Passenger Attendants,WHITE,0,Natural Fit
+Passenger Attendants,YELLOW,0,Natural Fit
+Patient Representatives,BLUE,0,Natural Fit
+Patient Representatives,RED,0,Natural Fit
+Patient Representatives,WHITE,0,Natural Fit
+Patient Representatives,YELLOW,0,Natural Fit
+"Patternmakers, Metal and Plastic",BLUE,0,Natural Fit
+"Patternmakers, Metal and Plastic",RED,0,Natural Fit
+"Patternmakers, Metal and Plastic",WHITE,0,Natural Fit
+"Patternmakers, Metal and Plastic",YELLOW,0,Natural Fit
+"Patternmakers, Wood",BLUE,0,Natural Fit
+"Patternmakers, Wood",RED,0,Natural Fit
+"Patternmakers, Wood",WHITE,0,Natural Fit
+"Patternmakers, Wood",YELLOW,0,Natural Fit
+"Paving, Surfacing, and Tamping Equipment Operators",BLUE,0,Natural Fit
+"Paving, Surfacing, and Tamping Equipment Operators",RED,0,Natural Fit
+"Paving, Surfacing, and Tamping Equipment Operators",WHITE,0,Natural Fit
+"Paving, Surfacing, and Tamping Equipment Operators",YELLOW,0,Natural Fit
+Payroll and Timekeeping Clerks,BLUE,0,Natural Fit
+Payroll and Timekeeping Clerks,RED,0,Natural Fit
+Payroll and Timekeeping Clerks,WHITE,0,Natural Fit
+Payroll and Timekeeping Clerks,YELLOW,0,Natural Fit
+Pediatric Surgeons,BLUE,0.319,High YELLOW
+Pediatric Surgeons,RED,0.294,High YELLOW
+Pediatric Surgeons,WHITE,0.594,High RED / High YELLOW
+Pediatric Surgeons,YELLOW,0.203,High YELLOW
+"Pediatricians, General",BLUE,0,Natural Fit
+"Pediatricians, General",RED,0.302,High BLUE
+"Pediatricians, General",WHITE,0.435,High BLUE / High YELLOW
+"Pediatricians, General",YELLOW,0.326,High BLUE
+Penetration Testers,BLUE,0,Natural Fit
+Penetration Testers,RED,0,Natural Fit
+Penetration Testers,WHITE,0.334,High YELLOW
+Penetration Testers,YELLOW,0,Natural Fit
+Personal Care Aides,BLUE,0,Natural Fit
+Personal Care Aides,RED,0,Natural Fit
+Personal Care Aides,WHITE,0,Natural Fit
+Personal Care Aides,YELLOW,0,Natural Fit
+Personal Financial Advisors,BLUE,0,Natural Fit
+Personal Financial Advisors,RED,0,Natural Fit
+Personal Financial Advisors,WHITE,0,Natural Fit
+Personal Financial Advisors,YELLOW,0,Natural Fit
+Pest Control Workers,BLUE,0,Natural Fit
+Pest Control Workers,RED,0,Natural Fit
+Pest Control Workers,WHITE,0,Natural Fit
+Pest Control Workers,YELLOW,0,Natural Fit
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",BLUE,0,Natural Fit
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",RED,0,Natural Fit
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",WHITE,0,Natural Fit
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",YELLOW,0,Natural Fit
+Petroleum Engineers,BLUE,0,Natural Fit
+Petroleum Engineers,RED,0,Natural Fit
+Petroleum Engineers,WHITE,0,Natural Fit
+Petroleum Engineers,YELLOW,0,Natural Fit
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",BLUE,0,Natural Fit
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",RED,0,Natural Fit
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",WHITE,0,Natural Fit
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",YELLOW,0,Natural Fit
+Pharmacists,BLUE,0,Natural Fit
+Pharmacists,RED,0,Natural Fit
+Pharmacists,WHITE,0,Natural Fit
+Pharmacists,YELLOW,0,Natural Fit
+Pharmacy Aides,BLUE,0,Natural Fit
+Pharmacy Aides,RED,0,Natural Fit
+Pharmacy Aides,WHITE,0,Natural Fit
+Pharmacy Aides,YELLOW,0,Natural Fit
+Pharmacy Technicians,BLUE,0,Natural Fit
+Pharmacy Technicians,RED,0,Natural Fit
+Pharmacy Technicians,WHITE,0,Natural Fit
+Pharmacy Technicians,YELLOW,0,Natural Fit
+"Philosophy and Religion Teachers, Postsecondary",BLUE,0,Natural Fit
+"Philosophy and Religion Teachers, Postsecondary",RED,0,Natural Fit
+"Philosophy and Religion Teachers, Postsecondary",WHITE,0,Natural Fit
+"Philosophy and Religion Teachers, Postsecondary",YELLOW,0,Natural Fit
+Phlebotomists,BLUE,0,Natural Fit
+Phlebotomists,RED,0,Natural Fit
+Phlebotomists,WHITE,0,Natural Fit
+Phlebotomists,YELLOW,0,Natural Fit
+Photographers,BLUE,0,Natural Fit
+Photographers,RED,0,Natural Fit
+Photographers,WHITE,0,Natural Fit
+Photographers,YELLOW,0,Natural Fit
+Photographic Process Workers and Processing Machine Operators,BLUE,0,Natural Fit
+Photographic Process Workers and Processing Machine Operators,RED,0,Natural Fit
+Photographic Process Workers and Processing Machine Operators,WHITE,0,Natural Fit
+Photographic Process Workers and Processing Machine Operators,YELLOW,0,Natural Fit
+Photonics Engineers,BLUE,0,Natural Fit
+Photonics Engineers,RED,0,Natural Fit
+Photonics Engineers,WHITE,0,Natural Fit
+Photonics Engineers,YELLOW,0,Natural Fit
+Photonics Technicians,BLUE,0,Natural Fit
+Photonics Technicians,RED,0,Natural Fit
+Photonics Technicians,WHITE,0,Natural Fit
+Photonics Technicians,YELLOW,0,Natural Fit
+Physical Medicine and Rehabilitation Physicians,BLUE,0.204,High YELLOW
+Physical Medicine and Rehabilitation Physicians,RED,0.282,High BLUE
+Physical Medicine and Rehabilitation Physicians,WHITE,0.502,High BLUE / High YELLOW
+Physical Medicine and Rehabilitation Physicians,YELLOW,0.305,High BLUE
+Physical Therapist Aides,BLUE,0,Natural Fit
+Physical Therapist Aides,RED,0,Natural Fit
+Physical Therapist Aides,WHITE,0,Natural Fit
+Physical Therapist Aides,YELLOW,0,Natural Fit
+Physical Therapist Assistants,BLUE,0,Natural Fit
+Physical Therapist Assistants,RED,0,Natural Fit
+Physical Therapist Assistants,WHITE,0,Natural Fit
+Physical Therapist Assistants,YELLOW,0,Natural Fit
+Physical Therapists,BLUE,0,Natural Fit
+Physical Therapists,RED,0.209,High BLUE
+Physical Therapists,WHITE,0.278,High BLUE
+Physical Therapists,YELLOW,0.233,High BLUE
+Physician Assistants,BLUE,0,Natural Fit
+Physician Assistants,RED,0.238,High WHITE
+Physician Assistants,WHITE,0,Natural Fit
+Physician Assistants,YELLOW,0.249,High WHITE
+"Physicians, Pathologists",BLUE,0,Natural Fit
+"Physicians, Pathologists",RED,0,Natural Fit
+"Physicians, Pathologists",WHITE,0,Natural Fit
+"Physicians, Pathologists",YELLOW,0,Natural Fit
+Physicists,BLUE,0,Natural Fit
+Physicists,RED,0,Natural Fit
+Physicists,WHITE,0,Natural Fit
+Physicists,YELLOW,0,Natural Fit
+"Physics Teachers, Postsecondary",BLUE,0,Natural Fit
+"Physics Teachers, Postsecondary",RED,0,Natural Fit
+"Physics Teachers, Postsecondary",WHITE,0,Natural Fit
+"Physics Teachers, Postsecondary",YELLOW,0,Natural Fit
+Pile Driver Operators,BLUE,0,Natural Fit
+Pile Driver Operators,RED,0,Natural Fit
+Pile Driver Operators,WHITE,0,Natural Fit
+Pile Driver Operators,YELLOW,0,Natural Fit
+Pipelayers,BLUE,0,Natural Fit
+Pipelayers,RED,0,Natural Fit
+Pipelayers,WHITE,0,Natural Fit
+Pipelayers,YELLOW,0,Natural Fit
+Plasterers and Stucco Masons,BLUE,0,Natural Fit
+Plasterers and Stucco Masons,RED,0,Natural Fit
+Plasterers and Stucco Masons,WHITE,0,Natural Fit
+Plasterers and Stucco Masons,YELLOW,0,Natural Fit
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+"Plumbers, Pipefitters, and Steamfitters",BLUE,0,Natural Fit
+"Plumbers, Pipefitters, and Steamfitters",RED,0,Natural Fit
+"Plumbers, Pipefitters, and Steamfitters",WHITE,0,Natural Fit
+"Plumbers, Pipefitters, and Steamfitters",YELLOW,0,Natural Fit
+Podiatrists,BLUE,0,Natural Fit
+Podiatrists,RED,0,Natural Fit
+Podiatrists,WHITE,0,Natural Fit
+Podiatrists,YELLOW,0,Natural Fit
+"Poets, Lyricists and Creative Writers",BLUE,0,Natural Fit
+"Poets, Lyricists and Creative Writers",RED,0,Natural Fit
+"Poets, Lyricists and Creative Writers",WHITE,0,Natural Fit
+"Poets, Lyricists and Creative Writers",YELLOW,0,Natural Fit
+Police and Sheriff's Patrol Officers,BLUE,0,Natural Fit
+Police and Sheriff's Patrol Officers,RED,0.228,High WHITE
+Police and Sheriff's Patrol Officers,WHITE,0,Natural Fit
+Police and Sheriff's Patrol Officers,YELLOW,0.239,High WHITE
+Police Identification and Records Officers,BLUE,0,Natural Fit
+Police Identification and Records Officers,RED,0,Natural Fit
+Police Identification and Records Officers,WHITE,0,Natural Fit
+Police Identification and Records Officers,YELLOW,0,Natural Fit
+"Political Science Teachers, Postsecondary",BLUE,0,Natural Fit
+"Political Science Teachers, Postsecondary",RED,0,Natural Fit
+"Political Science Teachers, Postsecondary",WHITE,0,Natural Fit
+"Political Science Teachers, Postsecondary",YELLOW,0,Natural Fit
+Political Scientists,BLUE,0,Natural Fit
+Political Scientists,RED,0,Natural Fit
+Political Scientists,WHITE,0,Natural Fit
+Political Scientists,YELLOW,0,Natural Fit
+Postal Service Clerks,BLUE,0,Natural Fit
+Postal Service Clerks,RED,0,Natural Fit
+Postal Service Clerks,WHITE,0,Natural Fit
+Postal Service Clerks,YELLOW,0,Natural Fit
+Postal Service Mail Carriers,BLUE,0,Natural Fit
+Postal Service Mail Carriers,RED,0,Natural Fit
+Postal Service Mail Carriers,WHITE,0,Natural Fit
+Postal Service Mail Carriers,YELLOW,0,Natural Fit
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",BLUE,0,Natural Fit
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",RED,0,Natural Fit
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",WHITE,0,Natural Fit
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",YELLOW,0,Natural Fit
+Postmasters and Mail Superintendents,BLUE,0,Natural Fit
+Postmasters and Mail Superintendents,RED,0,Natural Fit
+Postmasters and Mail Superintendents,WHITE,0,Natural Fit
+Postmasters and Mail Superintendents,YELLOW,0,Natural Fit
+"Potters, Manufacturing",BLUE,0,Natural Fit
+"Potters, Manufacturing",RED,0,Natural Fit
+"Potters, Manufacturing",WHITE,0,Natural Fit
+"Potters, Manufacturing",YELLOW,0,Natural Fit
+"Pourers and Casters, Metal",BLUE,0,Natural Fit
+"Pourers and Casters, Metal",RED,0,Natural Fit
+"Pourers and Casters, Metal",WHITE,0,Natural Fit
+"Pourers and Casters, Metal",YELLOW,0,Natural Fit
+Power Distributors and Dispatchers,BLUE,0,Natural Fit
+Power Distributors and Dispatchers,RED,0,Natural Fit
+Power Distributors and Dispatchers,WHITE,0,Natural Fit
+Power Distributors and Dispatchers,YELLOW,0,Natural Fit
+Power Plant Operators,BLUE,0,Natural Fit
+Power Plant Operators,RED,0,Natural Fit
+Power Plant Operators,WHITE,0,Natural Fit
+Power Plant Operators,YELLOW,0,Natural Fit
+Precision Agriculture Technicians,BLUE,0,Natural Fit
+Precision Agriculture Technicians,RED,0,Natural Fit
+Precision Agriculture Technicians,WHITE,0,Natural Fit
+Precision Agriculture Technicians,YELLOW,0,Natural Fit
+Prepress Technicians and Workers,BLUE,0,Natural Fit
+Prepress Technicians and Workers,RED,0,Natural Fit
+Prepress Technicians and Workers,WHITE,0,Natural Fit
+Prepress Technicians and Workers,YELLOW,0,Natural Fit
+"Preschool Teachers, Except Special Education",BLUE,0,Natural Fit
+"Preschool Teachers, Except Special Education",RED,0,Natural Fit
+"Preschool Teachers, Except Special Education",WHITE,0,Natural Fit
+"Preschool Teachers, Except Special Education",YELLOW,0,Natural Fit
+"Pressers, Textile, Garment, and Related Materials",BLUE,0,Natural Fit
+"Pressers, Textile, Garment, and Related Materials",RED,0,Natural Fit
+"Pressers, Textile, Garment, and Related Materials",WHITE,0,Natural Fit
+"Pressers, Textile, Garment, and Related Materials",YELLOW,0,Natural Fit
+Preventive Medicine Physicians,BLUE,0.365,High YELLOW
+Preventive Medicine Physicians,RED,0.341,High YELLOW
+Preventive Medicine Physicians,WHITE,0.588,High RED / High YELLOW
+Preventive Medicine Physicians,YELLOW,0.249,High YELLOW
+Print Binding and Finishing Workers,BLUE,0,Natural Fit
+Print Binding and Finishing Workers,RED,0,Natural Fit
+Print Binding and Finishing Workers,WHITE,0,Natural Fit
+Print Binding and Finishing Workers,YELLOW,0,Natural Fit
+Printing Press Operators,BLUE,0,Natural Fit
+Printing Press Operators,RED,0,Natural Fit
+Printing Press Operators,WHITE,0,Natural Fit
+Printing Press Operators,YELLOW,0,Natural Fit
+Private Detectives and Investigators,BLUE,0,Natural Fit
+Private Detectives and Investigators,RED,0,Natural Fit
+Private Detectives and Investigators,WHITE,0,Natural Fit
+Private Detectives and Investigators,YELLOW,0,Natural Fit
+Probation Officers and Correctional Treatment Specialists,BLUE,0,Natural Fit
+Probation Officers and Correctional Treatment Specialists,RED,0,Natural Fit
+Probation Officers and Correctional Treatment Specialists,WHITE,0,Natural Fit
+Probation Officers and Correctional Treatment Specialists,YELLOW,0,Natural Fit
+Procurement Clerks,BLUE,0,Natural Fit
+Procurement Clerks,RED,0,Natural Fit
+Procurement Clerks,WHITE,0,Natural Fit
+Procurement Clerks,YELLOW,0,Natural Fit
+Producers and Directors,BLUE,0.272,High RED
+Producers and Directors,RED,0,Natural Fit
+Producers and Directors,WHITE,0.576,High RED / High BLUE / High YELLOW
+Producers and Directors,YELLOW,0.334,High RED / High BLUE
+"Production, Planning, and Expediting Clerks",BLUE,0,Natural Fit
+"Production, Planning, and Expediting Clerks",RED,0,Natural Fit
+"Production, Planning, and Expediting Clerks",WHITE,0,Natural Fit
+"Production, Planning, and Expediting Clerks",YELLOW,0,Natural Fit
+Project Management Specialists,BLUE,0,Natural Fit
+Project Management Specialists,RED,0,Natural Fit
+Project Management Specialists,WHITE,0.32,High RED
+Project Management Specialists,YELLOW,0,Natural Fit
+Proofreaders and Copy Markers,BLUE,0,Natural Fit
+Proofreaders and Copy Markers,RED,0,Natural Fit
+Proofreaders and Copy Markers,WHITE,0,Natural Fit
+Proofreaders and Copy Markers,YELLOW,0,Natural Fit
+"Property, Real Estate, and Community Association Managers",BLUE,0,Natural Fit
+"Property, Real Estate, and Community Association Managers",RED,0,Natural Fit
+"Property, Real Estate, and Community Association Managers",WHITE,0,Natural Fit
+"Property, Real Estate, and Community Association Managers",YELLOW,0,Natural Fit
+Prosthodontists,BLUE,0,Natural Fit
+Prosthodontists,RED,0,Natural Fit
+Prosthodontists,WHITE,0,Natural Fit
+Prosthodontists,YELLOW,0,Natural Fit
+Psychiatric Aides,BLUE,0,Natural Fit
+Psychiatric Aides,RED,0,Natural Fit
+Psychiatric Aides,WHITE,0.253,High BLUE
+Psychiatric Aides,YELLOW,0.208,High BLUE
+Psychiatric Technicians,BLUE,0,Natural Fit
+Psychiatric Technicians,RED,0.271,High BLUE
+Psychiatric Technicians,WHITE,0.34,High BLUE
+Psychiatric Technicians,YELLOW,0.295,High BLUE
+Psychiatrists,BLUE,0,Natural Fit
+Psychiatrists,RED,0.205,High WHITE
+Psychiatrists,WHITE,0,Natural Fit
+Psychiatrists,YELLOW,0.216,High WHITE
+"Psychology Teachers, Postsecondary",BLUE,0,Natural Fit
+"Psychology Teachers, Postsecondary",RED,0,Natural Fit
+"Psychology Teachers, Postsecondary",WHITE,0,Natural Fit
+"Psychology Teachers, Postsecondary",YELLOW,0,Natural Fit
+Public Relations Managers,BLUE,0.344,High RED
+Public Relations Managers,RED,0.216,High RED
+Public Relations Managers,WHITE,0.6,High RED / High YELLOW
+Public Relations Managers,YELLOW,0.338,High RED
+Public Relations Specialists,BLUE,0,Natural Fit
+Public Relations Specialists,RED,0,Natural Fit
+Public Relations Specialists,WHITE,0,Natural Fit
+Public Relations Specialists,YELLOW,0,Natural Fit
+Public Safety Telecommunicators,BLUE,0,Natural Fit
+Public Safety Telecommunicators,RED,0,Natural Fit
+Public Safety Telecommunicators,WHITE,0,Natural Fit
+Public Safety Telecommunicators,YELLOW,0,Natural Fit
+"Pump Operators, Except Wellhead Pumpers",BLUE,0,Natural Fit
+"Pump Operators, Except Wellhead Pumpers",RED,0,Natural Fit
+"Pump Operators, Except Wellhead Pumpers",WHITE,0,Natural Fit
+"Pump Operators, Except Wellhead Pumpers",YELLOW,0,Natural Fit
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",BLUE,0,Natural Fit
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",RED,0,Natural Fit
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",WHITE,0,Natural Fit
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",YELLOW,0,Natural Fit
+Purchasing Managers,BLUE,0,Natural Fit
+Purchasing Managers,RED,0,Natural Fit
+Purchasing Managers,WHITE,0,Natural Fit
+Purchasing Managers,YELLOW,0,Natural Fit
+Quality Control Analysts,BLUE,0,Natural Fit
+Quality Control Analysts,RED,0,Natural Fit
+Quality Control Analysts,WHITE,0,Natural Fit
+Quality Control Analysts,YELLOW,0,Natural Fit
+Quality Control Systems Managers,BLUE,0,Natural Fit
+Quality Control Systems Managers,RED,0,Natural Fit
+Quality Control Systems Managers,WHITE,0,Natural Fit
+Quality Control Systems Managers,YELLOW,0,Natural Fit
+Radiation Therapists,BLUE,0,Natural Fit
+Radiation Therapists,RED,0,Natural Fit
+Radiation Therapists,WHITE,0,Natural Fit
+Radiation Therapists,YELLOW,0,Natural Fit
+Radio Frequency Identification Device Specialists,BLUE,0,Natural Fit
+Radio Frequency Identification Device Specialists,RED,0,Natural Fit
+Radio Frequency Identification Device Specialists,WHITE,0,Natural Fit
+Radio Frequency Identification Device Specialists,YELLOW,0,Natural Fit
+"Radio, Cellular, and Tower Equipment Installers and Repairers",BLUE,0,Natural Fit
+"Radio, Cellular, and Tower Equipment Installers and Repairers",RED,0,Natural Fit
+"Radio, Cellular, and Tower Equipment Installers and Repairers",WHITE,0,Natural Fit
+"Radio, Cellular, and Tower Equipment Installers and Repairers",YELLOW,0,Natural Fit
+Radiologic Technologists and Technicians,BLUE,0,Natural Fit
+Radiologic Technologists and Technicians,RED,0,Natural Fit
+Radiologic Technologists and Technicians,WHITE,0,Natural Fit
+Radiologic Technologists and Technicians,YELLOW,0,Natural Fit
+Radiologists,BLUE,0,Natural Fit
+Radiologists,RED,0,Natural Fit
+Radiologists,WHITE,0,Natural Fit
+Radiologists,YELLOW,0,Natural Fit
+Rail Car Repairers,BLUE,0,Natural Fit
+Rail Car Repairers,RED,0,Natural Fit
+Rail Car Repairers,WHITE,0,Natural Fit
+Rail Car Repairers,YELLOW,0,Natural Fit
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",BLUE,0,Natural Fit
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",RED,0,Natural Fit
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",WHITE,0,Natural Fit
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",YELLOW,0,Natural Fit
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",BLUE,0,Natural Fit
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",RED,0,Natural Fit
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",WHITE,0,Natural Fit
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",YELLOW,0,Natural Fit
+Railroad Conductors and Yardmasters,BLUE,0,Natural Fit
+Railroad Conductors and Yardmasters,RED,0,Natural Fit
+Railroad Conductors and Yardmasters,WHITE,0,Natural Fit
+Railroad Conductors and Yardmasters,YELLOW,0,Natural Fit
+Rail-Track Laying and Maintenance Equipment Operators,BLUE,0,Natural Fit
+Rail-Track Laying and Maintenance Equipment Operators,RED,0,Natural Fit
+Rail-Track Laying and Maintenance Equipment Operators,WHITE,0,Natural Fit
+Rail-Track Laying and Maintenance Equipment Operators,YELLOW,0,Natural Fit
+Range Managers,BLUE,0,Natural Fit
+Range Managers,RED,0,Natural Fit
+Range Managers,WHITE,0,Natural Fit
+Range Managers,YELLOW,0,Natural Fit
+Real Estate Brokers,BLUE,0,Natural Fit
+Real Estate Brokers,RED,0,Natural Fit
+Real Estate Brokers,WHITE,0.31,High RED
+Real Estate Brokers,YELLOW,0,Natural Fit
+Real Estate Sales Agents,BLUE,0,Natural Fit
+Real Estate Sales Agents,RED,0,Natural Fit
+Real Estate Sales Agents,WHITE,0,Natural Fit
+Real Estate Sales Agents,YELLOW,0,Natural Fit
+Receptionists and Information Clerks,BLUE,0,Natural Fit
+Receptionists and Information Clerks,RED,0,Natural Fit
+Receptionists and Information Clerks,WHITE,0,Natural Fit
+Receptionists and Information Clerks,YELLOW,0,Natural Fit
+"Recreation and Fitness Studies Teachers, Postsecondary",BLUE,0,Natural Fit
+"Recreation and Fitness Studies Teachers, Postsecondary",RED,0,Natural Fit
+"Recreation and Fitness Studies Teachers, Postsecondary",WHITE,0,Natural Fit
+"Recreation and Fitness Studies Teachers, Postsecondary",YELLOW,0,Natural Fit
+Recreation Workers,BLUE,0,Natural Fit
+Recreation Workers,RED,0,Natural Fit
+Recreation Workers,WHITE,0,Natural Fit
+Recreation Workers,YELLOW,0,Natural Fit
+Recreational Therapists,BLUE,0,Natural Fit
+Recreational Therapists,RED,0,Natural Fit
+Recreational Therapists,WHITE,0.2,High BLUE
+Recreational Therapists,YELLOW,0,Natural Fit
+Recreational Vehicle Service Technicians,BLUE,0,Natural Fit
+Recreational Vehicle Service Technicians,RED,0,Natural Fit
+Recreational Vehicle Service Technicians,WHITE,0,Natural Fit
+Recreational Vehicle Service Technicians,YELLOW,0,Natural Fit
+"Refractory Materials Repairers, Except Brickmasons",BLUE,0,Natural Fit
+"Refractory Materials Repairers, Except Brickmasons",RED,0,Natural Fit
+"Refractory Materials Repairers, Except Brickmasons",WHITE,0,Natural Fit
+"Refractory Materials Repairers, Except Brickmasons",YELLOW,0,Natural Fit
+Refuse and Recyclable Material Collectors,BLUE,0,Natural Fit
+Refuse and Recyclable Material Collectors,RED,0,Natural Fit
+Refuse and Recyclable Material Collectors,WHITE,0,Natural Fit
+Refuse and Recyclable Material Collectors,YELLOW,0,Natural Fit
+Registered Nurses,BLUE,0.249,High WHITE
+Registered Nurses,RED,0.43,High BLUE / High WHITE
+Registered Nurses,WHITE,0.322,High BLUE
+Registered Nurses,YELLOW,0.454,High BLUE / High WHITE
+Regulatory Affairs Managers,BLUE,0,Natural Fit
+Regulatory Affairs Managers,RED,0,Natural Fit
+Regulatory Affairs Managers,WHITE,0,Natural Fit
+Regulatory Affairs Managers,YELLOW,0,Natural Fit
+Regulatory Affairs Specialists,BLUE,0,Natural Fit
+Regulatory Affairs Specialists,RED,0,Natural Fit
+Regulatory Affairs Specialists,WHITE,0,Natural Fit
+Regulatory Affairs Specialists,YELLOW,0,Natural Fit
+Rehabilitation Counselors,BLUE,0,Natural Fit
+Rehabilitation Counselors,RED,0,Natural Fit
+Rehabilitation Counselors,WHITE,0,Natural Fit
+Rehabilitation Counselors,YELLOW,0,Natural Fit
+Reinforcing Iron and Rebar Workers,BLUE,0,Natural Fit
+Reinforcing Iron and Rebar Workers,RED,0,Natural Fit
+Reinforcing Iron and Rebar Workers,WHITE,0,Natural Fit
+Reinforcing Iron and Rebar Workers,YELLOW,0,Natural Fit
+Remote Sensing Scientists and Technologists,BLUE,0,Natural Fit
+Remote Sensing Scientists and Technologists,RED,0,Natural Fit
+Remote Sensing Scientists and Technologists,WHITE,0,Natural Fit
+Remote Sensing Scientists and Technologists,YELLOW,0,Natural Fit
+Remote Sensing Technicians,BLUE,0,Natural Fit
+Remote Sensing Technicians,RED,0,Natural Fit
+Remote Sensing Technicians,WHITE,0,Natural Fit
+Remote Sensing Technicians,YELLOW,0,Natural Fit
+Reservation and Transportation Ticket Agents and Travel Clerks,BLUE,0,Natural Fit
+Reservation and Transportation Ticket Agents and Travel Clerks,RED,0,Natural Fit
+Reservation and Transportation Ticket Agents and Travel Clerks,WHITE,0,Natural Fit
+Reservation and Transportation Ticket Agents and Travel Clerks,YELLOW,0,Natural Fit
+Residential Advisors,BLUE,0,Natural Fit
+Residential Advisors,RED,0.292,High BLUE
+Residential Advisors,WHITE,0.361,High BLUE
+Residential Advisors,YELLOW,0.316,High BLUE
+Respiratory Therapists,BLUE,0,Natural Fit
+Respiratory Therapists,RED,0.236,High WHITE
+Respiratory Therapists,WHITE,0,Natural Fit
+Respiratory Therapists,YELLOW,0.248,High WHITE
+Retail Loss Prevention Specialists,BLUE,0,Natural Fit
+Retail Loss Prevention Specialists,RED,0,Natural Fit
+Retail Loss Prevention Specialists,WHITE,0,Natural Fit
+Retail Loss Prevention Specialists,YELLOW,0,Natural Fit
+Retail Salespersons,BLUE,0,Natural Fit
+Retail Salespersons,RED,0,Natural Fit
+Retail Salespersons,WHITE,0,Natural Fit
+Retail Salespersons,YELLOW,0,Natural Fit
+Riggers,BLUE,0,Natural Fit
+Riggers,RED,0,Natural Fit
+Riggers,WHITE,0,Natural Fit
+Riggers,YELLOW,0,Natural Fit
+Robotics Engineers,BLUE,0,Natural Fit
+Robotics Engineers,RED,0,Natural Fit
+Robotics Engineers,WHITE,0,Natural Fit
+Robotics Engineers,YELLOW,0,Natural Fit
+Robotics Technicians,BLUE,0,Natural Fit
+Robotics Technicians,RED,0,Natural Fit
+Robotics Technicians,WHITE,0,Natural Fit
+Robotics Technicians,YELLOW,0,Natural Fit
+"Rock Splitters, Quarry",BLUE,0,Natural Fit
+"Rock Splitters, Quarry",RED,0,Natural Fit
+"Rock Splitters, Quarry",WHITE,0,Natural Fit
+"Rock Splitters, Quarry",YELLOW,0,Natural Fit
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",BLUE,0,Natural Fit
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",RED,0,Natural Fit
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",WHITE,0,Natural Fit
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",YELLOW,0,Natural Fit
+"Roof Bolters, Mining",BLUE,0,Natural Fit
+"Roof Bolters, Mining",RED,0,Natural Fit
+"Roof Bolters, Mining",WHITE,0,Natural Fit
+"Roof Bolters, Mining",YELLOW,0,Natural Fit
+Roofers,BLUE,0,Natural Fit
+Roofers,RED,0,Natural Fit
+Roofers,WHITE,0,Natural Fit
+Roofers,YELLOW,0,Natural Fit
+"Rotary Drill Operators, Oil and Gas",BLUE,0,Natural Fit
+"Rotary Drill Operators, Oil and Gas",RED,0,Natural Fit
+"Rotary Drill Operators, Oil and Gas",WHITE,0,Natural Fit
+"Rotary Drill Operators, Oil and Gas",YELLOW,0,Natural Fit
+"Roustabouts, Oil and Gas",BLUE,0,Natural Fit
+"Roustabouts, Oil and Gas",RED,0,Natural Fit
+"Roustabouts, Oil and Gas",WHITE,0,Natural Fit
+"Roustabouts, Oil and Gas",YELLOW,0,Natural Fit
+Sailors and Marine Oilers,BLUE,0,Natural Fit
+Sailors and Marine Oilers,RED,0,Natural Fit
+Sailors and Marine Oilers,WHITE,0,Natural Fit
+Sailors and Marine Oilers,YELLOW,0,Natural Fit
+Sales Engineers,BLUE,0.386,High YELLOW
+Sales Engineers,RED,0.361,High YELLOW
+Sales Engineers,WHITE,0.581,High RED / High YELLOW
+Sales Engineers,YELLOW,0.27,High YELLOW
+Sales Managers,BLUE,0,Natural Fit
+Sales Managers,RED,0,Natural Fit
+Sales Managers,WHITE,0.381,High RED
+Sales Managers,YELLOW,0,Natural Fit
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",BLUE,0,Natural Fit
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",RED,0,Natural Fit
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",WHITE,0,Natural Fit
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",YELLOW,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",BLUE,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",RED,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",WHITE,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",YELLOW,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",BLUE,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",RED,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",WHITE,0,Natural Fit
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",YELLOW,0,Natural Fit
+"Sawing Machine Setters, Operators, and Tenders, Wood",BLUE,0,Natural Fit
+"Sawing Machine Setters, Operators, and Tenders, Wood",RED,0,Natural Fit
+"Sawing Machine Setters, Operators, and Tenders, Wood",WHITE,0,Natural Fit
+"Sawing Machine Setters, Operators, and Tenders, Wood",YELLOW,0,Natural Fit
+School Bus Monitors,BLUE,0,Natural Fit
+School Bus Monitors,RED,0,Natural Fit
+School Bus Monitors,WHITE,0,Natural Fit
+School Bus Monitors,YELLOW,0,Natural Fit
+School Psychologists,BLUE,0,Natural Fit
+School Psychologists,RED,0.31,High BLUE
+School Psychologists,WHITE,0.519,High BLUE / High YELLOW
+School Psychologists,YELLOW,0.334,High BLUE
+Search Marketing Strategists,BLUE,0,Natural Fit
+Search Marketing Strategists,RED,0,Natural Fit
+Search Marketing Strategists,WHITE,0,Natural Fit
+Search Marketing Strategists,YELLOW,0,Natural Fit
+"Secondary School Teachers, Except Special and Career/Technical Education",BLUE,0,Natural Fit
+"Secondary School Teachers, Except Special and Career/Technical Education",RED,0.368,High BLUE
+"Secondary School Teachers, Except Special and Career/Technical Education",WHITE,0.486,High RED / High BLUE
+"Secondary School Teachers, Except Special and Career/Technical Education",YELLOW,0.392,High BLUE
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",BLUE,0,Natural Fit
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",RED,0,Natural Fit
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",WHITE,0,Natural Fit
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",YELLOW,0,Natural Fit
+"Securities, Commodities, and Financial Services Sales Agents",BLUE,0,Natural Fit
+"Securities, Commodities, and Financial Services Sales Agents",RED,0,Natural Fit
+"Securities, Commodities, and Financial Services Sales Agents",WHITE,0.363,High RED / High YELLOW
+"Securities, Commodities, and Financial Services Sales Agents",YELLOW,0,Natural Fit
+Security and Fire Alarm Systems Installers,BLUE,0,Natural Fit
+Security and Fire Alarm Systems Installers,RED,0,Natural Fit
+Security and Fire Alarm Systems Installers,WHITE,0,Natural Fit
+Security and Fire Alarm Systems Installers,YELLOW,0,Natural Fit
+Security Guards,BLUE,0,Natural Fit
+Security Guards,RED,0,Natural Fit
+Security Guards,WHITE,0,Natural Fit
+Security Guards,YELLOW,0,Natural Fit
+Security Management Specialists,BLUE,0,Natural Fit
+Security Management Specialists,RED,0,Natural Fit
+Security Management Specialists,WHITE,0,Natural Fit
+Security Management Specialists,YELLOW,0,Natural Fit
+Security Managers,BLUE,0,Natural Fit
+Security Managers,RED,0,Natural Fit
+Security Managers,WHITE,0,Natural Fit
+Security Managers,YELLOW,0,Natural Fit
+Segmental Pavers,BLUE,0,Natural Fit
+Segmental Pavers,RED,0,Natural Fit
+Segmental Pavers,WHITE,0,Natural Fit
+Segmental Pavers,YELLOW,0,Natural Fit
+Self-Enrichment Teachers,BLUE,0,Natural Fit
+Self-Enrichment Teachers,RED,0,Natural Fit
+Self-Enrichment Teachers,WHITE,0,Natural Fit
+Self-Enrichment Teachers,YELLOW,0,Natural Fit
+Semiconductor Processing Technicians,BLUE,0,Natural Fit
+Semiconductor Processing Technicians,RED,0,Natural Fit
+Semiconductor Processing Technicians,WHITE,0,Natural Fit
+Semiconductor Processing Technicians,YELLOW,0,Natural Fit
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+Septic Tank Servicers and Sewer Pipe Cleaners,BLUE,0,Natural Fit
+Septic Tank Servicers and Sewer Pipe Cleaners,RED,0,Natural Fit
+Septic Tank Servicers and Sewer Pipe Cleaners,WHITE,0,Natural Fit
+Septic Tank Servicers and Sewer Pipe Cleaners,YELLOW,0,Natural Fit
+"Service Unit Operators, Oil and Gas",BLUE,0,Natural Fit
+"Service Unit Operators, Oil and Gas",RED,0,Natural Fit
+"Service Unit Operators, Oil and Gas",WHITE,0,Natural Fit
+"Service Unit Operators, Oil and Gas",YELLOW,0,Natural Fit
+Set and Exhibit Designers,BLUE,0,Natural Fit
+Set and Exhibit Designers,RED,0,Natural Fit
+Set and Exhibit Designers,WHITE,0,Natural Fit
+Set and Exhibit Designers,YELLOW,0,Natural Fit
+"Sewers, Hand",BLUE,0,Natural Fit
+"Sewers, Hand",RED,0,Natural Fit
+"Sewers, Hand",WHITE,0,Natural Fit
+"Sewers, Hand",YELLOW,0,Natural Fit
+Sewing Machine Operators,BLUE,0,Natural Fit
+Sewing Machine Operators,RED,0,Natural Fit
+Sewing Machine Operators,WHITE,0,Natural Fit
+Sewing Machine Operators,YELLOW,0,Natural Fit
+Shampooers,BLUE,0,Natural Fit
+Shampooers,RED,0,Natural Fit
+Shampooers,WHITE,0,Natural Fit
+Shampooers,YELLOW,0,Natural Fit
+Sheet Metal Workers,BLUE,0,Natural Fit
+Sheet Metal Workers,RED,0,Natural Fit
+Sheet Metal Workers,WHITE,0,Natural Fit
+Sheet Metal Workers,YELLOW,0,Natural Fit
+Ship Engineers,BLUE,0,Natural Fit
+Ship Engineers,RED,0,Natural Fit
+Ship Engineers,WHITE,0,Natural Fit
+Ship Engineers,YELLOW,0,Natural Fit
+"Shipping, Receiving, and Inventory Clerks",BLUE,0,Natural Fit
+"Shipping, Receiving, and Inventory Clerks",RED,0,Natural Fit
+"Shipping, Receiving, and Inventory Clerks",WHITE,0,Natural Fit
+"Shipping, Receiving, and Inventory Clerks",YELLOW,0,Natural Fit
+Shoe and Leather Workers and Repairers,BLUE,0,Natural Fit
+Shoe and Leather Workers and Repairers,RED,0,Natural Fit
+Shoe and Leather Workers and Repairers,WHITE,0,Natural Fit
+Shoe and Leather Workers and Repairers,YELLOW,0,Natural Fit
+Shoe Machine Operators and Tenders,BLUE,0,Natural Fit
+Shoe Machine Operators and Tenders,RED,0,Natural Fit
+Shoe Machine Operators and Tenders,WHITE,0,Natural Fit
+Shoe Machine Operators and Tenders,YELLOW,0,Natural Fit
+Shuttle Drivers and Chauffeurs,BLUE,0,Natural Fit
+Shuttle Drivers and Chauffeurs,RED,0,Natural Fit
+Shuttle Drivers and Chauffeurs,WHITE,0,Natural Fit
+Shuttle Drivers and Chauffeurs,YELLOW,0,Natural Fit
+Signal and Track Switch Repairers,BLUE,0,Natural Fit
+Signal and Track Switch Repairers,RED,0,Natural Fit
+Signal and Track Switch Repairers,WHITE,0,Natural Fit
+Signal and Track Switch Repairers,YELLOW,0,Natural Fit
+Skincare Specialists,BLUE,0,Natural Fit
+Skincare Specialists,RED,0,Natural Fit
+Skincare Specialists,WHITE,0,Natural Fit
+Skincare Specialists,YELLOW,0,Natural Fit
+Slaughterers and Meat Packers,BLUE,0,Natural Fit
+Slaughterers and Meat Packers,RED,0,Natural Fit
+Slaughterers and Meat Packers,WHITE,0,Natural Fit
+Slaughterers and Meat Packers,YELLOW,0,Natural Fit
+Social and Community Service Managers,BLUE,0,Natural Fit
+Social and Community Service Managers,RED,0.314,High BLUE
+Social and Community Service Managers,WHITE,0.524,High RED / High BLUE
+Social and Community Service Managers,YELLOW,0.338,High BLUE
+Social and Human Service Assistants,BLUE,0,Natural Fit
+Social and Human Service Assistants,RED,0,Natural Fit
+Social and Human Service Assistants,WHITE,0,Natural Fit
+Social and Human Service Assistants,YELLOW,0,Natural Fit
+Social Science Research Assistants,BLUE,0,Natural Fit
+Social Science Research Assistants,RED,0,Natural Fit
+Social Science Research Assistants,WHITE,0,Natural Fit
+Social Science Research Assistants,YELLOW,0,Natural Fit
+"Social Work Teachers, Postsecondary",BLUE,0,Natural Fit
+"Social Work Teachers, Postsecondary",RED,0,Natural Fit
+"Social Work Teachers, Postsecondary",WHITE,0,Natural Fit
+"Social Work Teachers, Postsecondary",YELLOW,0,Natural Fit
+Sociologists,BLUE,0,Natural Fit
+Sociologists,RED,0,Natural Fit
+Sociologists,WHITE,0,Natural Fit
+Sociologists,YELLOW,0,Natural Fit
+"Sociology Teachers, Postsecondary",BLUE,0,Natural Fit
+"Sociology Teachers, Postsecondary",RED,0,Natural Fit
+"Sociology Teachers, Postsecondary",WHITE,0,Natural Fit
+"Sociology Teachers, Postsecondary",YELLOW,0,Natural Fit
+Software Developers,BLUE,0,Natural Fit
+Software Developers,RED,0,Natural Fit
+Software Developers,WHITE,0,Natural Fit
+Software Developers,YELLOW,0,Natural Fit
+Software Quality Assurance Analysts and Testers,BLUE,0,Natural Fit
+Software Quality Assurance Analysts and Testers,RED,0,Natural Fit
+Software Quality Assurance Analysts and Testers,WHITE,0,Natural Fit
+Software Quality Assurance Analysts and Testers,YELLOW,0,Natural Fit
+Soil and Plant Scientists,BLUE,0,Natural Fit
+Soil and Plant Scientists,RED,0,Natural Fit
+Soil and Plant Scientists,WHITE,0,Natural Fit
+Soil and Plant Scientists,YELLOW,0,Natural Fit
+Solar Photovoltaic Installers,BLUE,0,Natural Fit
+Solar Photovoltaic Installers,RED,0,Natural Fit
+Solar Photovoltaic Installers,WHITE,0,Natural Fit
+Solar Photovoltaic Installers,YELLOW,0,Natural Fit
+Sound Engineering Technicians,BLUE,0,Natural Fit
+Sound Engineering Technicians,RED,0,Natural Fit
+Sound Engineering Technicians,WHITE,0,Natural Fit
+Sound Engineering Technicians,YELLOW,0,Natural Fit
+Spa Managers,BLUE,0,Natural Fit
+Spa Managers,RED,0,Natural Fit
+Spa Managers,WHITE,0,Natural Fit
+Spa Managers,YELLOW,0,Natural Fit
+"Special Education Teachers, Elementary School",BLUE,0.202,High BLUE
+"Special Education Teachers, Elementary School",RED,0.371,High BLUE
+"Special Education Teachers, Elementary School",WHITE,0.44,High BLUE
+"Special Education Teachers, Elementary School",YELLOW,0.395,High BLUE
+"Special Education Teachers, Kindergarten",BLUE,0.207,High BLUE
+"Special Education Teachers, Kindergarten",RED,0.376,High BLUE
+"Special Education Teachers, Kindergarten",WHITE,0.444,High BLUE
+"Special Education Teachers, Kindergarten",YELLOW,0.4,High BLUE
+"Special Education Teachers, Middle School",BLUE,0.202,High BLUE
+"Special Education Teachers, Middle School",RED,0.371,High BLUE
+"Special Education Teachers, Middle School",WHITE,0.439,High BLUE
+"Special Education Teachers, Middle School",YELLOW,0.394,High BLUE
+"Special Education Teachers, Preschool",BLUE,0.215,High BLUE
+"Special Education Teachers, Preschool",RED,0.383,High BLUE
+"Special Education Teachers, Preschool",WHITE,0.452,High BLUE
+"Special Education Teachers, Preschool",YELLOW,0.407,High BLUE
+"Special Education Teachers, Secondary School",BLUE,0.206,High BLUE
+"Special Education Teachers, Secondary School",RED,0.375,High BLUE
+"Special Education Teachers, Secondary School",WHITE,0.444,High BLUE
+"Special Education Teachers, Secondary School",YELLOW,0.399,High BLUE
+Special Effects Artists and Animators,BLUE,0,Natural Fit
+Special Effects Artists and Animators,RED,0,Natural Fit
+Special Effects Artists and Animators,WHITE,0,Natural Fit
+Special Effects Artists and Animators,YELLOW,0,Natural Fit
+Speech-Language Pathologists,BLUE,0,Natural Fit
+Speech-Language Pathologists,RED,0,Natural Fit
+Speech-Language Pathologists,WHITE,0,Natural Fit
+Speech-Language Pathologists,YELLOW,0,Natural Fit
+Speech-Language Pathology Assistants,BLUE,0,Natural Fit
+Speech-Language Pathology Assistants,RED,0,Natural Fit
+Speech-Language Pathology Assistants,WHITE,0,Natural Fit
+Speech-Language Pathology Assistants,YELLOW,0,Natural Fit
+Sports Medicine Physicians,BLUE,0,Natural Fit
+Sports Medicine Physicians,RED,0.267,High BLUE
+Sports Medicine Physicians,WHITE,0.484,High BLUE / High YELLOW
+Sports Medicine Physicians,YELLOW,0.291,High BLUE
+Stationary Engineers and Boiler Operators,BLUE,0,Natural Fit
+Stationary Engineers and Boiler Operators,RED,0,Natural Fit
+Stationary Engineers and Boiler Operators,WHITE,0,Natural Fit
+Stationary Engineers and Boiler Operators,YELLOW,0,Natural Fit
+Statistical Assistants,BLUE,0,Natural Fit
+Statistical Assistants,RED,0,Natural Fit
+Statistical Assistants,WHITE,0,Natural Fit
+Statistical Assistants,YELLOW,0,Natural Fit
+Statisticians,BLUE,0,Natural Fit
+Statisticians,RED,0,Natural Fit
+Statisticians,WHITE,0,Natural Fit
+Statisticians,YELLOW,0,Natural Fit
+Stockers and Order Fillers,BLUE,0,Natural Fit
+Stockers and Order Fillers,RED,0,Natural Fit
+Stockers and Order Fillers,WHITE,0,Natural Fit
+Stockers and Order Fillers,YELLOW,0,Natural Fit
+"Stone Cutters and Carvers, Manufacturing",BLUE,0,Natural Fit
+"Stone Cutters and Carvers, Manufacturing",RED,0,Natural Fit
+"Stone Cutters and Carvers, Manufacturing",WHITE,0,Natural Fit
+"Stone Cutters and Carvers, Manufacturing",YELLOW,0,Natural Fit
+Stonemasons,BLUE,0,Natural Fit
+Stonemasons,RED,0,Natural Fit
+Stonemasons,WHITE,0,Natural Fit
+Stonemasons,YELLOW,0,Natural Fit
+Structural Iron and Steel Workers,BLUE,0,Natural Fit
+Structural Iron and Steel Workers,RED,0,Natural Fit
+Structural Iron and Steel Workers,WHITE,0,Natural Fit
+Structural Iron and Steel Workers,YELLOW,0,Natural Fit
+Structural Metal Fabricators and Fitters,BLUE,0,Natural Fit
+Structural Metal Fabricators and Fitters,RED,0,Natural Fit
+Structural Metal Fabricators and Fitters,WHITE,0,Natural Fit
+Structural Metal Fabricators and Fitters,YELLOW,0,Natural Fit
+Substance Abuse and Behavioral Disorder Counselors,BLUE,0,Natural Fit
+Substance Abuse and Behavioral Disorder Counselors,RED,0.268,High BLUE
+Substance Abuse and Behavioral Disorder Counselors,WHITE,0.337,High BLUE
+Substance Abuse and Behavioral Disorder Counselors,YELLOW,0.292,High BLUE
+"Substitute Teachers, Short-Term",BLUE,0,Natural Fit
+"Substitute Teachers, Short-Term",RED,0,Natural Fit
+"Substitute Teachers, Short-Term",WHITE,0.22,High BLUE
+"Substitute Teachers, Short-Term",YELLOW,0,Natural Fit
+Subway and Streetcar Operators,BLUE,0,Natural Fit
+Subway and Streetcar Operators,RED,0,Natural Fit
+Subway and Streetcar Operators,WHITE,0,Natural Fit
+Subway and Streetcar Operators,YELLOW,0,Natural Fit
+Supply Chain Managers,BLUE,0,Natural Fit
+Supply Chain Managers,RED,0,Natural Fit
+Supply Chain Managers,WHITE,0,Natural Fit
+Supply Chain Managers,YELLOW,0,Natural Fit
+Surgical Assistants,BLUE,0,Natural Fit
+Surgical Assistants,RED,0,Natural Fit
+Surgical Assistants,WHITE,0,Natural Fit
+Surgical Assistants,YELLOW,0,Natural Fit
+Surgical Technologists,BLUE,0,Natural Fit
+Surgical Technologists,RED,0,Natural Fit
+Surgical Technologists,WHITE,0,Natural Fit
+Surgical Technologists,YELLOW,0,Natural Fit
+Survey Researchers,BLUE,0,Natural Fit
+Survey Researchers,RED,0,Natural Fit
+Survey Researchers,WHITE,0,Natural Fit
+Survey Researchers,YELLOW,0,Natural Fit
+Surveying and Mapping Technicians,BLUE,0,Natural Fit
+Surveying and Mapping Technicians,RED,0,Natural Fit
+Surveying and Mapping Technicians,WHITE,0,Natural Fit
+Surveying and Mapping Technicians,YELLOW,0,Natural Fit
+Surveyors,BLUE,0,Natural Fit
+Surveyors,RED,0,Natural Fit
+Surveyors,WHITE,0,Natural Fit
+Surveyors,YELLOW,0,Natural Fit
+"Switchboard Operators, Including Answering Service",BLUE,0,Natural Fit
+"Switchboard Operators, Including Answering Service",RED,0,Natural Fit
+"Switchboard Operators, Including Answering Service",WHITE,0,Natural Fit
+"Switchboard Operators, Including Answering Service",YELLOW,0,Natural Fit
+"Tailors, Dressmakers, and Custom Sewers",BLUE,0,Natural Fit
+"Tailors, Dressmakers, and Custom Sewers",RED,0,Natural Fit
+"Tailors, Dressmakers, and Custom Sewers",WHITE,0,Natural Fit
+"Tailors, Dressmakers, and Custom Sewers",YELLOW,0,Natural Fit
+Talent Directors,BLUE,0,Natural Fit
+Talent Directors,RED,0,Natural Fit
+Talent Directors,WHITE,0,Natural Fit
+Talent Directors,YELLOW,0,Natural Fit
+"Tank Car, Truck, and Ship Loaders",BLUE,0,Natural Fit
+"Tank Car, Truck, and Ship Loaders",RED,0,Natural Fit
+"Tank Car, Truck, and Ship Loaders",WHITE,0,Natural Fit
+"Tank Car, Truck, and Ship Loaders",YELLOW,0,Natural Fit
+Tapers,BLUE,0,Natural Fit
+Tapers,RED,0,Natural Fit
+Tapers,WHITE,0,Natural Fit
+Tapers,YELLOW,0,Natural Fit
+"Tax Examiners and Collectors, and Revenue Agents",BLUE,0,Natural Fit
+"Tax Examiners and Collectors, and Revenue Agents",RED,0,Natural Fit
+"Tax Examiners and Collectors, and Revenue Agents",WHITE,0,Natural Fit
+"Tax Examiners and Collectors, and Revenue Agents",YELLOW,0,Natural Fit
+Tax Preparers,BLUE,0,Natural Fit
+Tax Preparers,RED,0,Natural Fit
+Tax Preparers,WHITE,0,Natural Fit
+Tax Preparers,YELLOW,0,Natural Fit
+Taxi Drivers,BLUE,0,Natural Fit
+Taxi Drivers,RED,0,Natural Fit
+Taxi Drivers,WHITE,0,Natural Fit
+Taxi Drivers,YELLOW,0,Natural Fit
+"Teaching Assistants, Postsecondary",BLUE,0,Natural Fit
+"Teaching Assistants, Postsecondary",RED,0,Natural Fit
+"Teaching Assistants, Postsecondary",WHITE,0,Natural Fit
+"Teaching Assistants, Postsecondary",YELLOW,0,Natural Fit
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",BLUE,0,Natural Fit
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",RED,0,Natural Fit
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",WHITE,0,Natural Fit
+"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",YELLOW,0,Natural Fit
+"Teaching Assistants, Special Education",BLUE,0,Natural Fit
+"Teaching Assistants, Special Education",RED,0,Natural Fit
+"Teaching Assistants, Special Education",WHITE,0,Natural Fit
+"Teaching Assistants, Special Education",YELLOW,0,Natural Fit
+Team Assemblers,BLUE,0,Natural Fit
+Team Assemblers,RED,0,Natural Fit
+Team Assemblers,WHITE,0,Natural Fit
+Team Assemblers,YELLOW,0,Natural Fit
+Technical Writers,BLUE,0,Natural Fit
+Technical Writers,RED,0,Natural Fit
+Technical Writers,WHITE,0,Natural Fit
+Technical Writers,YELLOW,0,Natural Fit
+Telecommunications Engineering Specialists,BLUE,0,Natural Fit
+Telecommunications Engineering Specialists,RED,0,Natural Fit
+Telecommunications Engineering Specialists,WHITE,0,Natural Fit
+Telecommunications Engineering Specialists,YELLOW,0,Natural Fit
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",BLUE,0,Natural Fit
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",RED,0,Natural Fit
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",WHITE,0,Natural Fit
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",YELLOW,0,Natural Fit
+Telecommunications Line Installers and Repairers,BLUE,0,Natural Fit
+Telecommunications Line Installers and Repairers,RED,0,Natural Fit
+Telecommunications Line Installers and Repairers,WHITE,0,Natural Fit
+Telecommunications Line Installers and Repairers,YELLOW,0,Natural Fit
+Telemarketers,BLUE,0,Natural Fit
+Telemarketers,RED,0,Natural Fit
+Telemarketers,WHITE,0,Natural Fit
+Telemarketers,YELLOW,0,Natural Fit
+Telephone Operators,BLUE,0,Natural Fit
+Telephone Operators,RED,0,Natural Fit
+Telephone Operators,WHITE,0,Natural Fit
+Telephone Operators,YELLOW,0,Natural Fit
+Tellers,BLUE,0,Natural Fit
+Tellers,RED,0,Natural Fit
+Tellers,WHITE,0,Natural Fit
+Tellers,YELLOW,0,Natural Fit
+Terrazzo Workers and Finishers,BLUE,0,Natural Fit
+Terrazzo Workers and Finishers,RED,0,Natural Fit
+Terrazzo Workers and Finishers,WHITE,0,Natural Fit
+Terrazzo Workers and Finishers,YELLOW,0,Natural Fit
+Textile Bleaching and Dyeing Machine Operators and Tenders,BLUE,0,Natural Fit
+Textile Bleaching and Dyeing Machine Operators and Tenders,RED,0,Natural Fit
+Textile Bleaching and Dyeing Machine Operators and Tenders,WHITE,0,Natural Fit
+Textile Bleaching and Dyeing Machine Operators and Tenders,YELLOW,0,Natural Fit
+"Textile Cutting Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Textile Cutting Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Textile Cutting Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Textile Cutting Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+Tile and Stone Setters,BLUE,0,Natural Fit
+Tile and Stone Setters,RED,0,Natural Fit
+Tile and Stone Setters,WHITE,0,Natural Fit
+Tile and Stone Setters,YELLOW,0,Natural Fit
+Timing Device Assemblers and Adjusters,BLUE,0,Natural Fit
+Timing Device Assemblers and Adjusters,RED,0,Natural Fit
+Timing Device Assemblers and Adjusters,WHITE,0,Natural Fit
+Timing Device Assemblers and Adjusters,YELLOW,0,Natural Fit
+Tire Builders,BLUE,0,Natural Fit
+Tire Builders,RED,0,Natural Fit
+Tire Builders,WHITE,0,Natural Fit
+Tire Builders,YELLOW,0,Natural Fit
+Tire Repairers and Changers,BLUE,0,Natural Fit
+Tire Repairers and Changers,RED,0,Natural Fit
+Tire Repairers and Changers,WHITE,0,Natural Fit
+Tire Repairers and Changers,YELLOW,0,Natural Fit
+"Title Examiners, Abstractors, and Searchers",BLUE,0,Natural Fit
+"Title Examiners, Abstractors, and Searchers",RED,0,Natural Fit
+"Title Examiners, Abstractors, and Searchers",WHITE,0,Natural Fit
+"Title Examiners, Abstractors, and Searchers",YELLOW,0,Natural Fit
+Tool and Die Makers,BLUE,0,Natural Fit
+Tool and Die Makers,RED,0,Natural Fit
+Tool and Die Makers,WHITE,0,Natural Fit
+Tool and Die Makers,YELLOW,0,Natural Fit
+"Tool Grinders, Filers, and Sharpeners",BLUE,0,Natural Fit
+"Tool Grinders, Filers, and Sharpeners",RED,0,Natural Fit
+"Tool Grinders, Filers, and Sharpeners",WHITE,0,Natural Fit
+"Tool Grinders, Filers, and Sharpeners",YELLOW,0,Natural Fit
+Tour Guides and Escorts,BLUE,0,Natural Fit
+Tour Guides and Escorts,RED,0,Natural Fit
+Tour Guides and Escorts,WHITE,0,Natural Fit
+Tour Guides and Escorts,YELLOW,0,Natural Fit
+Traffic Technicians,BLUE,0,Natural Fit
+Traffic Technicians,RED,0,Natural Fit
+Traffic Technicians,WHITE,0,Natural Fit
+Traffic Technicians,YELLOW,0,Natural Fit
+Training and Development Managers,BLUE,0.332,High YELLOW
+Training and Development Managers,RED,0.307,High YELLOW
+Training and Development Managers,WHITE,0.558,High RED / High YELLOW
+Training and Development Managers,YELLOW,0.215,High YELLOW
+Training and Development Specialists,BLUE,0,Natural Fit
+Training and Development Specialists,RED,0,Natural Fit
+Training and Development Specialists,WHITE,0.235,High YELLOW
+Training and Development Specialists,YELLOW,0,Natural Fit
+Transit and Railroad Police,BLUE,0,Natural Fit
+Transit and Railroad Police,RED,0,Natural Fit
+Transit and Railroad Police,WHITE,0,Natural Fit
+Transit and Railroad Police,YELLOW,0,Natural Fit
+Transportation Engineers,BLUE,0,Natural Fit
+Transportation Engineers,RED,0,Natural Fit
+Transportation Engineers,WHITE,0,Natural Fit
+Transportation Engineers,YELLOW,0,Natural Fit
+Transportation Inspectors,BLUE,0,Natural Fit
+Transportation Inspectors,RED,0,Natural Fit
+Transportation Inspectors,WHITE,0,Natural Fit
+Transportation Inspectors,YELLOW,0,Natural Fit
+Transportation Planners,BLUE,0,Natural Fit
+Transportation Planners,RED,0,Natural Fit
+Transportation Planners,WHITE,0,Natural Fit
+Transportation Planners,YELLOW,0,Natural Fit
+Transportation Security Screeners,BLUE,0,Natural Fit
+Transportation Security Screeners,RED,0,Natural Fit
+Transportation Security Screeners,WHITE,0,Natural Fit
+Transportation Security Screeners,YELLOW,0,Natural Fit
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",BLUE,0,Natural Fit
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",RED,0,Natural Fit
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",WHITE,0,Natural Fit
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",YELLOW,0,Natural Fit
+"Transportation, Storage, and Distribution Managers",BLUE,0,Natural Fit
+"Transportation, Storage, and Distribution Managers",RED,0,Natural Fit
+"Transportation, Storage, and Distribution Managers",WHITE,0,Natural Fit
+"Transportation, Storage, and Distribution Managers",YELLOW,0,Natural Fit
+Travel Agents,BLUE,0,Natural Fit
+Travel Agents,RED,0,Natural Fit
+Travel Agents,WHITE,0,Natural Fit
+Travel Agents,YELLOW,0,Natural Fit
+Travel Guides,BLUE,0,Natural Fit
+Travel Guides,RED,0,Natural Fit
+Travel Guides,WHITE,0,Natural Fit
+Travel Guides,YELLOW,0,Natural Fit
+Treasurers and Controllers,BLUE,0,Natural Fit
+Treasurers and Controllers,RED,0,Natural Fit
+Treasurers and Controllers,WHITE,0,Natural Fit
+Treasurers and Controllers,YELLOW,0,Natural Fit
+Tree Trimmers and Pruners,BLUE,0,Natural Fit
+Tree Trimmers and Pruners,RED,0,Natural Fit
+Tree Trimmers and Pruners,WHITE,0,Natural Fit
+Tree Trimmers and Pruners,YELLOW,0,Natural Fit
+Tutors,BLUE,0,Natural Fit
+Tutors,RED,0,Natural Fit
+Tutors,WHITE,0,Natural Fit
+Tutors,YELLOW,0,Natural Fit
+"Umpires, Referees, and Other Sports Officials",BLUE,0,Natural Fit
+"Umpires, Referees, and Other Sports Officials",RED,0,Natural Fit
+"Umpires, Referees, and Other Sports Officials",WHITE,0,Natural Fit
+"Umpires, Referees, and Other Sports Officials",YELLOW,0,Natural Fit
+Upholsterers,BLUE,0,Natural Fit
+Upholsterers,RED,0,Natural Fit
+Upholsterers,WHITE,0,Natural Fit
+Upholsterers,YELLOW,0,Natural Fit
+Urban and Regional Planners,BLUE,0,Natural Fit
+Urban and Regional Planners,RED,0,Natural Fit
+Urban and Regional Planners,WHITE,0,Natural Fit
+Urban and Regional Planners,YELLOW,0,Natural Fit
+Urologists,BLUE,0,Natural Fit
+Urologists,RED,0,Natural Fit
+Urologists,WHITE,0,Natural Fit
+Urologists,YELLOW,0,Natural Fit
+"Ushers, Lobby Attendants, and Ticket Takers",BLUE,0,Natural Fit
+"Ushers, Lobby Attendants, and Ticket Takers",RED,0,Natural Fit
+"Ushers, Lobby Attendants, and Ticket Takers",WHITE,0,Natural Fit
+"Ushers, Lobby Attendants, and Ticket Takers",YELLOW,0,Natural Fit
+Validation Engineers,BLUE,0,Natural Fit
+Validation Engineers,RED,0,Natural Fit
+Validation Engineers,WHITE,0,Natural Fit
+Validation Engineers,YELLOW,0,Natural Fit
+Veterinarians,BLUE,0,Natural Fit
+Veterinarians,RED,0,Natural Fit
+Veterinarians,WHITE,0,Natural Fit
+Veterinarians,YELLOW,0,Natural Fit
+Veterinary Assistants and Laboratory Animal Caretakers,BLUE,0,Natural Fit
+Veterinary Assistants and Laboratory Animal Caretakers,RED,0,Natural Fit
+Veterinary Assistants and Laboratory Animal Caretakers,WHITE,0,Natural Fit
+Veterinary Assistants and Laboratory Animal Caretakers,YELLOW,0,Natural Fit
+Veterinary Technologists and Technicians,BLUE,0,Natural Fit
+Veterinary Technologists and Technicians,RED,0,Natural Fit
+Veterinary Technologists and Technicians,WHITE,0,Natural Fit
+Veterinary Technologists and Technicians,YELLOW,0,Natural Fit
+Video Game Designers,BLUE,0,Natural Fit
+Video Game Designers,RED,0,Natural Fit
+Video Game Designers,WHITE,0,Natural Fit
+Video Game Designers,YELLOW,0,Natural Fit
+Waiters and Waitresses,BLUE,0,Natural Fit
+Waiters and Waitresses,RED,0,Natural Fit
+Waiters and Waitresses,WHITE,0,Natural Fit
+Waiters and Waitresses,YELLOW,0,Natural Fit
+Watch and Clock Repairers,BLUE,0,Natural Fit
+Watch and Clock Repairers,RED,0,Natural Fit
+Watch and Clock Repairers,WHITE,0,Natural Fit
+Watch and Clock Repairers,YELLOW,0,Natural Fit
+Water and Wastewater Treatment Plant and System Operators,BLUE,0,Natural Fit
+Water and Wastewater Treatment Plant and System Operators,RED,0,Natural Fit
+Water and Wastewater Treatment Plant and System Operators,WHITE,0,Natural Fit
+Water and Wastewater Treatment Plant and System Operators,YELLOW,0,Natural Fit
+Web Administrators,BLUE,0,Natural Fit
+Web Administrators,RED,0,Natural Fit
+Web Administrators,WHITE,0,Natural Fit
+Web Administrators,YELLOW,0,Natural Fit
+Web and Digital Interface Designers,BLUE,0,Natural Fit
+Web and Digital Interface Designers,RED,0,Natural Fit
+Web and Digital Interface Designers,WHITE,0,Natural Fit
+Web and Digital Interface Designers,YELLOW,0,Natural Fit
+Web Developers,BLUE,0,Natural Fit
+Web Developers,RED,0,Natural Fit
+Web Developers,WHITE,0,Natural Fit
+Web Developers,YELLOW,0,Natural Fit
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",BLUE,0,Natural Fit
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",RED,0,Natural Fit
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",WHITE,0,Natural Fit
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",YELLOW,0,Natural Fit
+"Welders, Cutters, Solderers, and Brazers",BLUE,0,Natural Fit
+"Welders, Cutters, Solderers, and Brazers",RED,0,Natural Fit
+"Welders, Cutters, Solderers, and Brazers",WHITE,0,Natural Fit
+"Welders, Cutters, Solderers, and Brazers",YELLOW,0,Natural Fit
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",BLUE,0,Natural Fit
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",RED,0,Natural Fit
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",WHITE,0,Natural Fit
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",YELLOW,0,Natural Fit
+Wellhead Pumpers,BLUE,0,Natural Fit
+Wellhead Pumpers,RED,0,Natural Fit
+Wellhead Pumpers,WHITE,0,Natural Fit
+Wellhead Pumpers,YELLOW,0,Natural Fit
+"Wholesale and Retail Buyers, Except Farm Products",BLUE,0,Natural Fit
+"Wholesale and Retail Buyers, Except Farm Products",RED,0,Natural Fit
+"Wholesale and Retail Buyers, Except Farm Products",WHITE,0,Natural Fit
+"Wholesale and Retail Buyers, Except Farm Products",YELLOW,0,Natural Fit
+Wind Turbine Service Technicians,BLUE,0,Natural Fit
+Wind Turbine Service Technicians,RED,0,Natural Fit
+Wind Turbine Service Technicians,WHITE,0,Natural Fit
+Wind Turbine Service Technicians,YELLOW,0,Natural Fit
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",BLUE,0,Natural Fit
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",RED,0,Natural Fit
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",WHITE,0,Natural Fit
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",YELLOW,0,Natural Fit
+Word Processors and Typists,BLUE,0,Natural Fit
+Word Processors and Typists,RED,0,Natural Fit
+Word Processors and Typists,WHITE,0,Natural Fit
+Word Processors and Typists,YELLOW,0,Natural Fit
+Writers and Authors,BLUE,0,Natural Fit
+Writers and Authors,RED,0,Natural Fit
+Writers and Authors,WHITE,0,Natural Fit
+Writers and Authors,YELLOW,0,Natural Fit
+Zoologists and Wildlife Biologists,BLUE,0,Natural Fit
+Zoologists and Wildlife Biologists,RED,0,Natural Fit
+Zoologists and Wildlife Biologists,WHITE,0,Natural Fit
+Zoologists and Wildlife Biologists,YELLOW,0,Natural Fit
+Grand Total,BLUE,0,Natural Fit
+Grand Total,RED,0,Natural Fit
+Grand Total,WHITE,0,Natural Fit
+Grand Total,YELLOW,0,Natural Fit
